@@ -1,0 +1,28 @@
+{
+  "model": "MMaDA-8B-MixCoT",
+  "adapter": "mmada",
+  "n": 5,
+  "overall_accuracy": 0.6,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 3,
+      "accuracy": 0.6,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.4718934535980225,
+    "median": 0.3310551643371582,
+    "p95": 0.33293819427490234,
+    "min": 0.32581639289855957,
+    "max": 1.0422301292419434,
+    "total_minutes": 0.039333450794219973
+  },
+  "gpu_memory_gb": {
+    "weights": 16.549192192,
+    "peak_allocated": 20.396652544,
+    "peak_reserved": 26.29828608
+  },
+  "setup_seconds": 50.63573217391968
+}

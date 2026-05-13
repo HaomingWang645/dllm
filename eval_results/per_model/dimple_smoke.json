@@ -1,0 +1,28 @@
+{
+  "model": "Dimple-7B",
+  "adapter": "dimple",
+  "n": 5,
+  "overall_accuracy": 0.4,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 2,
+      "accuracy": 0.4,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.25168495178222655,
+    "median": 0.10430359840393066,
+    "p95": 0.10641908645629883,
+    "min": 0.1002500057220459,
+    "max": 0.847076416015625,
+    "total_minutes": 0.0209804097811381
+  },
+  "gpu_memory_gb": {
+    "weights": 16.687615488,
+    "peak_allocated": 16.91168768,
+    "peak_reserved": 17.116954624
+  },
+  "setup_seconds": 53.59789490699768
+}

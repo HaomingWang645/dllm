@@ -1,0 +1,28 @@
+{
+  "model": "Lumina-DiMOO",
+  "adapter": "lumina_dimoo",
+  "n": 5,
+  "overall_accuracy": 0.2,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 1,
+      "accuracy": 0.2,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 9.78802556991577,
+    "median": 9.747408390045166,
+    "p95": 9.771222829818726,
+    "min": 9.660210371017456,
+    "max": 10.06660270690918,
+    "total_minutes": 0.8156816760698954
+  },
+  "gpu_memory_gb": {
+    "weights": 16.753636864,
+    "peak_allocated": 30.976928256,
+    "peak_reserved": 52.045021184
+  },
+  "setup_seconds": 50.4982635974884
+}

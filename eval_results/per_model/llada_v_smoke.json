@@ -1,0 +1,28 @@
+{
+  "model": "LLaDA-V",
+  "adapter": "llada_v",
+  "n": 5,
+  "overall_accuracy": 0.0,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 0,
+      "accuracy": 0.0,
+      "parse_fail": 2
+    }
+  },
+  "latency_s": {
+    "mean": 1.8290824890136719,
+    "median": 1.7505223751068115,
+    "p95": 1.8537120819091797,
+    "min": 1.5924978256225586,
+    "max": 2.284130573272705,
+    "total_minutes": 0.1524327834447225
+  },
+  "gpu_memory_gb": {
+    "weights": 17.149701632,
+    "peak_allocated": 32.486416896,
+    "peak_reserved": 37.6963072
+  },
+  "setup_seconds": 56.74056434631348
+}

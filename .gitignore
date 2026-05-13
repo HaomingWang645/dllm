@@ -1,1 +1,4 @@
 benchmarks/
+*.pyc
+*.log
+__pycache__/

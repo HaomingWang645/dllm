@@ -1,0 +1,28 @@
+{
+  "model": "Muddit-1B",
+  "adapter": "muddit",
+  "n": 5,
+  "overall_accuracy": 0.2,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 1,
+      "accuracy": 0.2,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 2.991587924957275,
+    "median": 2.834606409072876,
+    "p95": 2.8970608711242676,
+    "min": 2.812775135040283,
+    "max": 3.586735486984253,
+    "total_minutes": 0.24932001829147338
+  },
+  "gpu_memory_gb": {
+    "weights": 6.237170176,
+    "peak_allocated": 11.279944704,
+    "peak_reserved": 15.061745664
+  },
+  "setup_seconds": 2.2078917026519775
+}

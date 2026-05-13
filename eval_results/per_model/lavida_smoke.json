@@ -1,0 +1,28 @@
+{
+  "model": "LaViDa-LLaDa",
+  "adapter": "lavida",
+  "n": 5,
+  "overall_accuracy": 0.0,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 0,
+      "accuracy": 0.0,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.5762239456176758,
+    "median": 0.49664998054504395,
+    "p95": 0.5070655345916748,
+    "min": 0.49484825134277344,
+    "max": 0.8867955207824707,
+    "total_minutes": 0.04802718957265218
+  },
+  "gpu_memory_gb": {
+    "weights": 16.880262144,
+    "peak_allocated": 19.717907456,
+    "peak_reserved": 22.225616896
+  },
+  "setup_seconds": 5.036690950393677
+}

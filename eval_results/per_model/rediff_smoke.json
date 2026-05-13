@@ -1,0 +1,28 @@
+{
+  "model": "ReDiff",
+  "adapter": "rediff",
+  "n": 5,
+  "overall_accuracy": 0.4,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 2,
+      "accuracy": 0.4,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 3.0632622718811033,
+    "median": 3.0108728408813477,
+    "p95": 3.0630593299865723,
+    "min": 2.991983652114868,
+    "max": 3.239901304244995,
+    "total_minutes": 0.2552901029586792
+  },
+  "gpu_memory_gb": {
+    "weights": 17.149701632,
+    "peak_allocated": 32.547762688,
+    "peak_reserved": 37.731958784
+  },
+  "setup_seconds": 4.802881717681885
+}

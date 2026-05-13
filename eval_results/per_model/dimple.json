@@ -1,0 +1,52 @@
+{
+  "model": "Dimple-7B",
+  "adapter": "dimple",
+  "n": 5712,
+  "overall_accuracy": 0.3783263305322129,
+  "per_task": {
+    "Camera perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 309,
+      "accuracy": 0.3102409638554217,
+      "parse_fail": 0
+    },
+    "Camera perspective - Relative Direction": {
+      "n": 1773,
+      "correct": 733,
+      "accuracy": 0.41342357586012407,
+      "parse_fail": 0
+    },
+    "Person perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 478,
+      "accuracy": 0.4799196787148594,
+      "parse_fail": 0
+    },
+    "Person perspective - Relative Direction": {
+      "n": 842,
+      "correct": 285,
+      "accuracy": 0.33847980997624705,
+      "parse_fail": 0
+    },
+    "Person perspective - Scene Simulation Relative Direction": {
+      "n": 1105,
+      "correct": 356,
+      "accuracy": 0.3221719457013575,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.09359109372484918,
+    "median": 0.09266078472137451,
+    "p95": 0.10077667236328125,
+    "min": 0.06180977821350098,
+    "max": 1.3277935981750488,
+    "total_minutes": 8.910889824231466
+  },
+  "gpu_memory_gb": {
+    "weights": 16.687615488,
+    "peak_allocated": 16.928442368,
+    "peak_reserved": 17.649631232
+  },
+  "setup_seconds": 5.033341407775879
+}
