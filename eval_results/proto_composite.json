@@ -1,0 +1,88 @@
+{
+  "model": "hustvl/DiffusionVL-Qwen2.5VL-7B",
+  "config": {
+    "bench": "mindcube",
+    "per_task_limit": 3,
+    "gen_length": 8,
+    "steps": 4,
+    "out": "/home/haoming/dllm/eval_results/proto_composite.json",
+    "log_every": 5,
+    "composite": true
+  },
+  "benchmarks": {
+    "MindCube-tinybench": {
+      "n": 27,
+      "overall_accuracy": 0.6296296296296297,
+      "per_task": {
+        "0_frame": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "1_frame": {
+          "n": 3,
+          "correct": 1,
+          "accuracy": 0.3333333333333333,
+          "parse_fail": 0
+        },
+        "2_frame": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "3_frame": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "general": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "int_1": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "int_2": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "int_3": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "three_view": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        }
+      },
+      "latency_s": {
+        "mean": 0.32012639222321687,
+        "median": 0.21714115142822266,
+        "p95": 0.9530594348907471,
+        "min": 0.10488605499267578,
+        "max": 0.9949512481689453,
+        "total_minutes": 0.18952864011128742
+      }
+    }
+  },
+  "gpu_memory": {
+    "allocated_gb": 16.621493248,
+    "reserved_gb": 27.160215552,
+    "peak_allocated_gb": 23.354569216,
+    "peak_reserved_gb": 27.160215552
+  }
+}

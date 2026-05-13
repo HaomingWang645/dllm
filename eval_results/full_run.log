@@ -1,0 +1,127 @@
+=== VSB ===
+[setup] torch=2.6.0+cu124 cuda=True gpu=NVIDIA H100 NVL
+[setup] loading hustvl/DiffusionVL-Qwen2.5VL-7B
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.16it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.05it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.07it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.47it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.30it/s]
+[setup] loaded in 4.9s; vram alloc=16.58 GB
+
+[ViewSpatial-Bench] 5712 questions
+`cache.key_cache[idx]` is deprecated and will be removed in v4.56.0. Use `cache.layers[idx].keys` instead.
+`cache.value_cache[idx]` is deprecated and will be removed in v4.56.0. Use `cache.layers[idx].values` instead.
+  [ViewSpatial-Bench] 200/5712  acc=0.470  mean_lat=0.343s  ETA=40.8min
+  [ViewSpatial-Bench] 400/5712  acc=0.485  mean_lat=0.326s  ETA=37.1min
+  [ViewSpatial-Bench] 600/5712  acc=0.455  mean_lat=0.331s  ETA=36.3min
+  [ViewSpatial-Bench] 800/5712  acc=0.450  mean_lat=0.333s  ETA=35.2min
+  [ViewSpatial-Bench] 1000/5712  acc=0.439  mean_lat=0.335s  ETA=34.0min
+  [ViewSpatial-Bench] 1200/5712  acc=0.438  mean_lat=0.336s  ETA=32.6min
+  [ViewSpatial-Bench] 1400/5712  acc=0.439  mean_lat=0.336s  ETA=31.3min
+  [ViewSpatial-Bench] 1600/5712  acc=0.448  mean_lat=0.336s  ETA=29.9min
+  [ViewSpatial-Bench] 1800/5712  acc=0.439  mean_lat=0.332s  ETA=28.1min
+  [ViewSpatial-Bench] 2000/5712  acc=0.428  mean_lat=0.315s  ETA=25.0min
+  [ViewSpatial-Bench] 2200/5712  acc=0.421  mean_lat=0.300s  ETA=22.4min
+  [ViewSpatial-Bench] 2400/5712  acc=0.417  mean_lat=0.288s  ETA=20.2min
+  [ViewSpatial-Bench] 2600/5712  acc=0.408  mean_lat=0.278s  ETA=18.2min
+  [ViewSpatial-Bench] 2800/5712  acc=0.407  mean_lat=0.269s  ETA=16.4min
+  [ViewSpatial-Bench] 3000/5712  acc=0.401  mean_lat=0.261s  ETA=14.7min
+  [ViewSpatial-Bench] 3200/5712  acc=0.397  mean_lat=0.254s  ETA=13.2min
+  [ViewSpatial-Bench] 3400/5712  acc=0.396  mean_lat=0.248s  ETA=11.8min
+  [ViewSpatial-Bench] 3600/5712  acc=0.395  mean_lat=0.242s  ETA=10.5min
+  [ViewSpatial-Bench] 3800/5712  acc=0.397  mean_lat=0.237s  ETA=9.3min
+  [ViewSpatial-Bench] 4000/5712  acc=0.393  mean_lat=0.233s  ETA=8.1min
+  [ViewSpatial-Bench] 4200/5712  acc=0.391  mean_lat=0.229s  ETA=7.1min
+  [ViewSpatial-Bench] 4400/5712  acc=0.389  mean_lat=0.226s  ETA=6.0min
+  [ViewSpatial-Bench] 4600/5712  acc=0.388  mean_lat=0.223s  ETA=5.0min
+  [ViewSpatial-Bench] 4800/5712  acc=0.383  mean_lat=0.226s  ETA=4.2min
+  [ViewSpatial-Bench] 5000/5712  acc=0.378  mean_lat=0.230s  ETA=3.3min
+  [ViewSpatial-Bench] 5200/5712  acc=0.373  mean_lat=0.234s  ETA=2.5min
+  [ViewSpatial-Bench] 5400/5712  acc=0.368  mean_lat=0.237s  ETA=1.5min
+  [ViewSpatial-Bench] 5600/5712  acc=0.362  mean_lat=0.241s  ETA=0.6min
+  [ViewSpatial-Bench] 5712/5712  acc=0.360  mean_lat=0.242s  ETA=0.0min
+
+[done] wrote /home/haoming/dllm/eval_results/vsb_full.json
+{
+  "benchmarks": {
+    "ViewSpatial-Bench": {
+      "overall_accuracy": 0.3601190476190476,
+      "n": 5712
+    }
+  },
+  "gpu_memory": {
+    "allocated_gb": 16.6264064,
+    "reserved_gb": 20.388511744,
+    "peak_allocated_gb": 18.842704896,
+    "peak_reserved_gb": 20.388511744
+  }
+}
+=== MindCube native ===
+[setup] torch=2.6.0+cu124 cuda=True gpu=NVIDIA H100 NVL
+[setup] loading hustvl/DiffusionVL-Qwen2.5VL-7B
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.01it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.02it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.00it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.35it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.20it/s]
+[setup] loaded in 5.1s; vram alloc=16.58 GB
+
+[MindCube-tinybench] 1050 questions
+`cache.key_cache[idx]` is deprecated and will be removed in v4.56.0. Use `cache.layers[idx].keys` instead.
+`cache.value_cache[idx]` is deprecated and will be removed in v4.56.0. Use `cache.layers[idx].values` instead.
+  [MindCube-tinybench] 100/1050  acc=0.030  mean_lat=0.305s  ETA=5.8min
+  [MindCube-tinybench] 200/1050  acc=0.055  mean_lat=0.304s  ETA=5.2min
+  [MindCube-tinybench] 300/1050  acc=0.043  mean_lat=0.299s  ETA=4.6min
+  [MindCube-tinybench] 400/1050  acc=0.043  mean_lat=0.295s  ETA=3.9min
+  [MindCube-tinybench] 500/1050  acc=0.040  mean_lat=0.297s  ETA=3.3min
+  [MindCube-tinybench] 600/1050  acc=0.042  mean_lat=0.298s  ETA=2.7min
+  [MindCube-tinybench] 700/1050  acc=0.036  mean_lat=0.340s  ETA=2.5min
+  [MindCube-tinybench] 800/1050  acc=0.037  mean_lat=0.369s  ETA=2.0min
+  [MindCube-tinybench] 900/1050  acc=0.041  mean_lat=0.347s  ETA=1.1min
+  [MindCube-tinybench] 1000/1050  acc=0.040  mean_lat=0.331s  ETA=0.3min
+  [MindCube-tinybench] 1050/1050  acc=0.039  mean_lat=0.323s  ETA=0.0min
+
+[done] wrote /home/haoming/dllm/eval_results/mindcube_native_full.json
+{
+  "benchmarks": {
+    "MindCube-tinybench": {
+      "overall_accuracy": 0.039047619047619046,
+      "n": 1050
+    }
+  },
+  "gpu_memory": {
+    "allocated_gb": 16.625445888,
+    "reserved_gb": 32.145145856,
+    "peak_allocated_gb": 23.3024,
+    "peak_reserved_gb": 32.145145856
+  }
+}
+=== MindCube composite ===
+[setup] torch=2.6.0+cu124 cuda=True gpu=NVIDIA H100 NVL
+[setup] loading hustvl/DiffusionVL-Qwen2.5VL-7B
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:00<00:02,  1.01it/s]Loading checkpoint shards:  50%|█████     | 2/4 [00:01<00:01,  1.03it/s]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:02<00:00,  1.01it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.36it/s]Loading checkpoint shards: 100%|██████████| 4/4 [00:03<00:00,  1.21it/s]
+[setup] loaded in 4.9s; vram alloc=16.58 GB
+
+[MindCube-tinybench] 1050 questions
+`cache.key_cache[idx]` is deprecated and will be removed in v4.56.0. Use `cache.layers[idx].keys` instead.
+`cache.value_cache[idx]` is deprecated and will be removed in v4.56.0. Use `cache.layers[idx].values` instead.
+  [MindCube-tinybench] 100/1050  acc=0.380  mean_lat=0.289s  ETA=5.7min
+  [MindCube-tinybench] 200/1050  acc=0.380  mean_lat=0.288s  ETA=5.1min
+  [MindCube-tinybench] 300/1050  acc=0.373  mean_lat=0.285s  ETA=4.5min
+  [MindCube-tinybench] 400/1050  acc=0.365  mean_lat=0.283s  ETA=3.9min
+  [MindCube-tinybench] 500/1050  acc=0.378  mean_lat=0.284s  ETA=3.3min
+  [MindCube-tinybench] 600/1050  acc=0.380  mean_lat=0.285s  ETA=2.7min
+  [MindCube-tinybench] 700/1050  acc=0.386  mean_lat=0.328s  ETA=2.6min
+  [MindCube-tinybench] 800/1050  acc=0.369  mean_lat=0.357s  ETA=2.1min
+  [MindCube-tinybench] 900/1050  acc=0.381  mean_lat=0.337s  ETA=1.1min
+  [MindCube-tinybench] 1000/1050  acc=0.400  mean_lat=0.320s  ETA=0.4min
+  [MindCube-tinybench] 1050/1050  acc=0.410  mean_lat=0.313s  ETA=0.0min
+
+[done] wrote /home/haoming/dllm/eval_results/mindcube_composite_full.json
+{
+  "benchmarks": {
+    "MindCube-tinybench": {
+      "overall_accuracy": 0.4095238095238095,
+      "n": 1050
+    }
+  },
+  "gpu_memory": {
+    "allocated_gb": 16.625445888,
+    "reserved_gb": 32.828817408,
+    "peak_allocated_gb": 23.365963776,
+    "peak_reserved_gb": 32.828817408
+  }
+}
+=== ALL DONE ===

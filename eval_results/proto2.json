@@ -1,0 +1,131 @@
+{
+  "model": "hustvl/DiffusionVL-Qwen2.5VL-7B",
+  "config": {
+    "bench": "both",
+    "per_task_limit": 3,
+    "gen_length": 8,
+    "steps": 4,
+    "out": "/home/haoming/dllm/eval_results/proto2.json",
+    "log_every": 3
+  },
+  "benchmarks": {
+    "ViewSpatial-Bench": {
+      "n": 15,
+      "overall_accuracy": 0.26666666666666666,
+      "per_task": {
+        "Camera perspective - Object View Orientation": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 0
+        },
+        "Camera perspective - Relative Direction": {
+          "n": 3,
+          "correct": 2,
+          "accuracy": 0.6666666666666666,
+          "parse_fail": 0
+        },
+        "Person perspective - Object View Orientation": {
+          "n": 3,
+          "correct": 1,
+          "accuracy": 0.3333333333333333,
+          "parse_fail": 0
+        },
+        "Person perspective - Relative Direction": {
+          "n": 3,
+          "correct": 1,
+          "accuracy": 0.3333333333333333,
+          "parse_fail": 0
+        },
+        "Person perspective - Scene Simulation Relative Direction": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 0
+        }
+      },
+      "latency_s": {
+        "mean": 0.2676819324493408,
+        "median": 0.20127105712890625,
+        "p95": 0.40128207206726074,
+        "min": 0.1127772331237793,
+        "max": 0.854449987411499,
+        "total_minutes": 0.08122364679972331
+      }
+    },
+    "MindCube-tinybench": {
+      "n": 27,
+      "overall_accuracy": 0.037037037037037035,
+      "per_task": {
+        "0_frame": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        },
+        "1_frame": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        },
+        "2_frame": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        },
+        "3_frame": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        },
+        "general": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        },
+        "int_1": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        },
+        "int_2": {
+          "n": 3,
+          "correct": 1,
+          "accuracy": 0.3333333333333333,
+          "parse_fail": 2
+        },
+        "int_3": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        },
+        "three_view": {
+          "n": 3,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 3
+        }
+      },
+      "latency_s": {
+        "mean": 0.3079969176539668,
+        "median": 0.2373342514038086,
+        "p95": 0.401583194732666,
+        "min": 0.15456438064575195,
+        "max": 0.9435369968414307,
+        "total_minutes": 0.1733790675799052
+      }
+    }
+  },
+  "gpu_memory": {
+    "allocated_gb": 16.621587456,
+    "reserved_gb": 28.064088064,
+    "peak_allocated_gb": 23.291103232,
+    "peak_reserved_gb": 28.064088064
+  }
+}

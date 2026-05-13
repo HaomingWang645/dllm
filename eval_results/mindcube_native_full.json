@@ -1,0 +1,88 @@
+{
+  "model": "hustvl/DiffusionVL-Qwen2.5VL-7B",
+  "config": {
+    "bench": "mindcube",
+    "per_task_limit": 0,
+    "gen_length": 8,
+    "steps": 4,
+    "out": "/home/haoming/dllm/eval_results/mindcube_native_full.json",
+    "log_every": 100,
+    "composite": false
+  },
+  "benchmarks": {
+    "MindCube-tinybench": {
+      "n": 1050,
+      "overall_accuracy": 0.039047619047619046,
+      "per_task": {
+        "0_frame": {
+          "n": 140,
+          "correct": 4,
+          "accuracy": 0.02857142857142857,
+          "parse_fail": 116
+        },
+        "1_frame": {
+          "n": 140,
+          "correct": 9,
+          "accuracy": 0.06428571428571428,
+          "parse_fail": 118
+        },
+        "2_frame": {
+          "n": 149,
+          "correct": 2,
+          "accuracy": 0.013422818791946308,
+          "parse_fail": 127
+        },
+        "3_frame": {
+          "n": 145,
+          "correct": 10,
+          "accuracy": 0.06896551724137931,
+          "parse_fail": 115
+        },
+        "general": {
+          "n": 26,
+          "correct": 0,
+          "accuracy": 0.0,
+          "parse_fail": 26
+        },
+        "int_1": {
+          "n": 13,
+          "correct": 3,
+          "accuracy": 0.23076923076923078,
+          "parse_fail": 9
+        },
+        "int_2": {
+          "n": 125,
+          "correct": 5,
+          "accuracy": 0.04,
+          "parse_fail": 117
+        },
+        "int_3": {
+          "n": 112,
+          "correct": 3,
+          "accuracy": 0.026785714285714284,
+          "parse_fail": 96
+        },
+        "three_view": {
+          "n": 200,
+          "correct": 5,
+          "accuracy": 0.025,
+          "parse_fail": 189
+        }
+      },
+      "latency_s": {
+        "mean": 0.3231729244050526,
+        "median": 0.24222755432128906,
+        "p95": 0.9356560707092285,
+        "min": 0.09841156005859375,
+        "max": 1.053534984588623,
+        "total_minutes": 7.085324482123057
+      }
+    }
+  },
+  "gpu_memory": {
+    "allocated_gb": 16.625445888,
+    "reserved_gb": 32.145145856,
+    "peak_allocated_gb": 23.3024,
+    "peak_reserved_gb": 32.145145856
+  }
+}

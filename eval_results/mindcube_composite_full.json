@@ -1,0 +1,88 @@
+{
+  "model": "hustvl/DiffusionVL-Qwen2.5VL-7B",
+  "config": {
+    "bench": "mindcube",
+    "per_task_limit": 0,
+    "gen_length": 8,
+    "steps": 4,
+    "out": "/home/haoming/dllm/eval_results/mindcube_composite_full.json",
+    "log_every": 100,
+    "composite": true
+  },
+  "benchmarks": {
+    "MindCube-tinybench": {
+      "n": 1050,
+      "overall_accuracy": 0.4095238095238095,
+      "per_task": {
+        "0_frame": {
+          "n": 140,
+          "correct": 55,
+          "accuracy": 0.39285714285714285,
+          "parse_fail": 0
+        },
+        "1_frame": {
+          "n": 140,
+          "correct": 55,
+          "accuracy": 0.39285714285714285,
+          "parse_fail": 0
+        },
+        "2_frame": {
+          "n": 149,
+          "correct": 62,
+          "accuracy": 0.4161073825503356,
+          "parse_fail": 0
+        },
+        "3_frame": {
+          "n": 145,
+          "correct": 43,
+          "accuracy": 0.296551724137931,
+          "parse_fail": 0
+        },
+        "general": {
+          "n": 26,
+          "correct": 13,
+          "accuracy": 0.5,
+          "parse_fail": 0
+        },
+        "int_1": {
+          "n": 13,
+          "correct": 4,
+          "accuracy": 0.3076923076923077,
+          "parse_fail": 0
+        },
+        "int_2": {
+          "n": 125,
+          "correct": 78,
+          "accuracy": 0.624,
+          "parse_fail": 0
+        },
+        "int_3": {
+          "n": 112,
+          "correct": 53,
+          "accuracy": 0.4732142857142857,
+          "parse_fail": 0
+        },
+        "three_view": {
+          "n": 200,
+          "correct": 67,
+          "accuracy": 0.335,
+          "parse_fail": 0
+        }
+      },
+      "latency_s": {
+        "mean": 0.3126995495387486,
+        "median": 0.21567213535308838,
+        "p95": 0.9487278461456299,
+        "min": 0.09158563613891602,
+        "max": 1.0800907611846924,
+        "total_minutes": 7.345457438627879
+      }
+    }
+  },
+  "gpu_memory": {
+    "allocated_gb": 16.625445888,
+    "reserved_gb": 32.828817408,
+    "peak_allocated_gb": 23.365963776,
+    "peak_reserved_gb": 32.828817408
+  }
+}
