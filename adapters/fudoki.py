@@ -77,18 +77,23 @@ class Adapter:
     # Short generation for multiple-choice letter answers.
     # txt_max_length is the total text-slot capacity (prompt + answer region).
     # The solver fills the masked region (after "Assistant:") in one shot.
-    txt_max_length = 128       # plenty for "User: <img>...question...\nA. ...\nAssistant:" + small answer
-    answer_token_num = 8       # only decode the first few tokens after "Assistant:"
-    discrete_fm_steps = 20     # matches GQA recipe (short answers)
+    # Tuned for ~1s/Q on H100: 5 discrete-flow steps over 4 answer tokens.
+    txt_max_length = 128       # plenty for prompt + small answer region
+    answer_token_num = 4       # decode this many tokens after "Assistant:"
+    discrete_fm_steps = 5      # fewer steps than GQA's 20 since output is one letter
     image_size = 384
 
     def setup(self):
         self.device = torch.device("cuda:0")
 
-        # Some torch backports rely on get_default_device; provide a shim if
-        # this older torch (2.0.1) is used.
-        if not hasattr(torch, "get_default_device"):
-            torch.get_default_device = lambda: torch.device("cpu")
+        # FUDOKI's modeling code does `import xformers.ops.fmha as fmha` and
+        # then references `fmha.BlockDiagonalMask`. In newer xformers
+        # (>=0.0.23) this attribute moved to `xformers.ops.fmha.attn_bias`.
+        # Monkey-patch it back onto the fmha module for compatibility.
+        import xformers.ops.fmha as _fmha
+        if not hasattr(_fmha, "BlockDiagonalMask"):
+            from xformers.ops.fmha.attn_bias import BlockDiagonalMask as _BDM
+            _fmha.BlockDiagonalMask = _BDM
 
         # Load the FUDOKI multimodal causal LM.
         self.model = (
@@ -229,8 +234,10 @@ class Adapter:
             cfg_scale=0,
         )
 
-        # Decode only the answer region (post-"Assistant:").
-        ans_ids = synthetic_samples[0, ans_begin:ans_end]
+        # In understanding mode the solver returns only the masked text region,
+        # shape [B, num_masked_text_positions]. So `synthetic_samples[0]` is
+        # already the answer tokens.
+        ans_ids = synthetic_samples[0]
         text = proc.tokenizer.decode(ans_ids, skip_special_tokens=True)
 
         # Strip FUDOKI's EOS sentinel if it slipped through.

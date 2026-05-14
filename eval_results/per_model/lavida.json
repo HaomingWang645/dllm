@@ -1,0 +1,52 @@
+{
+  "model": "LaViDa-LLaDa",
+  "adapter": "lavida",
+  "n": 5712,
+  "overall_accuracy": 0.34961484593837533,
+  "per_task": {
+    "Camera perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 429,
+      "accuracy": 0.4307228915662651,
+      "parse_fail": 0
+    },
+    "Camera perspective - Relative Direction": {
+      "n": 1773,
+      "correct": 574,
+      "accuracy": 0.32374506486181615,
+      "parse_fail": 0
+    },
+    "Person perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 381,
+      "accuracy": 0.3825301204819277,
+      "parse_fail": 0
+    },
+    "Person perspective - Relative Direction": {
+      "n": 842,
+      "correct": 287,
+      "accuracy": 0.34085510688836107,
+      "parse_fail": 0
+    },
+    "Person perspective - Scene Simulation Relative Direction": {
+      "n": 1105,
+      "correct": 326,
+      "accuracy": 0.29502262443438915,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.5128586958436405,
+    "median": 0.5114649534225464,
+    "p95": 0.5841150283813477,
+    "min": 0.3059384822845459,
+    "max": 0.98219895362854,
+    "total_minutes": 48.82549444437027
+  },
+  "gpu_memory_gb": {
+    "weights": 16.880262144,
+    "peak_allocated": 20.504719872,
+    "peak_reserved": 35.576086528
+  },
+  "setup_seconds": 6.89639139175415
+}

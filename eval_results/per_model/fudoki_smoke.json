@@ -1,0 +1,28 @@
+{
+  "model": "FUDOKI",
+  "adapter": "fudoki",
+  "n": 5,
+  "overall_accuracy": 0.4,
+  "per_task": {
+    "Camera perspective - Relative Direction": {
+      "n": 5,
+      "correct": 2,
+      "accuracy": 0.4,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 1.000195598602295,
+    "median": 1.0005087852478027,
+    "p95": 1.0015079975128174,
+    "min": 0.8042230606079102,
+    "max": 1.203979253768921,
+    "total_minutes": 0.08335871299107869
+  },
+  "gpu_memory_gb": {
+    "weights": 10.038857216,
+    "peak_allocated": 13.731606016,
+    "peak_reserved": 14.535360512
+  },
+  "setup_seconds": 4.812085151672363
+}

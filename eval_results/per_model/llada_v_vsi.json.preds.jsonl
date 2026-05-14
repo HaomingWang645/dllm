@@ -1,0 +1,1265 @@
+{"id": 0, "task": "object_counting", "gt": "4", "pred": "3.0", "raw": "three.\nRationale: There are three tables tables in the room.", "score": 0.7368421052631579}
+{"id": 1, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.47368421052631576}
+{"id": 2, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 3, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 1.0}
+{"id": 4, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.3157894736842105}
+{"id": 5, "task": "object_counting", "gt": "4", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 1.0}
+{"id": 7, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two2 stools in the room.", "score": 1.0}
+{"id": 8, "task": "object_counting", "gt": "2", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 9, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofasas in the room.", "score": 1.0}
+{"id": 10, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.3157894736842105}
+{"id": 11, "task": "object_counting", "gt": "9", "pred": "6.0", "raw": "6.\nRationale: There are 4 chairs in the room.", "score": 0.6842105263157895}
+{"id": 12, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 0.47368421052631576}
+{"id": 13, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 14, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 1.0}
+{"id": 15, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are only two chairs in the room.", "score": 0.6842105263157895}
+{"id": 16, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two brown sofas in the room.", "score": 1.0}
+{"id": 17, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 0.47368421052631576}
+{"id": 18, "task": "object_counting", "gt": "5", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.5789473684210527}
+{"id": 19, "task": "object_counting", "gt": "12", "pred": "6.0", "raw": "6.\nRationale: There are 6 chairs in the room.", "score": 0.47368421052631576}
+{"id": 20, "task": "object_counting", "gt": "3", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 1.0}
+{"id": 21, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 1.0}
+{"id": 22, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 23, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 24, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.3157894736842105}
+{"id": 25, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "two.\nRationale: There are two sofasas in the room.", "score": 0.47368421052631576}
+{"id": 26, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.47368421052631576}
+{"id": 27, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 28, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.3157894736842105}
+{"id": 29, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "2.\nRationale: There are 2 beds in the room.", "score": 1.0}
+{"id": 30, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.3157894736842105}
+{"id": 31, "task": "object_counting", "gt": "4", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.7368421052631579}
+{"id": 32, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofasas in the room.", "score": 1.0}
+{"id": 33, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 34, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 1.0}
+{"id": 35, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.3157894736842105}
+{"id": 36, "task": "object_counting", "gt": "7", "pred": "6.0", "raw": "6.\nRationale: There are 6 chairs in the room.", "score": 0.8947368421052632}
+{"id": 37, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.21052631578947367}
+{"id": 38, "task": "object_counting", "gt": "5", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.5789473684210527}
+{"id": 39, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 40, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one washer in the room.", "score": 0.47368421052631576}
+{"id": 41, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 42, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 0.47368421052631576}
+{"id": 43, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.47368421052631576}
+{"id": 44, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two brown sofas in the room.", "score": 1.0}
+{"id": 45, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 0.6842105263157895}
+{"id": 46, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.47368421052631576}
+{"id": 47, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.47368421052631576}
+{"id": 48, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one bed in the room.", "score": 0.47368421052631576}
+{"id": 49, "task": "object_counting", "gt": "8", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.3684210526315789}
+{"id": 50, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 51, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.21052631578947367}
+{"id": 52, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 1.0}
+{"id": 53, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.3157894736842105}
+{"id": 54, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "four.\nRationale: There are 2 chairs in the room.", "score": 0.47368421052631576}
+{"id": 55, "task": "object_counting", "gt": "3", "pred": "3.0", "raw": "3.\nRationale: There are 3 tables in the room.", "score": 1.0}
+{"id": 56, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.47368421052631576}
+{"id": 57, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 0.6842105263157895}
+{"id": 58, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two2 tables in the room.", "score": 0.6842105263157895}
+{"id": 59, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tv's in the room.", "score": 1.0}
+{"id": 60, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.21052631578947367}
+{"id": 61, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 62, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 0.6842105263157895}
+{"id": 63, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two2 tables in the room.", "score": 1.0}
+{"id": 64, "task": "object_counting", "gt": "2", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 0.0}
+{"id": 65, "task": "object_counting", "gt": "2", "pred": "4.0", "raw": "four.\nRationale: There are three tables tables in the room.", "score": 0.0}
+{"id": 66, "task": "object_counting", "gt": "3", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 1.0}
+{"id": 67, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 68, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one washer in the room.", "score": 0.47368421052631576}
+{"id": 69, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 70, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 71, "task": "object_counting", "gt": "4", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 1.0}
+{"id": 72, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 1.0}
+{"id": 73, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 1.0}
+{"id": 74, "task": "object_counting", "gt": "2", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 75, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one tv in the room.", "score": 0.47368421052631576}
+{"id": 76, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two toilets visible in the room.", "score": 1.0}
+{"id": 77, "task": "object_counting", "gt": "4", "pred": "3.0", "raw": "four.\nRationale: There are 3 chairs in the room.", "score": 0.7368421052631579}
+{"id": 78, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 0.6842105263157895}
+{"id": 79, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 80, "task": "object_counting", "gt": "5", "pred": "3.0", "raw": "four.\nRationale: There are 3 chairs in the room.", "score": 0.5789473684210527}
+{"id": 81, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 82, "task": "object_counting", "gt": "2", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 0.0}
+{"id": 83, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 84, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two2 tables in the room.", "score": 1.0}
+{"id": 85, "task": "object_counting", "gt": "4", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 1.0}
+{"id": 86, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 0.6842105263157895}
+{"id": 87, "task": "object_counting", "gt": "6", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 88, "task": "object_counting", "gt": "4", "pred": "5.0", "raw": "four.\nRationale: There are 5 stools in the room.", "score": 0.7368421052631579}
+{"id": 89, "task": "object_counting", "gt": "2", "pred": "3.0", "raw": "3.\nRationale: There are 3 tables in the room.", "score": 0.47368421052631576}
+{"id": 90, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one washer in the room.", "score": 0.47368421052631576}
+{"id": 91, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 1.0}
+{"id": 92, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two2 chairs in the room.", "score": 1.0}
+{"id": 93, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two2 tables in the room.", "score": 1.0}
+{"id": 94, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.47368421052631576}
+{"id": 95, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 1.0}
+{"id": 96, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "2.\nRationale: There are 2 chairs in the room.", "score": 1.0}
+{"id": 97, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 1.0}
+{"id": 98, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 1.0}
+{"id": 99, "task": "object_counting", "gt": "6", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 100, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one tv in the room.", "score": 0.47368421052631576}
+{"id": 101, "task": "object_counting", "gt": "7", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 0.5789473684210527}
+{"id": 102, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 103, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 1.0}
+{"id": 104, "task": "object_counting", "gt": "4", "pred": "4.0", "raw": "four.\nRationale: There are three tables tables in the room.", "score": 1.0}
+{"id": 105, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tv's in the room.", "score": 1.0}
+{"id": 106, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 107, "task": "object_counting", "gt": "2", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 108, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 0.6842105263157895}
+{"id": 109, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 1.0}
+{"id": 110, "task": "object_counting", "gt": "6", "pred": "3.0", "raw": "four.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 111, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are only two chairs in the room.", "score": 0.6842105263157895}
+{"id": 112, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.3157894736842105}
+{"id": 113, "task": "object_counting", "gt": "5", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.15789473684210525}
+{"id": 114, "task": "object_counting", "gt": "5", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.5789473684210527}
+{"id": 115, "task": "object_counting", "gt": "2", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 116, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.47368421052631576}
+{"id": 117, "task": "object_counting", "gt": "5", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.5789473684210527}
+{"id": 118, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.21052631578947367}
+{"id": 119, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 0.6842105263157895}
+{"id": 120, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.3157894736842105}
+{"id": 121, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "two.\nRationale: There are two two chairs in the room.", "score": 0.42105263157894735}
+{"id": 122, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 123, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "2.\nRationale: There are 2 beds in the room.", "score": 1.0}
+{"id": 124, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tv's in the room.", "score": 1.0}
+{"id": 125, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 126, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 127, "task": "object_counting", "gt": "3", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 0.6842105263157895}
+{"id": 128, "task": "object_counting", "gt": "5", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.5789473684210527}
+{"id": 129, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two2 tables in the room.", "score": 0.6842105263157895}
+{"id": 130, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.47368421052631576}
+{"id": 131, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 132, "task": "object_counting", "gt": "3", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 1.0}
+{"id": 133, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofa sofas in the room.", "score": 0.6842105263157895}
+{"id": 134, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 0.47368421052631576}
+{"id": 135, "task": "object_counting", "gt": "2", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 136, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 137, "task": "object_counting", "gt": "5", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.5789473684210527}
+{"id": 138, "task": "object_counting", "gt": "5", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.15789473684210525}
+{"id": 139, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 1.0}
+{"id": 140, "task": "object_counting", "gt": "6", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 141, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 1.0}
+{"id": 142, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 143, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are only two chairs in the room.", "score": 0.6842105263157895}
+{"id": 144, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofas visible in the room.", "score": 0.6842105263157895}
+{"id": 145, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.47368421052631576}
+{"id": 146, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofas visible in the room.", "score": 1.0}
+{"id": 147, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 148, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.47368421052631576}
+{"id": 149, "task": "object_counting", "gt": "7", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.10526315789473684}
+{"id": 150, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 151, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one stool in the room.", "score": 0.47368421052631576}
+{"id": 152, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 153, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tables tables in the room.", "score": 1.0}
+{"id": 154, "task": "object_counting", "gt": "2", "pred": "3.0", "raw": "3.\nRationale: There are 3 stools in the room.", "score": 0.47368421052631576}
+{"id": 155, "task": "object_counting", "gt": "3", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 1.0}
+{"id": 156, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one chair in the room.", "score": 0.47368421052631576}
+{"id": 157, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 1.0}
+{"id": 158, "task": "object_counting", "gt": "6", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 0.47368421052631576}
+{"id": 159, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "two.\nRationale: There are two tv's in the room.", "score": 1.0}
+{"id": 160, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two2 tables in the room.", "score": 0.6842105263157895}
+{"id": 161, "task": "object_counting", "gt": "3", "pred": "3.0", "raw": "3.\nRationale: There are 3 chairs in the room.", "score": 1.0}
+{"id": 162, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one sofa in the room.", "score": 0.47368421052631576}
+{"id": 163, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "2.\nRationale: There are 2 chairs in the room.", "score": 0.47368421052631576}
+{"id": 164, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "two.\nRationale: There are two sofas sofas in the room.", "score": 0.6842105263157895}
+{"id": 165, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "one.\nRationale: There is only one table in the room.", "score": 0.47368421052631576}
+{"id": 166, "task": "object_counting", "gt": "4", "pred": "4.0", "raw": "four.\nRationale: There are 4 chairs in the room.", "score": 1.0}
+{"id": 167, "task": "object_size_estimation", "gt": "62", "pred": "60.0", "raw": "60.\nRationale: The stove is 60 cm.", "score": 1.0}
+{"id": 168, "task": "object_size_estimation", "gt": "173", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 1.0}
+{"id": 169, "task": "object_size_estimation", "gt": "91", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.9473684210526315}
+{"id": 170, "task": "object_size_estimation", "gt": "213", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 171, "task": "object_size_estimation", "gt": "71", "pred": "32.0", "raw": "32.\nRationale: The tv is 32 inches.", "score": 0.47368421052631576}
+{"id": 172, "task": "object_size_estimation", "gt": "163", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.3684210526315789}
+{"id": 173, "task": "object_size_estimation", "gt": "75", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7894736842105263}
+{"id": 174, "task": "object_size_estimation", "gt": "60", "pred": "100.0", "raw": "100.\nRational:: The stove is a meter oven.", "score": 0.3157894736842105}
+{"id": 175, "task": "object_size_estimation", "gt": "80", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7368421052631579}
+{"id": 176, "task": "object_size_estimation", "gt": "165", "pred": "60.0", "raw": "60.\n\nRationale: The bathtub is sixty feet long.", "score": 0.3684210526315789}
+{"id": 177, "task": "object_size_estimation", "gt": "167", "pred": "150.0", "raw": "150\n\nRationale: The bathtub is half that long.", "score": 0.8947368421052632}
+{"id": 178, "task": "object_size_estimation", "gt": "78", "pred": "60.0", "raw": "60.\n\nRationale: The toilet is measured in length.", "score": 0.7894736842105263}
+{"id": 179, "task": "object_size_estimation", "gt": "165", "pred": "150.0", "raw": "150.\nRationale: The bathtub is half feet long.", "score": 0.9473684210526315}
+{"id": 180, "task": "object_size_estimation", "gt": "71", "pred": "30.0", "raw": "30.\n\nRationale: The table is small in length.", "score": 0.42105263157894735}
+{"id": 181, "task": "object_size_estimation", "gt": "84", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7368421052631579}
+{"id": 182, "task": "object_size_estimation", "gt": "281", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.7368421052631579}
+{"id": 183, "task": "object_size_estimation", "gt": "109", "pred": "60.0", "raw": "60.\nRationale: The stove is 60 cm.", "score": 0.5789473684210527}
+{"id": 184, "task": "object_size_estimation", "gt": "177", "pred": "90.0", "raw": "90.\n\ne: The refrigerator is 90 cm.", "score": 0.5263157894736842}
+{"id": 185, "task": "object_size_estimation", "gt": "175", "pred": "90.0", "raw": "90.\n\ne: The table is 60 cm.", "score": 0.5263157894736842}
+{"id": 186, "task": "object_size_estimation", "gt": "81", "pred": "30.0", "raw": "30.\n\nRationale: The table is small in centimeters.", "score": 0.3684210526315789}
+{"id": 187, "task": "object_size_estimation", "gt": "114", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.8947368421052632}
+{"id": 188, "task": "object_size_estimation", "gt": "210", "pred": "200.0", "raw": "200.\nRationale: The bed is two meters long.", "score": 1.0}
+{"id": 189, "task": "object_size_estimation", "gt": "224", "pred": "30.0", "raw": "30.\nRationale: This is the height of the fireplace.", "score": 0.10526315789473684}
+{"id": 190, "task": "object_size_estimation", "gt": "42", "pred": "30.0", "raw": "30.\nRationale: The stool is 30 cm.", "score": 0.7368421052631579}
+{"id": 191, "task": "object_size_estimation", "gt": "210", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 1.0}
+{"id": 192, "task": "object_size_estimation", "gt": "169", "pred": "30.0", "raw": "30.\n\nRationale: The bathtub is thirty inches long.", "score": 0.15789473684210525}
+{"id": 193, "task": "object_size_estimation", "gt": "77", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7894736842105263}
+{"id": 194, "task": "object_size_estimation", "gt": "196", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 195, "task": "object_size_estimation", "gt": "88", "pred": "30.0", "raw": "30.\n\nRationale: The table is small in centimeters.", "score": 0.3157894736842105}
+{"id": 196, "task": "object_size_estimation", "gt": "38", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 0.0}
+{"id": 197, "task": "object_size_estimation", "gt": "71", "pred": "60.0", "raw": "60.\nRationale: The stove is 60 cm.", "score": 0.8421052631578947}
+{"id": 198, "task": "object_size_estimation", "gt": "181", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 1.0}
+{"id": 199, "task": "object_size_estimation", "gt": "107", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.5789473684210527}
+{"id": 200, "task": "object_size_estimation", "gt": "82", "pred": "60.0", "raw": "60.\nRationale: The chair is 60 cm.", "score": 0.7368421052631579}
+{"id": 201, "task": "object_size_estimation", "gt": "161", "pred": "60.0", "raw": "60.\nRationale: The fireplace is 60 cm.", "score": 0.3684210526315789}
+{"id": 202, "task": "object_size_estimation", "gt": "73", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.8421052631578947}
+{"id": 203, "task": "object_size_estimation", "gt": "158", "pred": null, "raw": "The video does\nnot provide information on the longest dimension of the bathtub.", "score": 0.0}
+{"id": 204, "task": "object_size_estimation", "gt": "131", "pred": "30.0", "raw": "30.\nRationale: The refrigerator is embedded in the floor.", "score": 0.21052631578947367}
+{"id": 205, "task": "object_size_estimation", "gt": "186", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 1.0}
+{"id": 206, "task": "object_size_estimation", "gt": "91", "pred": "90.0", "raw": "90.\n\nRationale: The dishwasher is a small appliance.", "score": 1.0}
+{"id": 207, "task": "object_size_estimation", "gt": "89", "pred": "90.0", "raw": "90.\nRationale: The length is 90 cm.", "score": 1.0}
+{"id": 208, "task": "object_size_estimation", "gt": "105", "pred": "120.0", "raw": "120.\nRationale: The table is a round table.", "score": 0.8947368421052632}
+{"id": 209, "task": "object_size_estimation", "gt": "96", "pred": "32.0", "raw": "32.\nRationale: The tv is 32 inches.", "score": 0.3157894736842105}
+{"id": 210, "task": "object_size_estimation", "gt": "156", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 0.8421052631578947}
+{"id": 211, "task": "object_size_estimation", "gt": "128", "pred": "120.0", "raw": "120\n\nRationale: The table is a small table.", "score": 0.9473684210526315}
+{"id": 212, "task": "object_size_estimation", "gt": "69", "pred": "90.0", "raw": "90.\nRationale: The chair is 90 cm.", "score": 0.6842105263157895}
+{"id": 213, "task": "object_size_estimation", "gt": "206", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 1.0}
+{"id": 214, "task": "object_size_estimation", "gt": "115", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.8947368421052632}
+{"id": 215, "task": "object_size_estimation", "gt": "105", "pred": "60.0", "raw": "60.\n\ne: The table is 60 cm.", "score": 0.5789473684210527}
+{"id": 216, "task": "object_size_estimation", "gt": "190", "pred": "180.0", "raw": "180.\nRationale: This is measured of the sofa.", "score": 0.9473684210526315}
+{"id": 217, "task": "object_size_estimation", "gt": "56", "pred": "40.0", "raw": "40.\nRationale: This is the length of the table.", "score": 0.7368421052631579}
+{"id": 218, "task": "object_size_estimation", "gt": "108", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 0.9473684210526315}
+{"id": 219, "task": "object_size_estimation", "gt": "100", "pred": "32.0", "raw": "32.\nRationale: The tv is 32 inches.", "score": 0.3157894736842105}
+{"id": 220, "task": "object_size_estimation", "gt": "356", "pred": "150.0", "raw": "150.\nRationale: The table is half that long.", "score": 0.42105263157894735}
+{"id": 221, "task": "object_size_estimation", "gt": "185", "pred": "150.0", "raw": "150.\nRationale: The fireplace is a small fireplace.", "score": 0.8421052631578947}
+{"id": 222, "task": "object_size_estimation", "gt": "186", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 1.0}
+{"id": 223, "task": "object_size_estimation", "gt": "94", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.631578947368421}
+{"id": 224, "task": "object_size_estimation", "gt": "89", "pred": "60.0", "raw": "60.\nRationale: The stove is 60 cm.", "score": 0.6842105263157895}
+{"id": 225, "task": "object_size_estimation", "gt": "173", "pred": "150.0", "raw": "150.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 226, "task": "object_size_estimation", "gt": "215", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 227, "task": "object_size_estimation", "gt": "158", "pred": "30.0", "raw": "30.\n\nRationale: The stove is a small oven.", "score": 0.15789473684210525}
+{"id": 228, "task": "object_size_estimation", "gt": "88", "pred": "100.0", "raw": "100.\nRationale: The tv is a square screen.", "score": 0.8947368421052632}
+{"id": 229, "task": "object_size_estimation", "gt": "44", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.631578947368421}
+{"id": 230, "task": "object_size_estimation", "gt": "219", "pred": "150.0", "raw": "150.\nRationale: The fireplace is not that tall.", "score": 0.6842105263157895}
+{"id": 231, "task": "object_size_estimation", "gt": "92", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.9473684210526315}
+{"id": 232, "task": "object_size_estimation", "gt": "211", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 233, "task": "object_size_estimation", "gt": "145", "pred": "60.0", "raw": "60.\nRationale: This is the length of the table.", "score": 0.42105263157894735}
+{"id": 234, "task": "object_size_estimation", "gt": "82", "pred": "50.0", "raw": "50.\nRationale: The toilet is 50 cm.", "score": 0.631578947368421}
+{"id": 235, "task": "object_size_estimation", "gt": "58", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.5263157894736842}
+{"id": 236, "task": "object_size_estimation", "gt": "84", "pred": "90.0", "raw": "90.\nRationale: The chair is 90 cm.", "score": 0.9473684210526315}
+{"id": 237, "task": "object_size_estimation", "gt": "111", "pred": "32.0", "raw": "32.\n\ne: The tv is 32 inches.", "score": 0.2631578947368421}
+{"id": 238, "task": "object_size_estimation", "gt": "216", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 239, "task": "object_size_estimation", "gt": "64", "pred": "150.0", "raw": "150.\nRationale: The chair is a medium chair.", "score": 0.0}
+{"id": 240, "task": "object_size_estimation", "gt": "92", "pred": "150.0", "raw": "150.\nRationale: The table is a small table.", "score": 0.3684210526315789}
+{"id": 241, "task": "object_size_estimation", "gt": "83", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7368421052631579}
+{"id": 242, "task": "object_size_estimation", "gt": "155", "pred": "60.0", "raw": "60.\n\ne: The bathtub is 60 cm.", "score": 0.3684210526315789}
+{"id": 243, "task": "object_size_estimation", "gt": "90", "pred": "120.0", "raw": "120.\nRationale: The length is the longest dimension.", "score": 0.6842105263157895}
+{"id": 244, "task": "object_size_estimation", "gt": "170", "pred": "300.0", "raw": "300.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.21052631578947367}
+{"id": 245, "task": "object_size_estimation", "gt": "119", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 0.8421052631578947}
+{"id": 246, "task": "object_size_estimation", "gt": "88", "pred": "90.0", "raw": "90.\n\ne: The chair is 90 cm.", "score": 1.0}
+{"id": 247, "task": "object_size_estimation", "gt": "181", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 1.0}
+{"id": 248, "task": "object_size_estimation", "gt": "90", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.6842105263157895}
+{"id": 249, "task": "object_size_estimation", "gt": "214", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 0.8421052631578947}
+{"id": 250, "task": "object_size_estimation", "gt": "183", "pred": "180.0", "raw": "180.\nRationale: The longest dimension is the height.", "score": 1.0}
+{"id": 251, "task": "object_size_estimation", "gt": "67", "pred": null, "raw": "The video does not provide a specific measurement the longest dimension of the stool.", "score": 0.0}
+{"id": 252, "task": "object_size_estimation", "gt": "126", "pred": "40.0", "raw": "40.\n\ne: The tv is 40 inches.", "score": 0.3157894736842105}
+{"id": 253, "task": "object_size_estimation", "gt": "55", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.9473684210526315}
+{"id": 254, "task": "object_size_estimation", "gt": "161", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.3684210526315789}
+{"id": 255, "task": "object_size_estimation", "gt": "209", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 256, "task": "object_size_estimation", "gt": "108", "pred": "150.0", "raw": "150.\nRationale: The is a glass sized table.", "score": 0.631578947368421}
+{"id": 257, "task": "object_size_estimation", "gt": "71", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.8421052631578947}
+{"id": 258, "task": "object_size_estimation", "gt": "93", "pred": "150.0", "raw": "150.\nRationale: The refrigerator is in the kitchen.", "score": 0.3684210526315789}
+{"id": 259, "task": "object_size_estimation", "gt": "178", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a small refrigerator.", "score": 1.0}
+{"id": 260, "task": "object_size_estimation", "gt": "119", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.2631578947368421}
+{"id": 261, "task": "object_size_estimation", "gt": "91", "pred": "100.0", "raw": "100.\nRationale: The tv is a small television.", "score": 0.9473684210526315}
+{"id": 262, "task": "object_size_estimation", "gt": "113", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.2631578947368421}
+{"id": 263, "task": "object_size_estimation", "gt": "100", "pred": "90.0", "raw": "90.\n\ne: The chair is 90 cm.", "score": 0.8947368421052632}
+{"id": 264, "task": "object_size_estimation", "gt": "236", "pred": "200.0", "raw": "200.\nRationale: The bed is a queen size.", "score": 0.8421052631578947}
+{"id": 265, "task": "object_size_estimation", "gt": "97", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.631578947368421}
+{"id": 266, "task": "object_size_estimation", "gt": "98", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.631578947368421}
+{"id": 267, "task": "object_size_estimation", "gt": "215", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 268, "task": "object_size_estimation", "gt": "60", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 1.0}
+{"id": 269, "task": "object_size_estimation", "gt": "98", "pred": "30.0", "raw": "30.\nRationale: The stool is 30 cm.", "score": 0.3157894736842105}
+{"id": 270, "task": "object_size_estimation", "gt": "139", "pred": "30.0", "raw": "30.\nRationale: This is the length of the fireplace.", "score": 0.21052631578947367}
+{"id": 271, "task": "object_size_estimation", "gt": "98", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.3157894736842105}
+{"id": 272, "task": "object_size_estimation", "gt": "59", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.5263157894736842}
+{"id": 273, "task": "object_size_estimation", "gt": "91", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.6842105263157895}
+{"id": 274, "task": "object_size_estimation", "gt": "91", "pred": "60.0", "raw": "60.\nRationale: The dishwasher is 60 cm.", "score": 0.6842105263157895}
+{"id": 275, "task": "object_size_estimation", "gt": "184", "pred": "300.0", "raw": "300.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.3684210526315789}
+{"id": 276, "task": "object_size_estimation", "gt": "198", "pred": "200.0", "raw": "200.\nRationale: The bed is a queen bed.", "score": 1.0}
+{"id": 277, "task": "object_size_estimation", "gt": "122", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.47368421052631576}
+{"id": 278, "task": "object_size_estimation", "gt": "47", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.7368421052631579}
+{"id": 279, "task": "object_size_estimation", "gt": "134", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.42105263157894735}
+{"id": 280, "task": "object_size_estimation", "gt": "49", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.7894736842105263}
+{"id": 281, "task": "object_size_estimation", "gt": "74", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.42105263157894735}
+{"id": 282, "task": "object_size_estimation", "gt": "91", "pred": "300.0", "raw": "300.\nRationale: The washer is a large machine.", "score": 0.0}
+{"id": 283, "task": "object_size_estimation", "gt": "189", "pred": null, "raw": "The video does not\nprovide specific information about the dimensions of the bathtub.", "score": 0.0}
+{"id": 284, "task": "object_size_estimation", "gt": "81", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7368421052631579}
+{"id": 285, "task": "object_size_estimation", "gt": "64", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.47368421052631576}
+{"id": 286, "task": "object_size_estimation", "gt": "140", "pred": "120.0", "raw": "120.\nRationale: The longest dimension of the fireplace.", "score": 0.8947368421052632}
+{"id": 287, "task": "object_size_estimation", "gt": "89", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.3157894736842105}
+{"id": 288, "task": "object_size_estimation", "gt": "78", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.7368421052631579}
+{"id": 289, "task": "object_size_estimation", "gt": "237", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 0.7894736842105263}
+{"id": 290, "task": "object_size_estimation", "gt": "78", "pred": "150.0", "raw": "150.\nRationale: The fireplace is a small fireplace.", "score": 0.05263157894736842}
+{"id": 291, "task": "object_size_estimation", "gt": "70", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.5789473684210527}
+{"id": 292, "task": "object_size_estimation", "gt": "55", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.5263157894736842}
+{"id": 293, "task": "object_size_estimation", "gt": "215", "pred": "200.0", "raw": "200.\nRationale: The bed is a queen size.", "score": 0.9473684210526315}
+{"id": 294, "task": "object_size_estimation", "gt": "87", "pred": "90.0", "raw": "90.\n\ne: The chair is 90 cm.", "score": 1.0}
+{"id": 295, "task": "object_size_estimation", "gt": "174", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.3157894736842105}
+{"id": 296, "task": "object_size_estimation", "gt": "98", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.631578947368421}
+{"id": 297, "task": "object_size_estimation", "gt": "92", "pred": "30.0", "raw": "30.\n\ne: The washer is  in the kitchen.", "score": 0.3157894736842105}
+{"id": 298, "task": "object_size_estimation", "gt": "92", "pred": "40.0", "raw": "40.\nRationale: This is the length of the dishwasher.", "score": 0.42105263157894735}
+{"id": 299, "task": "object_size_estimation", "gt": "56", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.9473684210526315}
+{"id": 300, "task": "object_size_estimation", "gt": "206", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 1.0}
+{"id": 301, "task": "object_size_estimation", "gt": "149", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 0.7894736842105263}
+{"id": 302, "task": "object_size_estimation", "gt": "53", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.8947368421052632}
+{"id": 303, "task": "object_size_estimation", "gt": "69", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.42105263157894735}
+{"id": 304, "task": "object_size_estimation", "gt": "169", "pred": "60.0", "raw": "The length of the longest dimension of the bathtub is 60 cm.", "score": 0.3684210526315789}
+{"id": 305, "task": "object_size_estimation", "gt": "78", "pred": "50.0", "raw": "The length of the longest dimension of the toilet is 50 cm.", "score": 0.631578947368421}
+{"id": 306, "task": "object_size_estimation", "gt": "90", "pred": null, "raw": "The tv does.\nRationale: The tv is on the wall.", "score": 0.0}
+{"id": 307, "task": "object_size_estimation", "gt": "61", "pred": "30.0", "raw": "30. \nRationale: The stove is a small stove.", "score": 0.47368421052631576}
+{"id": 308, "task": "object_size_estimation", "gt": "230", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.7894736842105263}
+{"id": 309, "task": "object_size_estimation", "gt": "54", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.8947368421052632}
+{"id": 310, "task": "object_size_estimation", "gt": "169", "pred": null, "raw": "The video does not\nprovide specific measurements about the dimensions of the bathtub.", "score": 0.0}
+{"id": 311, "task": "object_size_estimation", "gt": "55", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.9473684210526315}
+{"id": 312, "task": "object_size_estimation", "gt": "210", "pred": null, "raw": "The answer is \nRationale: The bed is a queen bed.", "score": 0.0}
+{"id": 313, "task": "object_size_estimation", "gt": "226", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 314, "task": "object_size_estimation", "gt": "112", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 0.3684210526315789}
+{"id": 315, "task": "object_size_estimation", "gt": "44", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 0.0}
+{"id": 316, "task": "object_size_estimation", "gt": "221", "pred": "150.0", "raw": "150.\nRationale: The sofa is half that long.", "score": 0.6842105263157895}
+{"id": 317, "task": "object_size_estimation", "gt": "109", "pred": "90.0", "raw": "90.\nRationale: The chair is 90 cm.", "score": 0.8421052631578947}
+{"id": 318, "task": "object_size_estimation", "gt": "172", "pred": "150.0", "raw": "150.\nRationale: The is a medium sized fireplace.", "score": 0.8947368421052632}
+{"id": 319, "task": "object_size_estimation", "gt": "107", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.9473684210526315}
+{"id": 320, "task": "object_size_estimation", "gt": "91", "pred": "120.0", "raw": "120.\nRationale: The length is a hundred number.", "score": 0.6842105263157895}
+{"id": 321, "task": "object_size_estimation", "gt": "91", "pred": "120.0", "raw": "120.\nRationale: This is a medium sized dishwasher.", "score": 0.6842105263157895}
+{"id": 322, "task": "object_size_estimation", "gt": "158", "pred": "30.0", "raw": "30.\n\nRationale: The fireplace is small in centimeters.", "score": 0.15789473684210525}
+{"id": 323, "task": "object_size_estimation", "gt": "136", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.42105263157894735}
+{"id": 324, "task": "object_size_estimation", "gt": "222", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 325, "task": "object_size_estimation", "gt": "205", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 326, "task": "object_size_estimation", "gt": "153", "pred": "30.0", "raw": "30.\nRationale: The fireplace is 30 cm.", "score": 0.15789473684210525}
+{"id": 327, "task": "object_size_estimation", "gt": "172", "pred": "90.0", "raw": "90.\n\ne: The bathtub is 60 cm.", "score": 0.5263157894736842}
+{"id": 328, "task": "object_size_estimation", "gt": "82", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7368421052631579}
+{"id": 329, "task": "object_size_estimation", "gt": "150", "pred": "30.0", "raw": "30.\nRationale: This is the length of the fireplace.", "score": 0.15789473684210525}
+{"id": 330, "task": "object_size_estimation", "gt": "96", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 1.0}
+{"id": 331, "task": "object_size_estimation", "gt": "47", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.0}
+{"id": 332, "task": "object_size_estimation", "gt": "151", "pred": "30.0", "raw": "30.\nRationale: The fireplace is 30 cm.", "score": 0.15789473684210525}
+{"id": 333, "task": "object_size_estimation", "gt": "105", "pred": "180.0", "raw": "180.\nRationale: The sofa is not meters long.", "score": 0.2631578947368421}
+{"id": 334, "task": "object_size_estimation", "gt": "51", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.8421052631578947}
+{"id": 335, "task": "object_size_estimation", "gt": "125", "pred": "120.0", "raw": "120.\nRationale: The is a medium sized table.", "score": 1.0}
+{"id": 336, "task": "object_size_estimation", "gt": "148", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a small refrigerator.", "score": 0.7894736842105263}
+{"id": 337, "task": "object_size_estimation", "gt": "100", "pred": "120.0", "raw": "120.\nRationale: The longest dimension of the stove.", "score": 0.7894736842105263}
+{"id": 338, "task": "object_size_estimation", "gt": "94", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.9473684210526315}
+{"id": 339, "task": "object_size_estimation", "gt": "64", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.9473684210526315}
+{"id": 340, "task": "object_size_estimation", "gt": "80", "pred": "30.0", "raw": "30.\n\ne: The washer is  on the floor.", "score": 0.3684210526315789}
+{"id": 341, "task": "object_size_estimation", "gt": "112", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 0.8947368421052632}
+{"id": 342, "task": "object_size_estimation", "gt": "205", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 1.0}
+{"id": 343, "task": "object_size_estimation", "gt": "101", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 1.0}
+{"id": 344, "task": "object_size_estimation", "gt": "78", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7894736842105263}
+{"id": 345, "task": "object_size_estimation", "gt": "216", "pred": "150.0", "raw": "150.\nRationale: The bed is a twin bed.", "score": 0.6842105263157895}
+{"id": 346, "task": "object_size_estimation", "gt": "200", "pred": "150.0", "raw": "150.\nRationale: The bed is a twin size.", "score": 0.7368421052631579}
+{"id": 347, "task": "object_size_estimation", "gt": "73", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.631578947368421}
+{"id": 348, "task": "object_size_estimation", "gt": "169", "pred": "60.0", "raw": "60.\n\ne: The bathtub is 60 cm.", "score": 0.3684210526315789}
+{"id": 349, "task": "object_size_estimation", "gt": "75", "pred": "60.0", "raw": "60.\n\ne: The toilet is 60 cm.", "score": 0.7894736842105263}
+{"id": 350, "task": "object_size_estimation", "gt": "121", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.8421052631578947}
+{"id": 351, "task": "object_size_estimation", "gt": "209", "pred": "200.0", "raw": "200.\nRationale: The bed is a queen size.", "score": 1.0}
+{"id": 352, "task": "object_size_estimation", "gt": "67", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.5263157894736842}
+{"id": 353, "task": "object_size_estimation", "gt": "164", "pred": "150.0", "raw": "150.\nRationale: The fireplace is a small fireplace.", "score": 0.9473684210526315}
+{"id": 354, "task": "object_size_estimation", "gt": "190", "pred": "150.0", "raw": "150.\nRationale: The is a medium sized table.", "score": 0.7894736842105263}
+{"id": 355, "task": "object_size_estimation", "gt": "77", "pred": "60.0", "raw": "60.\nRationale: The stove is 60 cm.", "score": 0.7894736842105263}
+{"id": 356, "task": "object_size_estimation", "gt": "231", "pred": "200.0", "raw": "200.\nRationale: The bed is a queen bed.", "score": 0.8947368421052632}
+{"id": 357, "task": "object_size_estimation", "gt": "75", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.6842105263157895}
+{"id": 358, "task": "object_size_estimation", "gt": "161", "pred": "30.0", "raw": "30.\nRationale: The fireplace is 30 cm.", "score": 0.15789473684210525}
+{"id": 359, "task": "object_size_estimation", "gt": "102", "pred": "60.0", "raw": "60.\n\nRationale: The chair is measured in length.", "score": 0.5789473684210527}
+{"id": 360, "task": "object_size_estimation", "gt": "165", "pred": "60.0", "raw": "60.\nRationale: This is the height of the fireplace.", "score": 0.3684210526315789}
+{"id": 361, "task": "object_size_estimation", "gt": "126", "pred": "100.0", "raw": "100.\nRationale: The tv is a square screen.", "score": 0.7894736842105263}
+{"id": 362, "task": "object_size_estimation", "gt": "154", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 0.8421052631578947}
+{"id": 363, "task": "object_size_estimation", "gt": "167", "pred": "150.0", "raw": "150.\nRationale: This is a standard sized bathtub.", "score": 0.8947368421052632}
+{"id": 364, "task": "object_size_estimation", "gt": "82", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7368421052631579}
+{"id": 365, "task": "object_size_estimation", "gt": "99", "pred": "100.0", "raw": "100.\nRationale: The tv is a square screen.", "score": 1.0}
+{"id": 366, "task": "object_size_estimation", "gt": "181", "pred": "120.0", "raw": "120.\nRationale: The longest dimension of the fireplace.", "score": 0.6842105263157895}
+{"id": 367, "task": "object_size_estimation", "gt": "58", "pred": "120.0", "raw": "120.\nRationale: The table is a small table.", "score": 0.0}
+{"id": 368, "task": "object_size_estimation", "gt": "108", "pred": "90.0", "raw": "90.\nRationale: The chair is 90 cm.", "score": 0.8421052631578947}
+{"id": 369, "task": "object_size_estimation", "gt": "183", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 1.0}
+{"id": 370, "task": "object_size_estimation", "gt": "89", "pred": "60.0", "raw": "60.\nRationale: The dishwasher is 60 cm.", "score": 0.6842105263157895}
+{"id": 371, "task": "object_size_estimation", "gt": "63", "pred": "60.0", "raw": "60.\nRationale: The stove is 30 cm.", "score": 1.0}
+{"id": 372, "task": "object_size_estimation", "gt": "58", "pred": "32.0", "raw": "32.\nRationale: The tv is 32 inches.", "score": 0.5789473684210527}
+{"id": 373, "task": "object_size_estimation", "gt": "60", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.47368421052631576}
+{"id": 374, "task": "object_size_estimation", "gt": "89", "pred": "90.0", "raw": "90.\n\ne: The table is 90 cm.", "score": 1.0}
+{"id": 375, "task": "object_size_estimation", "gt": "183", "pred": "150.0", "raw": "150.\nRationale: The is a standard sized bathtub.", "score": 0.8421052631578947}
+{"id": 376, "task": "object_size_estimation", "gt": "61", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 1.0}
+{"id": 377, "task": "object_size_estimation", "gt": "66", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.9473684210526315}
+{"id": 378, "task": "object_size_estimation", "gt": "101", "pred": "60.0", "raw": "60.\n\ne: The table is 60 cm.", "score": 0.5789473684210527}
+{"id": 379, "task": "object_size_estimation", "gt": "103", "pred": "100.0", "raw": "100.\nRationale: The tv is a square size.", "score": 1.0}
+{"id": 380, "task": "object_size_estimation", "gt": "142", "pred": "120.0", "raw": "120.\nRationale: The longest dimension of the fireplace.", "score": 0.8421052631578947}
+{"id": 381, "task": "object_size_estimation", "gt": "124", "pred": "100.0", "raw": "100.\nRational:: The tv is a small screen.", "score": 0.8421052631578947}
+{"id": 382, "task": "object_size_estimation", "gt": "186", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen that long.", "score": 1.0}
+{"id": 383, "task": "object_size_estimation", "gt": "69", "pred": "60.0", "raw": "60.\nRationale: The stove is 60 cm.", "score": 0.8947368421052632}
+{"id": 384, "task": "object_size_estimation", "gt": "132", "pred": "120.0", "raw": "120.\nRationale: The table is a round table.", "score": 0.9473684210526315}
+{"id": 385, "task": "object_size_estimation", "gt": "273", "pred": "100.0", "raw": "100.\nRationale: The table is a meter long.", "score": 0.3684210526315789}
+{"id": 386, "task": "object_size_estimation", "gt": "79", "pred": "60.0", "raw": "60.\nRationale: The chair is 60 cm.", "score": 0.7894736842105263}
+{"id": 387, "task": "object_size_estimation", "gt": "53", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.5789473684210527}
+{"id": 388, "task": "object_size_estimation", "gt": "46", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.6842105263157895}
+{"id": 389, "task": "object_size_estimation", "gt": "50", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.7894736842105263}
+{"id": 390, "task": "object_size_estimation", "gt": "125", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 0.7894736842105263}
+{"id": 391, "task": "object_size_estimation", "gt": "33", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.15789473684210525}
+{"id": 392, "task": "object_size_estimation", "gt": "125", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.7894736842105263}
+{"id": 393, "task": "object_size_estimation", "gt": "217", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 394, "task": "object_size_estimation", "gt": "156", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a small refrigerator.", "score": 0.8421052631578947}
+{"id": 395, "task": "object_size_estimation", "gt": "60", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.47368421052631576}
+{"id": 396, "task": "object_size_estimation", "gt": "76", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.7894736842105263}
+{"id": 397, "task": "object_size_estimation", "gt": "142", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.42105263157894735}
+{"id": 398, "task": "object_size_estimation", "gt": "53", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.8947368421052632}
+{"id": 399, "task": "object_size_estimation", "gt": "96", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 1.0}
+{"id": 400, "task": "object_size_estimation", "gt": "204", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 0.8947368421052632}
+{"id": 401, "task": "object_size_estimation", "gt": "73", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.8421052631578947}
+{"id": 402, "task": "object_size_estimation", "gt": "63", "pred": "30.0", "raw": "30.\nRationale: The stool is 30 cm.", "score": 0.47368421052631576}
+{"id": 403, "task": "object_size_estimation", "gt": "80", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.3684210526315789}
+{"id": 404, "task": "object_size_estimation", "gt": "175", "pred": "300.0", "raw": "300.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.2631578947368421}
+{"id": 405, "task": "object_size_estimation", "gt": "94", "pred": "60.0", "raw": "60.\nRationale: The stove is 60 cm.", "score": 0.631578947368421}
+{"id": 406, "task": "object_size_estimation", "gt": "242", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.7368421052631579}
+{"id": 407, "task": "object_size_estimation", "gt": "79", "pred": "60.0", "raw": "60.\n\ne: The chair is 60 cm.", "score": 0.7894736842105263}
+{"id": 408, "task": "object_size_estimation", "gt": "55", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.9473684210526315}
+{"id": 409, "task": "object_size_estimation", "gt": "196", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 0.9473684210526315}
+{"id": 410, "task": "object_size_estimation", "gt": "86", "pred": "90.0", "raw": "90.\nRationale: The length is 90 cm.", "score": 1.0}
+{"id": 411, "task": "object_size_estimation", "gt": "62", "pred": "60.0", "raw": "60.\nRationale: The stove is 30 cm.", "score": 1.0}
+{"id": 412, "task": "object_size_estimation", "gt": "136", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.6842105263157895}
+{"id": 413, "task": "object_size_estimation", "gt": "25", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.0}
+{"id": 414, "task": "object_size_estimation", "gt": "201", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 415, "task": "object_size_estimation", "gt": "51", "pred": "25.0", "raw": "25.\nRationale: The tv is 10 inches.", "score": 0.47368421052631576}
+{"id": 416, "task": "object_size_estimation", "gt": "91", "pred": "80.0", "raw": "80.\nRationale: This is the length of the table.", "score": 0.8947368421052632}
+{"id": 417, "task": "object_size_estimation", "gt": "74", "pred": "30.0", "raw": "30.\n\nRationale: The chair is small in centimeters.", "score": 0.42105263157894735}
+{"id": 418, "task": "object_size_estimation", "gt": "203", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.8947368421052632}
+{"id": 419, "task": "object_size_estimation", "gt": "84", "pred": "120.0", "raw": "120.\nRationale: This is a medium sized dishwasher.", "score": 0.5789473684210527}
+{"id": 420, "task": "object_size_estimation", "gt": "139", "pred": "180.0", "raw": "180.\nRationale: The table is a square table.", "score": 0.7368421052631579}
+{"id": 421, "task": "object_size_estimation", "gt": "144", "pred": "30.0", "raw": "30.\nRationale: This is the height of the fireplace.", "score": 0.21052631578947367}
+{"id": 422, "task": "object_size_estimation", "gt": "141", "pred": "100.0", "raw": "100.\nRationale: The tv is a small size.", "score": 0.7368421052631579}
+{"id": 423, "task": "object_size_estimation", "gt": "95", "pred": "120.0", "raw": "120.\nRationale: The is a medium sized dishwasher.", "score": 0.7368421052631579}
+{"id": 424, "task": "object_size_estimation", "gt": "202", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.8947368421052632}
+{"id": 425, "task": "object_size_estimation", "gt": "176", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 426, "task": "object_size_estimation", "gt": "213", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 427, "task": "object_size_estimation", "gt": "112", "pred": "100.0", "raw": "100.\nRational:: The tv is a small television.", "score": 0.8947368421052632}
+{"id": 428, "task": "object_size_estimation", "gt": "84", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7368421052631579}
+{"id": 429, "task": "object_size_estimation", "gt": "103", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 0.2631578947368421}
+{"id": 430, "task": "object_size_estimation", "gt": "123", "pred": "120.0", "raw": "120.\nRationale: The is a medium sized table.", "score": 1.0}
+{"id": 431, "task": "object_size_estimation", "gt": "60", "pred": "30.0", "raw": "30.\n\nRationale: The chair is small in height.", "score": 0.47368421052631576}
+{"id": 432, "task": "object_size_estimation", "gt": "207", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 433, "task": "object_size_estimation", "gt": "123", "pred": "150.0", "raw": "150.\nRationale: The table is half that long.", "score": 0.7894736842105263}
+{"id": 434, "task": "object_size_estimation", "gt": "71", "pred": "32.0", "raw": "32.\n\ne: The tv is 32 inches.", "score": 0.47368421052631576}
+{"id": 435, "task": "object_size_estimation", "gt": "49", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.7894736842105263}
+{"id": 436, "task": "object_size_estimation", "gt": "73", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.42105263157894735}
+{"id": 437, "task": "object_size_estimation", "gt": "188", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a small refrigerator.", "score": 1.0}
+{"id": 438, "task": "object_size_estimation", "gt": "140", "pred": "150.0", "raw": "150 \nRationale: The bathtub is a standard bathtub.", "score": 0.9473684210526315}
+{"id": 439, "task": "object_size_estimation", "gt": "87", "pred": "120.0", "raw": "120 \nRationale: The length is the longest dimension.", "score": 0.631578947368421}
+{"id": 440, "task": "object_size_estimation", "gt": "209", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 441, "task": "object_size_estimation", "gt": "144", "pred": "100.0", "raw": "100.\nRationale: The tv is a small television.", "score": 0.6842105263157895}
+{"id": 442, "task": "object_size_estimation", "gt": "223", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.8421052631578947}
+{"id": 443, "task": "object_size_estimation", "gt": "95", "pred": "100.0", "raw": "100.\nRationale: The tv is a medium size.", "score": 0.9473684210526315}
+{"id": 444, "task": "object_size_estimation", "gt": "75", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7894736842105263}
+{"id": 445, "task": "object_size_estimation", "gt": "78", "pred": "60.0", "raw": "60.\nRationale: The chair is 60 cm.", "score": 0.7894736842105263}
+{"id": 446, "task": "object_size_estimation", "gt": "87", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.6842105263157895}
+{"id": 447, "task": "object_size_estimation", "gt": "40", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.47368421052631576}
+{"id": 448, "task": "object_size_estimation", "gt": "70", "pred": "30.0", "raw": "30.\n\ne: The tv is 32 inches.", "score": 0.42105263157894735}
+{"id": 449, "task": "object_size_estimation", "gt": "191", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 450, "task": "object_size_estimation", "gt": "164", "pred": "150.0", "raw": "150.\nRationale: The refrigerator is a small refrigerator.", "score": 0.9473684210526315}
+{"id": 451, "task": "object_size_estimation", "gt": "66", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.47368421052631576}
+{"id": 452, "task": "object_size_estimation", "gt": "78", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.7894736842105263}
+{"id": 453, "task": "object_size_estimation", "gt": "79", "pred": "90.0", "raw": "90.\n\ne: The length is 90 cm.", "score": 0.8947368421052632}
+{"id": 454, "task": "object_size_estimation", "gt": "36", "pred": "30.0", "raw": "30.\nRationale: The stool is 30 cm.", "score": 0.8421052631578947}
+{"id": 455, "task": "object_size_estimation", "gt": "165", "pred": "300.0", "raw": "300.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.15789473684210525}
+{"id": 456, "task": "object_size_estimation", "gt": "67", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.42105263157894735}
+{"id": 457, "task": "object_size_estimation", "gt": "91", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.6842105263157895}
+{"id": 458, "task": "object_size_estimation", "gt": "99", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.631578947368421}
+{"id": 459, "task": "object_size_estimation", "gt": "47", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.7368421052631579}
+{"id": 460, "task": "object_size_estimation", "gt": "47", "pred": "40.0", "raw": "40.\n\ne: The tv is 40 inches.", "score": 0.8947368421052632}
+{"id": 461, "task": "object_size_estimation", "gt": "138", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.42105263157894735}
+{"id": 462, "task": "object_size_estimation", "gt": "85", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.7368421052631579}
+{"id": 463, "task": "object_size_estimation", "gt": "190", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 464, "task": "object_size_estimation", "gt": "113", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.5263157894736842}
+{"id": 465, "task": "object_size_estimation", "gt": "43", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.631578947368421}
+{"id": 466, "task": "object_size_estimation", "gt": "96", "pred": "100.0", "raw": "100.\nRationale: The tv is a small television.", "score": 1.0}
+{"id": 467, "task": "object_size_estimation", "gt": "76", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.7894736842105263}
+{"id": 468, "task": "object_size_estimation", "gt": "179", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 1.0}
+{"id": 469, "task": "object_size_estimation", "gt": "86", "pred": "32.0", "raw": "32.\nRationale: The tv is 32 inches.", "score": 0.3684210526315789}
+{"id": 470, "task": "object_size_estimation", "gt": "58", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.5263157894736842}
+{"id": 471, "task": "object_size_estimation", "gt": "66", "pred": "30.0", "raw": "30.\nRationale: The stool is 30 cm.", "score": 0.47368421052631576}
+{"id": 472, "task": "object_size_estimation", "gt": "90", "pred": "50.0", "raw": "50.\n\ne: The tv is 50 inches.", "score": 0.5789473684210527}
+{"id": 473, "task": "object_size_estimation", "gt": "184", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen meters long.", "score": 1.0}
+{"id": 474, "task": "object_size_estimation", "gt": "139", "pred": "80.0", "raw": "80.\nRationale: This is the length of the table.", "score": 0.5789473684210527}
+{"id": 475, "task": "object_size_estimation", "gt": "164", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.3684210526315789}
+{"id": 476, "task": "object_size_estimation", "gt": "83", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.7368421052631579}
+{"id": 477, "task": "object_size_estimation", "gt": "54", "pred": "55.0", "raw": "55.\nRationale: The toilet is 50 cm.", "score": 1.0}
+{"id": 478, "task": "object_size_estimation", "gt": "161", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.3684210526315789}
+{"id": 479, "task": "object_size_estimation", "gt": "203", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 0.8947368421052632}
+{"id": 480, "task": "object_size_estimation", "gt": "75", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.7894736842105263}
+{"id": 481, "task": "object_size_estimation", "gt": "216", "pred": "200.0", "raw": "200.\nRationale: The bed is a queen bed.", "score": 0.9473684210526315}
+{"id": 482, "task": "object_size_estimation", "gt": "101", "pred": "90.0", "raw": "90.\nRationale: The chair is 90 cm.", "score": 0.8947368421052632}
+{"id": 483, "task": "object_size_estimation", "gt": "107", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 0.3157894736842105}
+{"id": 484, "task": "object_size_estimation", "gt": "41", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.5263157894736842}
+{"id": 485, "task": "object_size_estimation", "gt": "165", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.3684210526315789}
+{"id": 486, "task": "object_size_estimation", "gt": "85", "pred": "55.0", "raw": "55.\nRationale: The toilet is 50 cm.", "score": 0.631578947368421}
+{"id": 487, "task": "object_size_estimation", "gt": "83", "pred": "90.0", "raw": "90.\nRationale: The length is 60 cm.", "score": 0.9473684210526315}
+{"id": 488, "task": "object_size_estimation", "gt": "40", "pred": "30.0", "raw": "30.\nRationale: The stool is 30 cm.", "score": 0.7368421052631579}
+{"id": 489, "task": "object_size_estimation", "gt": "58", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.5263157894736842}
+{"id": 490, "task": "object_size_estimation", "gt": "111", "pred": "100.0", "raw": "100.\nRationale: The tv is a small television.", "score": 0.9473684210526315}
+{"id": 491, "task": "object_size_estimation", "gt": "82", "pred": "60.0", "raw": "60.\nRationale: The table is 60 cm.", "score": 0.7368421052631579}
+{"id": 492, "task": "object_size_estimation", "gt": "134", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.42105263157894735}
+{"id": 493, "task": "object_size_estimation", "gt": "84", "pred": "60.0", "raw": "60.\nRationale: The washer is 60 cm.", "score": 0.7368421052631579}
+{"id": 494, "task": "object_size_estimation", "gt": "63", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.47368421052631576}
+{"id": 495, "task": "object_size_estimation", "gt": "158", "pred": "90.0", "raw": "90.\n\nRationale: The refrigerator is a standard refrigerator.", "score": 0.5789473684210527}
+{"id": 496, "task": "object_size_estimation", "gt": "113", "pred": "90.0", "raw": "90.\nRationale: The table is 90 cm.", "score": 0.7894736842105263}
+{"id": 497, "task": "object_size_estimation", "gt": "129", "pred": "100.0", "raw": "100.\nRationale: The tv is a small television.", "score": 0.7894736842105263}
+{"id": 498, "task": "object_size_estimation", "gt": "53", "pred": "50.0", "raw": "50.\nRationale: The toilet is 50 cm.", "score": 0.9473684210526315}
+{"id": 499, "task": "object_size_estimation", "gt": "193", "pred": "60.0", "raw": "60.\n\nRationale: The bathtub is six feet long.", "score": 0.3157894736842105}
+{"id": 500, "task": "object_size_estimation", "gt": "213", "pred": "180.0", "raw": "180.\nRationale: The sofa is eighteen feet long.", "score": 0.8421052631578947}
+{"id": 501, "task": "object_size_estimation", "gt": "101", "pred": "60.0", "raw": "60.\nRationale: The chair is 60 cm.", "score": 0.5789473684210527}
+{"id": 502, "task": "object_size_estimation", "gt": "80", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.3684210526315789}
+{"id": 503, "task": "object_size_estimation", "gt": "96", "pred": "100.0", "raw": "100.\nRationale: The tv is on the wall.", "score": 1.0}
+{"id": 504, "task": "object_size_estimation", "gt": "58", "pred": "120.0", "raw": "120.\nRationale: The longest dimension of the stove.", "score": 0.0}
+{"id": 505, "task": "object_size_estimation", "gt": "114", "pred": "130.0", "raw": "130.\nRationale: The longest dimension is the height.", "score": 0.8947368421052632}
+{"id": 506, "task": "object_size_estimation", "gt": "138", "pred": null, "raw": "The longest dimension.\nRationale: The table is the longest dimension.", "score": 0.0}
+{"id": 507, "task": "object_size_estimation", "gt": "58", "pred": "100.0", "raw": "100.\nRationale: The tv is a small screen.", "score": 0.2631578947368421}
+{"id": 508, "task": "object_size_estimation", "gt": "221", "pred": "200.0", "raw": "200.\nRationale: The bed is a twin bed.", "score": 0.9473684210526315}
+{"id": 509, "task": "object_size_estimation", "gt": "168", "pred": "60.0", "raw": "60.\nRationale: The bathtub is 60 cm.", "score": 0.3684210526315789}
+{"id": 510, "task": "object_size_estimation", "gt": "51", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.8421052631578947}
+{"id": 511, "task": "object_size_estimation", "gt": "84", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.7368421052631579}
+{"id": 512, "task": "object_size_estimation", "gt": "140", "pred": "90.0", "raw": "90.\n\ne: The table is 90 cm.", "score": 0.631578947368421}
+{"id": 513, "task": "object_size_estimation", "gt": "205", "pred": "180.0", "raw": "180.\nRationale: The bed is a twin bed.", "score": 0.8947368421052632}
+{"id": 514, "task": "object_size_estimation", "gt": "46", "pred": "60.0", "raw": "60.\nRationale: The stool is 60 cm.", "score": 0.6842105263157895}
+{"id": 515, "task": "object_size_estimation", "gt": "80", "pred": "30.0", "raw": "30.\nRationale: The tv is 20 inches.", "score": 0.3684210526315789}
+{"id": 516, "task": "object_size_estimation", "gt": "168", "pred": "180.0", "raw": "180.\nRationale: The refrigerator is a standard refrigerator.", "score": 0.9473684210526315}
+{"id": 517, "task": "object_size_estimation", "gt": "58", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.5263157894736842}
+{"id": 518, "task": "object_size_estimation", "gt": "72", "pred": "90.0", "raw": "90.\nRationale: The table is 60 cm.", "score": 0.7368421052631579}
+{"id": 519, "task": "object_size_estimation", "gt": "135", "pred": "60.0", "raw": "60.\n\nExplanation: The bathtub is 60 cm.", "score": 0.42105263157894735}
+{"id": 520, "task": "object_size_estimation", "gt": "81", "pred": "60.0", "raw": "60.\nRationale: The length is 60 cm.", "score": 0.7368421052631579}
+{"id": 521, "task": "object_size_estimation", "gt": "74", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.8421052631578947}
+{"id": 522, "task": "object_size_estimation", "gt": "56", "pred": "60.0", "raw": "60.\nRationale: The toilet is 60 cm.", "score": 0.9473684210526315}
+{"id": 523, "task": "object_size_estimation", "gt": "83", "pred": "90.0", "raw": "90.\n\nRationale: The length is 90.", "score": 0.9473684210526315}
+{"id": 524, "task": "object_size_estimation", "gt": "149", "pred": "150.0", "raw": "150.\nRationale: The bathtub is a standard bathtub.", "score": 1.0}
+{"id": 525, "task": "object_size_estimation", "gt": "100", "pred": "100.0", "raw": "100.\nRationale: The tv is a small television.", "score": 1.0}
+{"id": 526, "task": "object_size_estimation", "gt": "41", "pred": "30.0", "raw": "30.\nRationale: The stool is 30 cm.", "score": 0.7368421052631579}
+{"id": 527, "task": "object_size_estimation", "gt": "59", "pred": "30.0", "raw": "30.\nRationale: The stove is 30 cm.", "score": 0.5263157894736842}
+{"id": 528, "task": "object_size_estimation", "gt": "201", "pred": "300.0", "raw": "300.\nRationale: The refrigerator is a large refrigerator.", "score": 0.5263157894736842}
+{"id": 529, "task": "object_size_estimation", "gt": "211", "pred": "200.0", "raw": "200.\nRationale: The bed is two meters long.", "score": 0.9473684210526315}
+{"id": 530, "task": "room_size_estimation", "gt": "26.4", "pred": "30.0", "raw": "The size of this room in square meters is 30 square meters.", "score": 0.8947368421052632}
+{"id": 531, "task": "room_size_estimation", "gt": "16.3", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.6842105263157895}
+{"id": 532, "task": "room_size_estimation", "gt": "7.1", "pred": "2.5", "raw": "2.5\n This room is about 3.5 square meters.", "score": 0.3684210526315789}
+{"id": 533, "task": "room_size_estimation", "gt": "30.9", "pred": "50.0", "raw": "The size of the room in square meters is 50 square meters.", "score": 0.3684210526315789}
+{"id": 534, "task": "room_size_estimation", "gt": "23.6", "pred": "10.0", "raw": "The size of the room in the video is 10 square meters.", "score": 0.42105263157894735}
+{"id": 535, "task": "room_size_estimation", "gt": "10.2", "pred": "11.5", "raw": "The size of this room is approximately 11.5 square meters.", "score": 0.8947368421052632}
+{"id": 536, "task": "room_size_estimation", "gt": "8.0", "pred": "1.0", "raw": "The size of this room is approximately 1..5 square meters.", "score": 0.10526315789473684}
+{"id": 537, "task": "room_size_estimation", "gt": "19.7", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.5789473684210527}
+{"id": 538, "task": "room_size_estimation", "gt": "29.5", "pred": "15.0", "raw": "15\nRationale: The room is 10 square meters.", "score": 0.5263157894736842}
+{"id": 539, "task": "room_size_estimation", "gt": "24.7", "pred": "111.2", "raw": "The size of this room is 111.2 square meters.", "score": 0.0}
+{"id": 540, "task": "room_size_estimation", "gt": "43.2", "pred": "150.0", "raw": "The room is 150 to 200 square meters.", "score": 0.0}
+{"id": 541, "task": "room_size_estimation", "gt": "28.4", "pred": null, "raw": "The video does not provide enough information to estimate the size of the room.", "score": 0.0}
+{"id": 542, "task": "room_size_estimation", "gt": "43.0", "pred": "30.0", "raw": "30. \nThis room is about 30 square meters.", "score": 0.6842105263157895}
+{"id": 543, "task": "room_size_estimation", "gt": "14.6", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.0}
+{"id": 544, "task": "room_size_estimation", "gt": "8.3", "pred": "3.0", "raw": "3.\nThe size of this room is about 6 square meters.", "score": 0.3684210526315789}
+{"id": 545, "task": "room_size_estimation", "gt": "11.4", "pred": "15.0", "raw": "15\nRationale: The room is 10 square meters.", "score": 0.6842105263157895}
+{"id": 546, "task": "room_size_estimation", "gt": "31.6", "pred": "20.0", "raw": "The size of this room is about 20.0 square meters.", "score": 0.631578947368421}
+{"id": 547, "task": "room_size_estimation", "gt": "21.3", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.5789473684210527}
+{"id": 548, "task": "room_size_estimation", "gt": "7.5", "pred": null, "raw": "The video does not provide enough information to estimate the size of the room.", "score": 0.0}
+{"id": 549, "task": "room_size_estimation", "gt": "17.6", "pred": "15.0", "raw": "15.\nRationale: The kitchen is about fifteen in size.", "score": 0.8947368421052632}
+{"id": 550, "task": "room_size_estimation", "gt": "11.6", "pred": "10.0", "raw": "10.\nRationale: The room is about ten square meters.", "score": 0.8947368421052632}
+{"id": 551, "task": "room_size_estimation", "gt": "19.2", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.5789473684210527}
+{"id": 552, "task": "room_size_estimation", "gt": "16.2", "pred": "15.0", "raw": "15.\nRationale: The room is about the in size.", "score": 0.9473684210526315}
+{"id": 553, "task": "room_size_estimation", "gt": "19.9", "pred": "30.0", "raw": "30\nRationale: The room is 30 square meters.", "score": 0.47368421052631576}
+{"id": 554, "task": "room_size_estimation", "gt": "24.9", "pred": "100.0", "raw": "100 \nThis room is 100 square meters.", "score": 0.0}
+{"id": 555, "task": "room_size_estimation", "gt": "10.6", "pred": "15.0", "raw": "15\nRationale: The room is 15 square meters.", "score": 0.5789473684210527}
+{"id": 556, "task": "room_size_estimation", "gt": "27.0", "pred": "100.0", "raw": "100.\nRationale: The is a medium sized room.", "score": 0.0}
+{"id": 557, "task": "room_size_estimation", "gt": "14.8", "pred": "15.0", "raw": "15\nRationale: The room is 10 square meters.", "score": 1.0}
+{"id": 558, "task": "room_size_estimation", "gt": "38.7", "pred": "100.0", "raw": "100 \nThis room is 100 square meters.", "score": 0.0}
+{"id": 559, "task": "room_size_estimation", "gt": "26.6", "pred": "30.0", "raw": "30. \nThis room is about 30 square meters.", "score": 0.8947368421052632}
+{"id": 560, "task": "room_size_estimation", "gt": "20.7", "pred": "15.0", "raw": "15. The size of this room is 15 square meters.", "score": 0.7368421052631579}
+{"id": 561, "task": "room_size_estimation", "gt": "22.6", "pred": "15.0", "raw": "15\nRationale: The room is 15 square meters.", "score": 0.6842105263157895}
+{"id": 562, "task": "room_size_estimation", "gt": "20.0", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.47368421052631576}
+{"id": 563, "task": "room_size_estimation", "gt": "10.2", "pred": "8.0", "raw": "8.\nThe size of this room is about 6 square meters.", "score": 0.7894736842105263}
+{"id": 564, "task": "room_size_estimation", "gt": "34.0", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.8947368421052632}
+{"id": 565, "task": "room_size_estimation", "gt": "20.6", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.5263157894736842}
+{"id": 566, "task": "room_size_estimation", "gt": "11.9", "pred": "111.8", "raw": "The size of this room is 111.8 square meters.", "score": 0.0}
+{"id": 567, "task": "room_size_estimation", "gt": "29.0", "pred": "30.0", "raw": "30.\n\nThis room is about 30 square meters.", "score": 1.0}
+{"id": 568, "task": "room_size_estimation", "gt": "9.4", "pred": "6.0", "raw": "6.\nRationale: This room is about 6 square meters.", "score": 0.631578947368421}
+{"id": 569, "task": "room_size_estimation", "gt": "13.1", "pred": "15.0", "raw": "15. \nThis room is about 15 square meters.", "score": 0.8947368421052632}
+{"id": 570, "task": "room_size_estimation", "gt": "16.9", "pred": "15.0", "raw": "15\nThe size of this room is 15 square meters.", "score": 0.8947368421052632}
+{"id": 571, "task": "room_size_estimation", "gt": "50.1", "pred": "1.0", "raw": "The room is 1,000.00 square meters.", "score": 0.0}
+{"id": 572, "task": "room_size_estimation", "gt": "37.4", "pred": "100.0", "raw": "100 \nThis room is 100 square meters.", "score": 0.0}
+{"id": 573, "task": "room_size_estimation", "gt": "31.2", "pred": "20.0", "raw": "20.0\nThis room is about 20 square meters.", "score": 0.631578947368421}
+{"id": 574, "task": "room_size_estimation", "gt": "32.3", "pred": "15.0", "raw": "15.0\nThis room is about 15 square meters.", "score": 0.47368421052631576}
+{"id": 575, "task": "room_size_estimation", "gt": "34.6", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 576, "task": "room_size_estimation", "gt": "20.9", "pred": "30.0", "raw": "The size of this room in square meters is 30 square meters.", "score": 0.5789473684210527}
+{"id": 577, "task": "room_size_estimation", "gt": "23.3", "pred": "10.0", "raw": "10. \nThis room is about 10 square meters.", "score": 0.42105263157894735}
+{"id": 578, "task": "room_size_estimation", "gt": "26.9", "pred": "15.0", "raw": "15\n The size of this room is 15 square meters.", "score": 0.5789473684210527}
+{"id": 579, "task": "room_size_estimation", "gt": "10.3", "pred": "15.0", "raw": "15. \nThis room is about 15 square meters.", "score": 0.5263157894736842}
+{"id": 580, "task": "room_size_estimation", "gt": "14.8", "pred": "10.28", "raw": "The size of this room is 10.28 square meters.", "score": 0.6842105263157895}
+{"id": 581, "task": "room_size_estimation", "gt": "73.0", "pred": "100.0", "raw": "100\n\nRationale: The is a very sized room.", "score": 0.631578947368421}
+{"id": 582, "task": "room_size_estimation", "gt": "20.2", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.5263157894736842}
+{"id": 583, "task": "room_size_estimation", "gt": "38.4", "pred": "100.0", "raw": "100.\nRationale: The is a medium sized room.", "score": 0.0}
+{"id": 584, "task": "room_size_estimation", "gt": "28.6", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 1.0}
+{"id": 585, "task": "room_size_estimation", "gt": "9.1", "pred": "10.0", "raw": "The size of this room is 10.00 square meters.", "score": 0.9473684210526315}
+{"id": 586, "task": "room_size_estimation", "gt": "36.3", "pred": "30.0", "raw": "30. \nThis room is about 30 square meters.", "score": 0.8421052631578947}
+{"id": 587, "task": "room_size_estimation", "gt": "30.6", "pred": "30.0", "raw": "30. \nThis room is about 30 square meters.", "score": 1.0}
+{"id": 588, "task": "room_size_estimation", "gt": "12.2", "pred": "11.5", "raw": "The size of this room is about 11.5 square meters.", "score": 0.9473684210526315}
+{"id": 589, "task": "room_size_estimation", "gt": "33.5", "pred": "30.0", "raw": "30 \n The room size is approximately 30 square meters.", "score": 0.8947368421052632}
+{"id": 590, "task": "room_size_estimation", "gt": "12.4", "pred": "6.0", "raw": "6.\nRationale: The room is about 6 square meters.", "score": 0.47368421052631576}
+{"id": 591, "task": "room_size_estimation", "gt": "6.1", "pred": "8.0", "raw": "8.\nThe size of this room is about 6 square meters.", "score": 0.6842105263157895}
+{"id": 592, "task": "room_size_estimation", "gt": "23.1", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.47368421052631576}
+{"id": 593, "task": "room_size_estimation", "gt": "23.0", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.47368421052631576}
+{"id": 594, "task": "room_size_estimation", "gt": "13.7", "pred": "30.0", "raw": "30. \nThis room is about 30 square meters.", "score": 0.0}
+{"id": 595, "task": "room_size_estimation", "gt": "12.4", "pred": "150.0", "raw": "The room is 150 to 200 square meters.", "score": 0.0}
+{"id": 596, "task": "room_size_estimation", "gt": "10.5", "pred": "10.28", "raw": "The size of this room is 10.28 square meters.", "score": 1.0}
+{"id": 597, "task": "room_size_estimation", "gt": "43.1", "pred": "100.0", "raw": "100\nRationale: The room is one hundred in size.", "score": 0.0}
+{"id": 598, "task": "room_size_estimation", "gt": "26.4", "pred": "30.0", "raw": "The size of this room in square meters is 30 square meters.", "score": 0.8947368421052632}
+{"id": 599, "task": "room_size_estimation", "gt": "11.8", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 600, "task": "room_size_estimation", "gt": "24.8", "pred": "30.0", "raw": "30\nRationale: The room is 30 square meters.", "score": 0.7894736842105263}
+{"id": 601, "task": "room_size_estimation", "gt": "27.4", "pred": "30.0", "raw": "The size of the room in the video is 30 square meters.", "score": 0.9473684210526315}
+{"id": 602, "task": "room_size_estimation", "gt": "8.5", "pred": "8.0", "raw": "8.\nThe size of this room is approximately 8 square meters.", "score": 0.9473684210526315}
+{"id": 603, "task": "room_size_estimation", "gt": "32.9", "pred": "12.5", "raw": "The size of this room is approximately 12.5 square meters.", "score": 0.3684210526315789}
+{"id": 604, "task": "room_size_estimation", "gt": "25.2", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 605, "task": "room_size_estimation", "gt": "21.4", "pred": "15.0", "raw": "15\nRationale: The room is 15 square meters.", "score": 0.7368421052631579}
+{"id": 606, "task": "room_size_estimation", "gt": "21.3", "pred": "10.0", "raw": "10.\nRationale: The room is about ten square meters.", "score": 0.47368421052631576}
+{"id": 607, "task": "room_size_estimation", "gt": "21.9", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.5263157894736842}
+{"id": 608, "task": "room_size_estimation", "gt": "10.6", "pred": "8.0", "raw": "8.\nThe size of this room is about 6 square meters.", "score": 0.7894736842105263}
+{"id": 609, "task": "room_size_estimation", "gt": "13.8", "pred": "15.0", "raw": "15. The size of this room is 15 square meters.", "score": 0.9473684210526315}
+{"id": 610, "task": "room_size_estimation", "gt": "5.4", "pred": "8.0", "raw": "8.\nThe size of this room is approximately 6 square meters.", "score": 0.5263157894736842}
+{"id": 611, "task": "room_size_estimation", "gt": "20.1", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 612, "task": "room_size_estimation", "gt": "13.7", "pred": "100.8", "raw": "The size of this room is 100.8 square meters.", "score": 0.0}
+{"id": 613, "task": "room_size_estimation", "gt": "40.2", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 614, "task": "room_size_estimation", "gt": "41.1", "pred": "100.0", "raw": "100, There is not enough information to determine the square footage.", "score": 0.0}
+{"id": 615, "task": "room_size_estimation", "gt": "10.4", "pred": "10.0", "raw": "The size of the room in the video is 10 square meters.", "score": 1.0}
+{"id": 616, "task": "room_size_estimation", "gt": "36.2", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 617, "task": "room_size_estimation", "gt": "26.1", "pred": "20.0", "raw": "The size of this room is approximately 20.0 square meters.", "score": 0.7894736842105263}
+{"id": 618, "task": "room_size_estimation", "gt": "10.0", "pred": "0.0", "raw": "0.\nRationale: The room is not shown in the video.", "score": 0.0}
+{"id": 619, "task": "room_size_estimation", "gt": "33.5", "pred": "30.0", "raw": "30\nRationale: The room is 30 square meters.", "score": 0.8947368421052632}
+{"id": 620, "task": "room_size_estimation", "gt": "22.4", "pred": "15.0", "raw": "15\nRationale: The room is 15 square meters.", "score": 0.6842105263157895}
+{"id": 621, "task": "room_size_estimation", "gt": "24.1", "pred": "30.0", "raw": "My estimate for the size of this room is 30 square meters.", "score": 0.7894736842105263}
+{"id": 622, "task": "room_size_estimation", "gt": "15.3", "pred": "15.0", "raw": "15\nRationale: The room is 10 square meters.", "score": 1.0}
+{"id": 623, "task": "room_size_estimation", "gt": "22.6", "pred": "100.0", "raw": "100 \nThis room is 100 square meters.", "score": 0.0}
+{"id": 624, "task": "room_size_estimation", "gt": "22.4", "pred": null, "raw": "The video does not provide enough information to estimate the size of the room.", "score": 0.0}
+{"id": 625, "task": "room_size_estimation", "gt": "35.1", "pred": "100.0", "raw": "100\nRationale: The room is one hundred in size.", "score": 0.0}
+{"id": 626, "task": "room_size_estimation", "gt": "9.4", "pred": "15.0", "raw": "15\nRationale: The room is 15 square meters.", "score": 0.42105263157894735}
+{"id": 627, "task": "room_size_estimation", "gt": "22.1", "pred": "111.2", "raw": "The size of this room is 111.2 square meters.", "score": 0.0}
+{"id": 628, "task": "room_size_estimation", "gt": "30.6", "pred": "50.0", "raw": "The size of the room in square meters is 50 square meters.", "score": 0.3684210526315789}
+{"id": 629, "task": "room_size_estimation", "gt": "13.0", "pred": null, "raw": "The video does not provide enough information to estimate the size of the room.", "score": 0.0}
+{"id": 630, "task": "room_size_estimation", "gt": "5.8", "pred": "0.5", "raw": "0.5.\nRationale: This is a very small bathroom.", "score": 0.05263157894736842}
+{"id": 631, "task": "room_size_estimation", "gt": "30.8", "pred": "30.0", "raw": "My estimate for the size of this room is 30 square meters.", "score": 1.0}
+{"id": 632, "task": "room_size_estimation", "gt": "18.4", "pred": "30.0", "raw": "30. \nThis room is about 30 square meters.", "score": 0.3684210526315789}
+{"id": 633, "task": "room_size_estimation", "gt": "18.3", "pred": "30.0", "raw": "30 \n The kitchen area is about 30 square meters.", "score": 0.3684210526315789}
+{"id": 634, "task": "room_size_estimation", "gt": "29.0", "pred": "15.0", "raw": "15\nRationale: The room is 15 square meters.", "score": 0.5263157894736842}
+{"id": 635, "task": "room_size_estimation", "gt": "7.2", "pred": "1.0", "raw": "The size of this room is approximately 1..5 square meters.", "score": 0.10526315789473684}
+{"id": 636, "task": "room_size_estimation", "gt": "23.4", "pred": "30.0", "raw": "30\nRationale: The room is 30 square meters.", "score": 0.7368421052631579}
+{"id": 637, "task": "room_size_estimation", "gt": "14.3", "pred": "100.0", "raw": "100.\nRationale: The is a very sized kitchen.", "score": 0.0}
+{"id": 638, "task": "room_size_estimation", "gt": "13.4", "pred": "10.0", "raw": "10.\nRationale: The room is about ten square meters.", "score": 0.7368421052631579}
+{"id": 639, "task": "room_size_estimation", "gt": "47.8", "pred": "100.0", "raw": "100.\nRationale: The is a large sized room.", "score": 0.0}
+{"id": 640, "task": "room_size_estimation", "gt": "51.8", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.05263157894736842}
+{"id": 641, "task": "room_size_estimation", "gt": "22.3", "pred": "30.0", "raw": "The size of this room in square meters is 30 square meters.", "score": 0.6842105263157895}
+{"id": 642, "task": "room_size_estimation", "gt": "15.6", "pred": "15.0", "raw": "15\nRationale: The room is 10 square meters.", "score": 1.0}
+{"id": 643, "task": "room_size_estimation", "gt": "21.5", "pred": "10.0", "raw": "10. \nThis room is about 10 square meters.", "score": 0.47368421052631576}
+{"id": 644, "task": "room_size_estimation", "gt": "15.8", "pred": "15.0", "raw": "15.0\nThis room is about 15 square meters.", "score": 0.9473684210526315}
+{"id": 645, "task": "room_size_estimation", "gt": "11.2", "pred": "10.28", "raw": "The size of this room is 10.28 square meters.", "score": 0.9473684210526315}
+{"id": 646, "task": "room_size_estimation", "gt": "10.4", "pred": "10.0", "raw": "10. \nThis room is about 10 square meters.", "score": 1.0}
+{"id": 647, "task": "room_size_estimation", "gt": "16.0", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.10526315789473684}
+{"id": 648, "task": "room_size_estimation", "gt": "13.8", "pred": "100.2", "raw": "The size of this room is 100.2 square meters.", "score": 0.0}
+{"id": 649, "task": "room_size_estimation", "gt": "12.3", "pred": null, "raw": "The video does not provide the exact size of the room in square meters.", "score": 0.0}
+{"id": 650, "task": "room_size_estimation", "gt": "20.8", "pred": "100.0", "raw": "100.\nRationale: The is a medium sized room.", "score": 0.0}
+{"id": 651, "task": "room_size_estimation", "gt": "9.8", "pred": null, "raw": "The video does not provide enough information to estimate the size of the room.", "score": 0.0}
+{"id": 652, "task": "room_size_estimation", "gt": "14.2", "pred": "100.0", "raw": "100.\nRationale: The room is a living room.", "score": 0.0}
+{"id": 653, "task": "room_size_estimation", "gt": "5.4", "pred": "3.0", "raw": "3.\nThe size of this room is about 6 square meters.", "score": 0.5789473684210527}
+{"id": 654, "task": "room_size_estimation", "gt": "17.7", "pred": "20.0", "raw": "My estimate for the size of this room is 20 square meters.", "score": 0.8947368421052632}
+{"id": 655, "task": "room_size_estimation", "gt": "24.3", "pred": "4.5", "raw": "4.5.\n\nThis room is about 5 square meters.", "score": 0.15789473684210525}
+{"id": 656, "task": "room_size_estimation", "gt": "39.3", "pred": "12.5", "raw": "The size of this room is approximately 12.5 square meters.", "score": 0.3157894736842105}
+{"id": 657, "task": "room_size_estimation", "gt": "40.9", "pred": "11.28", "raw": "The size of this room is 11.28 square meters.", "score": 0.2631578947368421}
+{"id": 658, "task": "room_size_estimation", "gt": "17.3", "pred": "10.28", "raw": "The size of this room is 10.28 square meters.", "score": 0.5789473684210527}
+{"id": 659, "task": "room_size_estimation", "gt": "24.3", "pred": null, "raw": "The video does not provide the exact size of the room in square meters.", "score": 0.0}
+{"id": 660, "task": "room_size_estimation", "gt": "27.1", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 661, "task": "room_size_estimation", "gt": "12.1", "pred": "100.0", "raw": "100.\nRationale: The is a very sized bathroom.", "score": 0.0}
+{"id": 662, "task": "room_size_estimation", "gt": "13.1", "pred": "15.0", "raw": "15\nRationale: The room is 10 square meters.", "score": 0.8947368421052632}
+{"id": 663, "task": "room_size_estimation", "gt": "25.0", "pred": "10.0", "raw": "10.\nRationale: The room is about ten square meters.", "score": 0.42105263157894735}
+{"id": 664, "task": "room_size_estimation", "gt": "7.8", "pred": "10.28", "raw": "The size of this room is 10.28 square meters.", "score": 0.6842105263157895}
+{"id": 665, "task": "room_size_estimation", "gt": "10.8", "pred": "30.0", "raw": "30. \nThis room is about 30 square meters.", "score": 0.0}
+{"id": 666, "task": "room_size_estimation", "gt": "36.9", "pred": "1.0", "raw": "The size of this room is 1,1.0 square meters.", "score": 0.0}
+{"id": 667, "task": "room_size_estimation", "gt": "8.4", "pred": "10.28", "raw": "The size of this room is 10.28 square meters.", "score": 0.7894736842105263}
+{"id": 668, "task": "room_size_estimation", "gt": "15.2", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.0}
+{"id": 669, "task": "room_size_estimation", "gt": "19.3", "pred": "111.2", "raw": "The size of this room is 111.2 square meters.", "score": 0.0}
+{"id": 670, "task": "room_size_estimation", "gt": "16.3", "pred": "10.0", "raw": "The size of this room is 10.00 square meters.", "score": 0.631578947368421}
+{"id": 671, "task": "room_size_estimation", "gt": "9.2", "pred": "100.0", "raw": "The size of this room is 100.0 square meters.", "score": 0.0}
+{"id": 672, "task": "room_size_estimation", "gt": "10.5", "pred": "10.28", "raw": "The size of this room is 10.28 square meters.", "score": 1.0}
+{"id": 673, "task": "room_size_estimation", "gt": "26.4", "pred": "100.0", "raw": "100\nThis room is about 100 square meters.", "score": 0.0}
+{"id": 674, "task": "room_size_estimation", "gt": "25.6", "pred": "12.5", "raw": "The size of this room is about 12.5 square meters.", "score": 0.47368421052631576}
+{"id": 675, "task": "room_size_estimation", "gt": "15.5", "pred": "30.0", "raw": "The size of the room in square meters is 30 square meters.", "score": 0.05263157894736842}
+{"id": 676, "task": "room_size_estimation", "gt": "8.7", "pred": "8.0", "raw": "8.\nThe size of this room is about 8 square meters.", "score": 0.9473684210526315}
+{"id": 677, "task": "room_size_estimation", "gt": "12.3", "pred": "11.5", "raw": "The size of this room is about 11.5 square meters.", "score": 0.9473684210526315}
+{"id": 678, "task": "room_size_estimation", "gt": "38.0", "pred": "100.0", "raw": "100.\nRationale: The is a medium sized room.", "score": 0.0}
+{"id": 679, "task": "room_size_estimation", "gt": "15.5", "pred": "15.0", "raw": "15\nRationale: The room is 10 square meters.", "score": 1.0}
+{"id": 680, "task": "object_abs_distance", "gt": "2.9", "pred": "0.25", "raw": "0.25.\nRationale: The stove is in meters.", "score": 0.05263157894736842}
+{"id": 681, "task": "object_abs_distance", "gt": "2.9", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very away.", "score": 0.05263157894736842}
+{"id": 682, "task": "object_abs_distance", "gt": "2.1", "pred": "1.25", "raw": "1.25.\nRationale: The distance is one meters.", "score": 0.5789473684210527}
+{"id": 683, "task": "object_abs_distance", "gt": "1.1", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.21052631578947367}
+{"id": 684, "task": "object_abs_distance", "gt": "0.4", "pred": "0.25", "raw": "0.25.\nRationale: Toilet is next to bathtub.", "score": 0.631578947368421}
+{"id": 685, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 686, "task": "object_abs_distance", "gt": "0.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.631578947368421}
+{"id": 687, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.2631578947368421}
+{"id": 688, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.2631578947368421}
+{"id": 689, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The toilet is very close.", "score": 0.3684210526315789}
+{"id": 690, "task": "object_abs_distance", "gt": "2.1", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.10526315789473684}
+{"id": 691, "task": "object_abs_distance", "gt": "3.2", "pred": "0.0", "raw": "0.0.\n\ne: The bed is behind the table.", "score": 0.0}
+{"id": 692, "task": "object_abs_distance", "gt": "4.2", "pred": "0.25", "raw": "0.25.\nRationale: The bed is very away.", "score": 0.05263157894736842}
+{"id": 693, "task": "object_abs_distance", "gt": "2.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.05263157894736842}
+{"id": 694, "task": "object_abs_distance", "gt": "3.0", "pred": "1.25", "raw": "1.25.\nRationale: The distance is in meters.", "score": 0.42105263157894735}
+{"id": 695, "task": "object_abs_distance", "gt": "1.1", "pred": "1.25", "raw": "1.25.\nRationale: The distance is in meters.", "score": 0.8947368421052632}
+{"id": 696, "task": "object_abs_distance", "gt": "1.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.15789473684210525}
+{"id": 697, "task": "object_abs_distance", "gt": "0.5", "pred": "0.5", "raw": "0.5.\n\nRationale: The distance is half meters.", "score": 1.0}
+{"id": 698, "task": "object_abs_distance", "gt": "4.4", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very away.", "score": 0.05263157894736842}
+{"id": 699, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.15789473684210525}
+{"id": 700, "task": "object_abs_distance", "gt": "2.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 701, "task": "object_abs_distance", "gt": "0.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.631578947368421}
+{"id": 702, "task": "object_abs_distance", "gt": "2.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 703, "task": "object_abs_distance", "gt": "3.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 704, "task": "object_abs_distance", "gt": "2.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.10526315789473684}
+{"id": 705, "task": "object_abs_distance", "gt": "1.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.15789473684210525}
+{"id": 706, "task": "object_abs_distance", "gt": "1.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.10526315789473684}
+{"id": 707, "task": "object_abs_distance", "gt": "2.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.10526315789473684}
+{"id": 708, "task": "object_abs_distance", "gt": "2.4", "pred": "0.25", "raw": "0.25\n\nRationale: The distance is very quarter.", "score": 0.10526315789473684}
+{"id": 709, "task": "object_abs_distance", "gt": "2.1", "pred": "0.25", "raw": "0.25.\nRationale: The dishwasher is very close.", "score": 0.10526315789473684}
+{"id": 710, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.2631578947368421}
+{"id": 711, "task": "object_abs_distance", "gt": "1.2", "pred": "0.5", "raw": "0.5.\n\ne: The tv is behind the sofa.", "score": 0.42105263157894735}
+{"id": 712, "task": "object_abs_distance", "gt": "1.5", "pred": "0.0", "raw": "0.0.\n\ne: The tv is on the table.", "score": 0.0}
+{"id": 713, "task": "object_abs_distance", "gt": "1.8", "pred": "0.0", "raw": "0.0.\n\ne: The chair is behind the tv.", "score": 0.0}
+{"id": 714, "task": "object_abs_distance", "gt": "0.5", "pred": "0.5", "raw": "0.5.\n\ne: The chair is behind the sofa.", "score": 1.0}
+{"id": 715, "task": "object_abs_distance", "gt": "0.7", "pred": "1.25", "raw": "1.25.\nRationale: The tv is in meters.", "score": 0.21052631578947367}
+{"id": 716, "task": "object_abs_distance", "gt": "1.9", "pred": "0.5", "raw": "0.5.\nRationale: The bed is a the bed.", "score": 0.2631578947368421}
+{"id": 717, "task": "object_abs_distance", "gt": "2.7", "pred": "0.0", "raw": "0.0.\n\ne: The tv is on the table.", "score": 0.0}
+{"id": 718, "task": "object_abs_distance", "gt": "2.4", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.10526315789473684}
+{"id": 719, "task": "object_abs_distance", "gt": "1.6", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.15789473684210525}
+{"id": 720, "task": "object_abs_distance", "gt": "0.7", "pred": "0.5", "raw": "0.5.\n\nRationale: The distance is half meters.", "score": 0.7368421052631579}
+{"id": 721, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 722, "task": "object_abs_distance", "gt": "1.1", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.21052631578947367}
+{"id": 723, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.2631578947368421}
+{"id": 724, "task": "object_abs_distance", "gt": "4.7", "pred": "0.0", "raw": "0.0.\n\ne: The tv is above the stove.", "score": 0.0}
+{"id": 725, "task": "object_abs_distance", "gt": "3.5", "pred": "0.5", "raw": "0.5.\n\nRationale: The distance is half meters.", "score": 0.10526315789473684}
+{"id": 726, "task": "object_abs_distance", "gt": "3.2", "pred": "0.0", "raw": "0.0.\n\ne: The tv is above the stool.", "score": 0.0}
+{"id": 727, "task": "object_abs_distance", "gt": "0.4", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.631578947368421}
+{"id": 728, "task": "object_abs_distance", "gt": "1.0", "pred": "0.5", "raw": "0.5.\n\ne: The bed is behind the table.", "score": 0.47368421052631576}
+{"id": 729, "task": "object_abs_distance", "gt": "2.9", "pred": "0.25", "raw": "0.25.\nRationale: The toilet is very close.", "score": 0.05263157894736842}
+{"id": 730, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The toilet is very small.", "score": 0.15789473684210525}
+{"id": 731, "task": "object_abs_distance", "gt": "2.3", "pred": "0.0", "raw": "0.0.\n\ne: The tv is above the bed.", "score": 0.0}
+{"id": 732, "task": "object_abs_distance", "gt": "2.3", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.10526315789473684}
+{"id": 733, "task": "object_abs_distance", "gt": "2.3", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.10526315789473684}
+{"id": 734, "task": "object_abs_distance", "gt": "2.6", "pred": "1.5", "raw": "1.5.\nRationale: The tv is on the wall.", "score": 0.5789473684210527}
+{"id": 735, "task": "object_abs_distance", "gt": "2.4", "pred": "1.5", "raw": "1.5.\nRationale: The chair is behind the bed.", "score": 0.631578947368421}
+{"id": 736, "task": "object_abs_distance", "gt": "3.7", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.2631578947368421}
+{"id": 737, "task": "object_abs_distance", "gt": "1.2", "pred": "0.5", "raw": "0.5.\n\nRationale: The distance is half meter.", "score": 0.42105263157894735}
+{"id": 738, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 739, "task": "object_abs_distance", "gt": "3.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 740, "task": "object_abs_distance", "gt": "3.6", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 741, "task": "object_abs_distance", "gt": "1.3", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.15789473684210525}
+{"id": 742, "task": "object_abs_distance", "gt": "2.3", "pred": "0.25", "raw": "0.25.\nRationale: The sofa is very away.", "score": 0.10526315789473684}
+{"id": 743, "task": "object_abs_distance", "gt": "2.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is half quarter.", "score": 0.05263157894736842}
+{"id": 744, "task": "object_abs_distance", "gt": "2.1", "pred": "1.5", "raw": "1.5.\nRationale: The tv is on the refrigerator.", "score": 0.7368421052631579}
+{"id": 745, "task": "object_abs_distance", "gt": "2.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 746, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.3684210526315789}
+{"id": 747, "task": "object_abs_distance", "gt": "3.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 748, "task": "object_abs_distance", "gt": "5.2", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.0}
+{"id": 749, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 750, "task": "object_abs_distance", "gt": "2.1", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.10526315789473684}
+{"id": 751, "task": "object_abs_distance", "gt": "9.1", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.0}
+{"id": 752, "task": "object_abs_distance", "gt": "8.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is the stove.", "score": 0.0}
+{"id": 753, "task": "object_abs_distance", "gt": "5.5", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.0}
+{"id": 754, "task": "object_abs_distance", "gt": "1.0", "pred": "0.0", "raw": "0.0.\n\ne: The stool is near the bed.", "score": 0.0}
+{"id": 755, "task": "object_abs_distance", "gt": "2.6", "pred": "0.5", "raw": "0.5.\n\ne: The bed is behind the table.", "score": 0.15789473684210525}
+{"id": 756, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.2631578947368421}
+{"id": 757, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is half quarter.", "score": 0.21052631578947367}
+{"id": 758, "task": "object_abs_distance", "gt": "2.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 759, "task": "object_abs_distance", "gt": "0.5", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.0}
+{"id": 760, "task": "object_abs_distance", "gt": "0.9", "pred": "0.0", "raw": "0.0.\nRationalRational: The dishwasher is above the stove.", "score": 0.0}
+{"id": 761, "task": "object_abs_distance", "gt": "1.5", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the wall.", "score": 1.0}
+{"id": 762, "task": "object_abs_distance", "gt": "1.6", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the wall.", "score": 0.9473684210526315}
+{"id": 763, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25\n\nRationale: The distance is very quarter.", "score": 0.15789473684210525}
+{"id": 764, "task": "object_abs_distance", "gt": "1.0", "pred": "0.5", "raw": "0.5.\n\ne: The bed is a the bed.", "score": 0.47368421052631576}
+{"id": 765, "task": "object_abs_distance", "gt": "3.4", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 766, "task": "object_abs_distance", "gt": "3.3", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very high.", "score": 0.05263157894736842}
+{"id": 767, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.3684210526315789}
+{"id": 768, "task": "object_abs_distance", "gt": "0.9", "pred": "1.25", "raw": "1.25.\nRationale: The tv is very away.", "score": 0.631578947368421}
+{"id": 769, "task": "object_abs_distance", "gt": "9.4", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very close.", "score": 0.0}
+{"id": 770, "task": "object_abs_distance", "gt": "8.0", "pred": "0.0", "raw": "0.0.\n\ne: The stove is behind the fireplace.", "score": 0.0}
+{"id": 771, "task": "object_abs_distance", "gt": "1.2", "pred": "1.5", "raw": "1.5.\nRationale: The sofa is opposite the fireplace.", "score": 0.7368421052631579}
+{"id": 772, "task": "object_abs_distance", "gt": "3.2", "pred": "1.5", "raw": "1.5.\nRationale: The tv is behind the sofa.", "score": 0.47368421052631576}
+{"id": 773, "task": "object_abs_distance", "gt": "1.7", "pred": "1.5", "raw": "1.5.\nRationale: The tv is near the fireplace.", "score": 0.8947368421052632}
+{"id": 774, "task": "object_abs_distance", "gt": "4.1", "pred": "1.25", "raw": "1.25.\nRationale: The stove is in meters.", "score": 0.3157894736842105}
+{"id": 775, "task": "object_abs_distance", "gt": "5.8", "pred": "0.5", "raw": "0.5.\n\ne: The stove is near the fireplace.", "score": 0.05263157894736842}
+{"id": 776, "task": "object_abs_distance", "gt": "4.8", "pred": "1.25", "raw": "1.25.\nRationale: The stove is very white.", "score": 0.2631578947368421}
+{"id": 777, "task": "object_abs_distance", "gt": "2.1", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.10526315789473684}
+{"id": 778, "task": "object_abs_distance", "gt": "0.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.631578947368421}
+{"id": 779, "task": "object_abs_distance", "gt": "4.2", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 780, "task": "object_abs_distance", "gt": "3.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 781, "task": "object_abs_distance", "gt": "3.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.05263157894736842}
+{"id": 782, "task": "object_abs_distance", "gt": "3.4", "pred": "0.0", "raw": "0.0.\n\ne: The stool is behind the bed.", "score": 0.0}
+{"id": 783, "task": "object_abs_distance", "gt": "1.3", "pred": "1.5", "raw": "1.5.\nRationale: The tv is behind the bed.", "score": 0.8421052631578947}
+{"id": 784, "task": "object_abs_distance", "gt": "2.4", "pred": "1.5", "raw": "1.5.\nRationale: The tv is on the sofa.", "score": 0.631578947368421}
+{"id": 785, "task": "object_abs_distance", "gt": "2.7", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 786, "task": "object_abs_distance", "gt": "1.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.15789473684210525}
+{"id": 787, "task": "object_abs_distance", "gt": "4.4", "pred": "1.5", "raw": "1.5.\nRationale: The stove is behind the tv.", "score": 0.3157894736842105}
+{"id": 788, "task": "object_abs_distance", "gt": "1.6", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the floor.", "score": 0.9473684210526315}
+{"id": 789, "task": "object_abs_distance", "gt": "4.1", "pred": "0.5", "raw": "0.5.\nRationale: The tv is behind the sofa.", "score": 0.10526315789473684}
+{"id": 790, "task": "object_abs_distance", "gt": "1.0", "pred": "0.0", "raw": "0.0.\n\ne: The chair is behind the sofa.", "score": 0.0}
+{"id": 791, "task": "object_abs_distance", "gt": "0.4", "pred": "0.0", "raw": "0.0.\n\ne: The tv is above the fireplace.", "score": 0.0}
+{"id": 792, "task": "object_abs_distance", "gt": "4.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.05263157894736842}
+{"id": 793, "task": "object_abs_distance", "gt": "4.0", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very away.", "score": 0.05263157894736842}
+{"id": 794, "task": "object_abs_distance", "gt": "4.3", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 795, "task": "object_abs_distance", "gt": "3.5", "pred": "0.25", "raw": "0.25.\nRationale: The dishwasher is very close.", "score": 0.05263157894736842}
+{"id": 796, "task": "object_abs_distance", "gt": "1.9", "pred": "1.25", "raw": "1.25.\nRationale: The distance is one meters.", "score": 0.6842105263157895}
+{"id": 797, "task": "object_abs_distance", "gt": "0.5", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.47368421052631576}
+{"id": 798, "task": "object_abs_distance", "gt": "1.3", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.15789473684210525}
+{"id": 799, "task": "object_abs_distance", "gt": "3.6", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 800, "task": "object_abs_distance", "gt": "2.5", "pred": "0.25", "raw": "0.25.\nRationale: The sofa is in meters.", "score": 0.05263157894736842}
+{"id": 801, "task": "object_abs_distance", "gt": "4.0", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.05263157894736842}
+{"id": 802, "task": "object_abs_distance", "gt": "2.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is half quarter.", "score": 0.05263157894736842}
+{"id": 803, "task": "object_abs_distance", "gt": "4.1", "pred": "1.5", "raw": "1.5.\nRationale: The tv is above the refrigerator.", "score": 0.3684210526315789}
+{"id": 804, "task": "object_abs_distance", "gt": "1.4", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.7368421052631579}
+{"id": 805, "task": "object_abs_distance", "gt": "2.1", "pred": "1.5", "raw": "1.5.\nRationale: The stove is behind the refrigerator.", "score": 0.7368421052631579}
+{"id": 806, "task": "object_abs_distance", "gt": "1.5", "pred": "1.5", "raw": "1.5.\nRationale: The tv is above the stove.", "score": 1.0}
+{"id": 807, "task": "object_abs_distance", "gt": "0.8", "pred": "0.25", "raw": "0.25\n\nRationale: The distance is very quarter.", "score": 0.3157894736842105}
+{"id": 808, "task": "object_abs_distance", "gt": "1.5", "pred": "1.5", "raw": "1.5.\nRationale: The tv is above the table.", "score": 1.0}
+{"id": 809, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.2631578947368421}
+{"id": 810, "task": "object_abs_distance", "gt": "2.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 811, "task": "object_abs_distance", "gt": "2.2", "pred": "0.5", "raw": "0.5.\n\ne: The tv is above the bed.", "score": 0.21052631578947367}
+{"id": 812, "task": "object_abs_distance", "gt": "1.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.10526315789473684}
+{"id": 813, "task": "object_abs_distance", "gt": "1.3", "pred": "1.5", "raw": "1.5.\nRationale: The tv is behind the bed.", "score": 0.8421052631578947}
+{"id": 814, "task": "object_abs_distance", "gt": "1.3", "pred": "1.25", "raw": "1.25.\nRationale: The tv is very close.", "score": 1.0}
+{"id": 815, "task": "object_abs_distance", "gt": "2.0", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the wall.", "score": 0.7368421052631579}
+{"id": 816, "task": "object_abs_distance", "gt": "1.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.10526315789473684}
+{"id": 817, "task": "object_abs_distance", "gt": "2.0", "pred": "1.5", "raw": "1.5.\nRationale: The stove is behind the table.", "score": 0.7368421052631579}
+{"id": 818, "task": "object_abs_distance", "gt": "2.2", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.10526315789473684}
+{"id": 819, "task": "object_abs_distance", "gt": "2.3", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.10526315789473684}
+{"id": 820, "task": "object_abs_distance", "gt": "2.3", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.10526315789473684}
+{"id": 821, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.21052631578947367}
+{"id": 822, "task": "object_abs_distance", "gt": "5.3", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.0}
+{"id": 823, "task": "object_abs_distance", "gt": "4.1", "pred": "0.25", "raw": "0.25.\nRationale: The distance is half quarter.", "score": 0.05263157894736842}
+{"id": 824, "task": "object_abs_distance", "gt": "2.5", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 825, "task": "object_abs_distance", "gt": "3.6", "pred": "1.5", "raw": "1.5.\nRationale: The stove is behind the chair.", "score": 0.42105263157894735}
+{"id": 826, "task": "object_abs_distance", "gt": "2.2", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.10526315789473684}
+{"id": 827, "task": "object_abs_distance", "gt": "1.4", "pred": "1.25", "raw": "1.25.\nRationale: The distance is in meters.", "score": 0.8947368421052632}
+{"id": 828, "task": "object_abs_distance", "gt": "1.9", "pred": "0.25", "raw": "0.25.\nRationale: The dishwasher is very close.", "score": 0.10526315789473684}
+{"id": 829, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The dishwasher is very close.", "score": 0.21052631578947367}
+{"id": 830, "task": "object_abs_distance", "gt": "1.7", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.10526315789473684}
+{"id": 831, "task": "object_abs_distance", "gt": "2.6", "pred": "0.25", "raw": "0.25.\nRationale: The stove is a stove.", "score": 0.05263157894736842}
+{"id": 832, "task": "object_abs_distance", "gt": "1.8", "pred": "0.5", "raw": "0.5.\n\ne: The stove is behind the table.", "score": 0.2631578947368421}
+{"id": 833, "task": "object_abs_distance", "gt": "1.3", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.15789473684210525}
+{"id": 834, "task": "object_abs_distance", "gt": "2.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 835, "task": "object_abs_distance", "gt": "1.9", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.10526315789473684}
+{"id": 836, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.21052631578947367}
+{"id": 837, "task": "object_abs_distance", "gt": "1.9", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.10526315789473684}
+{"id": 838, "task": "object_abs_distance", "gt": "2.2", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very close.", "score": 0.10526315789473684}
+{"id": 839, "task": "object_abs_distance", "gt": "4.8", "pred": "0.75", "raw": "0.75.\nRationale: The stove is very away.", "score": 0.15789473684210525}
+{"id": 840, "task": "object_abs_distance", "gt": "1.2", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.21052631578947367}
+{"id": 841, "task": "object_abs_distance", "gt": "0.9", "pred": "0.5", "raw": "0.5.\n\nRationale: The sofa is very away.", "score": 0.5789473684210527}
+{"id": 842, "task": "object_abs_distance", "gt": "2.6", "pred": "1.5", "raw": "1.5.\nRationale: The stove is behind the table.", "score": 0.5789473684210527}
+{"id": 843, "task": "object_abs_distance", "gt": "1.1", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 844, "task": "object_abs_distance", "gt": "1.2", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 845, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.15789473684210525}
+{"id": 846, "task": "object_abs_distance", "gt": "2.4", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.10526315789473684}
+{"id": 847, "task": "object_abs_distance", "gt": "2.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 848, "task": "object_abs_distance", "gt": "2.2", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the floor.", "score": 0.6842105263157895}
+{"id": 849, "task": "object_abs_distance", "gt": "2.3", "pred": "0.0", "raw": "0.\nRational\n: The stove is right next to the bed.", "score": 0.0}
+{"id": 850, "task": "object_abs_distance", "gt": "1.2", "pred": "0.25", "raw": "0.25.\nRationale: The toilet is very close.", "score": 0.21052631578947367}
+{"id": 851, "task": "object_abs_distance", "gt": "0.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.631578947368421}
+{"id": 852, "task": "object_abs_distance", "gt": "1.9", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.5263157894736842}
+{"id": 853, "task": "object_abs_distance", "gt": "1.8", "pred": "0.0", "raw": "0.0.\n\ne: The tv is on the table.", "score": 0.0}
+{"id": 854, "task": "object_abs_distance", "gt": "1.4", "pred": "0.0", "raw": "0.0.\n\ne: The tv is behind the stool.", "score": 0.0}
+{"id": 855, "task": "object_abs_distance", "gt": "1.2", "pred": "0.5", "raw": "0.5.\n\ne: The stove is behind the refrigerator.", "score": 0.42105263157894735}
+{"id": 856, "task": "object_abs_distance", "gt": "1.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.10526315789473684}
+{"id": 857, "task": "object_abs_distance", "gt": "2.0", "pred": "0.5", "raw": "0.5.\nRationalRational: The distance is half the room.", "score": 0.21052631578947367}
+{"id": 858, "task": "object_abs_distance", "gt": "1.3", "pred": "0.25", "raw": "0.25.\nRationale: The distance is half quarter.", "score": 0.15789473684210525}
+{"id": 859, "task": "object_abs_distance", "gt": "1.6", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.631578947368421}
+{"id": 860, "task": "object_abs_distance", "gt": "0.8", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.7894736842105263}
+{"id": 861, "task": "object_abs_distance", "gt": "1.0", "pred": "0.5", "raw": "0.5.\n\ne: The tv is behind the bed.", "score": 0.47368421052631576}
+{"id": 862, "task": "object_abs_distance", "gt": "0.9", "pred": "0.5", "raw": "0.5.\n\nRationale: The bed is very away.", "score": 0.5789473684210527}
+{"id": 863, "task": "object_abs_distance", "gt": "0.4", "pred": "0.0", "raw": "0.0.\n\ne: The tv is on the table.", "score": 0.0}
+{"id": 864, "task": "object_abs_distance", "gt": "0.9", "pred": "0.5", "raw": "0.5.\n\ne: The tv is on the wall.", "score": 0.5789473684210527}
+{"id": 865, "task": "object_abs_distance", "gt": "2.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.05263157894736842}
+{"id": 866, "task": "object_abs_distance", "gt": "2.3", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.10526315789473684}
+{"id": 867, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The dishwasher is very close.", "score": 0.3684210526315789}
+{"id": 868, "task": "object_abs_distance", "gt": "6.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.0}
+{"id": 869, "task": "object_abs_distance", "gt": "8.1", "pred": "1.5", "raw": "1.5.\nRationale: The tv is on the wall.", "score": 0.15789473684210525}
+{"id": 870, "task": "object_abs_distance", "gt": "0.5", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.47368421052631576}
+{"id": 871, "task": "object_abs_distance", "gt": "3.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.05263157894736842}
+{"id": 872, "task": "object_abs_distance", "gt": "8.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.0}
+{"id": 873, "task": "object_abs_distance", "gt": "8.5", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the wall.", "score": 0.15789473684210525}
+{"id": 874, "task": "object_abs_distance", "gt": "8.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.0}
+{"id": 875, "task": "object_abs_distance", "gt": "1.9", "pred": "0.0", "raw": "0.0.\n\ne: The tv is above the bed.", "score": 0.0}
+{"id": 876, "task": "object_abs_distance", "gt": "3.9", "pred": "0.25", "raw": "0.25.\nRationale: The sofa is very away.", "score": 0.05263157894736842}
+{"id": 877, "task": "object_abs_distance", "gt": "1.2", "pred": "1.25", "raw": "1.25.\nRationale: The bed is very away.", "score": 1.0}
+{"id": 878, "task": "object_abs_distance", "gt": "1.7", "pred": "1.25", "raw": "1.25.\nRationale: The tv is very away.", "score": 0.7368421052631579}
+{"id": 879, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.3684210526315789}
+{"id": 880, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.3684210526315789}
+{"id": 881, "task": "object_abs_distance", "gt": "1.8", "pred": "0.5", "raw": "0.5.\n\ne: The distance is half the width.", "score": 0.2631578947368421}
+{"id": 882, "task": "object_abs_distance", "gt": "1.8", "pred": "1.5", "raw": "1.5.\nRationale: The tv is behind the bed.", "score": 0.8421052631578947}
+{"id": 883, "task": "object_abs_distance", "gt": "0.8", "pred": "1.5", "raw": "1.5.\nRationale: The tv is behind the bed.", "score": 0.10526315789473684}
+{"id": 884, "task": "object_abs_distance", "gt": "0.8", "pred": "0.25", "raw": "0.25\n\nRationale: The distance is half quarter.", "score": 0.3157894736842105}
+{"id": 885, "task": "object_abs_distance", "gt": "0.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.3157894736842105}
+{"id": 886, "task": "object_abs_distance", "gt": "0.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.631578947368421}
+{"id": 887, "task": "object_abs_distance", "gt": "1.2", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the room.", "score": 0.7368421052631579}
+{"id": 888, "task": "object_abs_distance", "gt": "1.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.10526315789473684}
+{"id": 889, "task": "object_abs_distance", "gt": "3.4", "pred": "0.25", "raw": "0.25\n\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 890, "task": "object_abs_distance", "gt": "0.9", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.8947368421052632}
+{"id": 891, "task": "object_abs_distance", "gt": "2.2", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.47368421052631576}
+{"id": 892, "task": "object_abs_distance", "gt": "2.2", "pred": "1.5", "raw": "1.5.\nRationale: The stove is behind the tv.", "score": 0.6842105263157895}
+{"id": 893, "task": "object_abs_distance", "gt": "2.3", "pred": "1.5", "raw": "1.5.\nRationale: The tv is on the wall.", "score": 0.6842105263157895}
+{"id": 894, "task": "object_abs_distance", "gt": "0.8", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the wall.", "score": 0.10526315789473684}
+{"id": 895, "task": "object_abs_distance", "gt": "1.0", "pred": "1.5", "raw": "1.5.\nRationale: The distance is across the wall.", "score": 0.47368421052631576}
+{"id": 896, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.2631578947368421}
+{"id": 897, "task": "object_abs_distance", "gt": "2.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.05263157894736842}
+{"id": 898, "task": "object_abs_distance", "gt": "3.9", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.2631578947368421}
+{"id": 899, "task": "object_abs_distance", "gt": "3.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 900, "task": "object_abs_distance", "gt": "1.4", "pred": "0.0", "raw": "0.0.\n\ne: The tv is behind the stool.", "score": 0.0}
+{"id": 901, "task": "object_abs_distance", "gt": "0.4", "pred": "0.5", "raw": "0.5.\n\ne: The distance is half a meter.", "score": 0.7894736842105263}
+{"id": 902, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.15789473684210525}
+{"id": 903, "task": "object_abs_distance", "gt": "4.0", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very high.", "score": 0.05263157894736842}
+{"id": 904, "task": "object_abs_distance", "gt": "1.9", "pred": "1.5", "raw": "1.5.\nRationale: The tv is on the sofa.", "score": 0.7894736842105263}
+{"id": 905, "task": "object_abs_distance", "gt": "3.3", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very close.", "score": 0.05263157894736842}
+{"id": 906, "task": "object_abs_distance", "gt": "1.8", "pred": "1.5", "raw": "1.5.\nRationale: The stove is near the sofa.", "score": 0.8421052631578947}
+{"id": 907, "task": "object_abs_distance", "gt": "4.5", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very close.", "score": 0.05263157894736842}
+{"id": 908, "task": "object_abs_distance", "gt": "3.8", "pred": "1.0", "raw": "one.\nRationale: The bathtub is right next to the bathtub.", "score": 0.2631578947368421}
+{"id": 909, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.15789473684210525}
+{"id": 910, "task": "object_abs_distance", "gt": "1.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is half quarter.", "score": 0.10526315789473684}
+{"id": 911, "task": "object_abs_distance", "gt": "3.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 912, "task": "object_abs_distance", "gt": "3.5", "pred": "0.25", "raw": "0.25\n\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 913, "task": "object_abs_distance", "gt": "1.5", "pred": "1.0", "raw": "one.\nRationale: The bathtub is right next to the bathtub.", "score": 0.6842105263157895}
+{"id": 914, "task": "object_abs_distance", "gt": "0.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.47368421052631576}
+{"id": 915, "task": "object_abs_distance", "gt": "1.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.10526315789473684}
+{"id": 916, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.15789473684210525}
+{"id": 917, "task": "object_abs_distance", "gt": "2.3", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.42105263157894735}
+{"id": 918, "task": "object_abs_distance", "gt": "2.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 919, "task": "object_abs_distance", "gt": "1.6", "pred": "1.0", "raw": "1.0.\nRationale: The distance is 1 meter.", "score": 0.631578947368421}
+{"id": 920, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.15789473684210525}
+{"id": 921, "task": "object_abs_distance", "gt": "4.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.05263157894736842}
+{"id": 922, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.3684210526315789}
+{"id": 923, "task": "object_abs_distance", "gt": "5.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.0}
+{"id": 924, "task": "object_abs_distance", "gt": "3.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.05263157894736842}
+{"id": 925, "task": "object_abs_distance", "gt": "3.2", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 926, "task": "object_abs_distance", "gt": "1.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 927, "task": "object_abs_distance", "gt": "1.1", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.21052631578947367}
+{"id": 928, "task": "object_abs_distance", "gt": "1.4", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.15789473684210525}
+{"id": 929, "task": "object_abs_distance", "gt": "2.0", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.10526315789473684}
+{"id": 930, "task": "object_abs_distance", "gt": "1.2", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.21052631578947367}
+{"id": 931, "task": "object_abs_distance", "gt": "4.4", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.05263157894736842}
+{"id": 932, "task": "object_abs_distance", "gt": "0.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.3157894736842105}
+{"id": 933, "task": "object_abs_distance", "gt": "1.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.10526315789473684}
+{"id": 934, "task": "object_abs_distance", "gt": "1.1", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very away.", "score": 0.21052631578947367}
+{"id": 935, "task": "object_abs_distance", "gt": "0.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is five meters.", "score": 0.3157894736842105}
+{"id": 936, "task": "object_abs_distance", "gt": "0.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.47368421052631576}
+{"id": 937, "task": "object_abs_distance", "gt": "0.9", "pred": "0.5", "raw": "0.5.\nRationale: The chair is near the sofa.", "score": 0.5789473684210527}
+{"id": 938, "task": "object_abs_distance", "gt": "1.6", "pred": "0.0", "raw": "0.0.\n\ne: The tv is behind the sofa.", "score": 0.0}
+{"id": 939, "task": "object_abs_distance", "gt": "1.3", "pred": "0.5", "raw": "0.5.\n\ne: The tv is behind the chair.", "score": 0.3684210526315789}
+{"id": 940, "task": "object_abs_distance", "gt": "3.4", "pred": "0.25", "raw": "0.25.\nRationale: The stove is very away.", "score": 0.05263157894736842}
+{"id": 941, "task": "object_abs_distance", "gt": "2.9", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very small.", "score": 0.05263157894736842}
+{"id": 942, "task": "object_abs_distance", "gt": "0.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.3157894736842105}
+{"id": 943, "task": "object_abs_distance", "gt": "0.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.2631578947368421}
+{"id": 944, "task": "object_abs_distance", "gt": "2.5", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 945, "task": "object_abs_distance", "gt": "3.2", "pred": "0.25", "raw": "0.25.\nRationale: The tv is very close.", "score": 0.05263157894736842}
+{"id": 946, "task": "object_abs_distance", "gt": "1.6", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.15789473684210525}
+{"id": 947, "task": "object_abs_distance", "gt": "0.7", "pred": "0.25", "raw": "0.25.\nRationale: The distance is in meters.", "score": 0.3684210526315789}
+{"id": 948, "task": "object_abs_distance", "gt": "1.9", "pred": "0.0", "raw": "0.0.\n\ne: The table is behind the stove.", "score": 0.0}
+{"id": 949, "task": "object_abs_distance", "gt": "1.5", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.15789473684210525}
+{"id": 950, "task": "object_abs_distance", "gt": "0.8", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.3157894736842105}
+{"id": 951, "task": "object_abs_distance", "gt": "1.5", "pred": "0.5", "raw": "0.5.\n\nRationale: The distance is half meters.", "score": 0.3157894736842105}
+{"id": 952, "task": "object_abs_distance", "gt": "3.2", "pred": "0.25", "raw": "0.25.\nRationale: The distance is half quarter.", "score": 0.05263157894736842}
+{"id": 953, "task": "object_abs_distance", "gt": "5.3", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.0}
+{"id": 954, "task": "object_abs_distance", "gt": "1.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.10526315789473684}
+{"id": 955, "task": "object_abs_distance", "gt": "2.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is very quarter.", "score": 0.05263157894736842}
+{"id": 956, "task": "object_abs_distance", "gt": "1.9", "pred": "0.25", "raw": "0.25.\nRationale: The distance is quarter quarter.", "score": 0.10526315789473684}
+{"id": 957, "task": "object_rel_direction_hard", "gt": "A", "pred": "B", "raw": "B.\nThere is a tv on the right side of the room.", "score": 0.0}
+{"id": 958, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A.\nThe sofa is to your back-left when facing the tv.", "score": 0.0}
+{"id": 959, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nRationale: The tv is to the left of the stove.", "score": 0.0}
+{"id": 960, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A.\nRationale: The toilet is located to the back-left.", "score": 0.0}
+{"id": 961, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A.\nThere is a table to the back-left of the bathtub.", "score": 0.0}
+{"id": 962, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D.\nThe table is to the front-left side of the room.", "score": 1.0}
+{"id": 963, "task": "object_rel_direction_hard", "gt": "A", "pred": "D", "raw": "D.\nThe refrigerator is in the back-left quadrant of the room.", "score": 0.0}
+{"id": 964, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D\nThe table is to your front-left when standing by the dishwasher.", "score": 0.0}
+{"id": 965, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D.\nThe washer is to the front right when facing the dishwasher.", "score": 0.0}
+{"id": 966, "task": "object_rel_direction_hard", "gt": "B", "pred": "D", "raw": "D\nThe table is to the front-left when looking towards the dishwasher.", "score": 0.0}
+{"id": 967, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A table is located to the front-right of the room.\nD.", "score": 0.0}
+{"id": 968, "task": "object_rel_direction_hard", "gt": "A", "pred": "B", "raw": "B\nThe dishwasher is to the front-right when standing by the refrigerator.", "score": 0.0}
+{"id": 969, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\nThe table is on the front right side of the tv.", "score": 1.0}
+{"id": 970, "task": "object_rel_direction_hard", "gt": "D", "pred": "B", "raw": "B.\nThe sofa is to the back when standing by the tv.", "score": 0.0}
+{"id": 971, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A.\nThe chair is to the back-left side of the room.", "score": 0.0}
+{"id": 972, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nThe sofa is to your back-left when standing by the tv.", "score": 0.0}
+{"id": 973, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D.\nThe table is to the right when standing by the tv.", "score": 0.0}
+{"id": 974, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nThe tv is to the front-right when looking face the table.", "score": 1.0}
+{"id": 975, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D\n<Instruction 1>\nD\n<Instruction 1>", "score": 1.0}
+{"id": 977, "task": "object_rel_direction_hard", "gt": "B", "pred": "B", "raw": "B.\nThe stove is on the front-right side of the room.", "score": 1.0}
+{"id": 978, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A.\nRationale: The washer is in the back left corner.", "score": 0.0}
+{"id": 979, "task": "object_rel_direction_hard", "gt": "A", "pred": "C", "raw": "C.\nThe stool is on the front-left side of the stove.", "score": 0.0}
+{"id": 980, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nThe tv is to the front-right when standing by the stove.", "score": 0.0}
+{"id": 981, "task": "object_rel_direction_hard", "gt": "C", "pred": "C", "raw": "C\nRationale: The stool is to the left of the stove.", "score": 1.0}
+{"id": 982, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\nThere is a tv on the right side of the room.", "score": 1.0}
+{"id": 983, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe toilet is to the back right if you face the tv.", "score": 0.0}
+{"id": 984, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A.\nThere is a tv on the right side of the room.", "score": 0.0}
+{"id": 985, "task": "object_rel_direction_hard", "gt": "B", "pred": "D", "raw": "D.\nThere is a toilet in the back-right of the room.", "score": 0.0}
+{"id": 986, "task": "object_rel_direction_hard", "gt": "C", "pred": "B", "raw": "B.\nThere is a wall on the left side of the room.", "score": 0.0}
+{"id": 987, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\nThe toilet is in the back-left corner of the room.", "score": 1.0}
+{"id": 988, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nfront table is to the front right when standing by the bed.", "score": 0.0}
+{"id": 989, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe chair is to your front-left when standing by the bed.", "score": 0.0}
+{"id": 990, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nfront table is to the right of the chair facing the bed.", "score": 0.0}
+{"id": 991, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "The sofa is a sofa in the back of the room.\nB.", "score": 0.0}
+{"id": 992, "task": "object_rel_direction_hard", "gt": "A", "pred": "B", "raw": "B.\nThe washer is on the front-right side of the refrigerator.", "score": 0.0}
+{"id": 993, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe sofa is to the back-left when looking towards the refrigerator.", "score": 0.0}
+{"id": 994, "task": "object_rel_direction_hard", "gt": "B", "pred": "B", "raw": "B\n<start of Image 1>\n<Image 1>", "score": 1.0}
+{"id": 995, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nRationale: The stool is to the left of the tv.", "score": 0.0}
+{"id": 996, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nRationale: The tv is to the right of the refrigerator.", "score": 1.0}
+{"id": 997, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D\n<start of Image 1>\n<Image 1>", "score": 0.0}
+{"id": 998, "task": "object_rel_direction_hard", "gt": "B", "pred": "B", "raw": "B. front-left\n<start description>\n<end of description>", "score": 1.0}
+{"id": 999, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nSimple Answer:\nSimple Answer:\n<Pair 1>", "score": 1.0}
+{"id": 1000, "task": "object_rel_direction_hard", "gt": "D", "pred": "C", "raw": "C.\nThe refrigerator is in the back-right corner of the room.", "score": 0.0}
+{"id": 1001, "task": "object_rel_direction_hard", "gt": "B", "pred": "C", "raw": "C.\nThe refrigerator is in the back-left corner of the room.", "score": 0.0}
+{"id": 1002, "task": "object_rel_direction_hard", "gt": "A", "pred": "B", "raw": "B.\nThe refrigerator is in the back-left corner of the room.", "score": 0.0}
+{"id": 1003, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D.\nThe dishwasher is on the front-left side of the room.", "score": 1.0}
+{"id": 1004, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D.\nThe refrigerator is in the back-left quadrant of the room.", "score": 0.0}
+{"id": 1005, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nRationale: The tv is to the left of the fireplace.", "score": 0.0}
+{"id": 1006, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\nThe fireplace is to your front-right when facing the tv.", "score": 1.0}
+{"id": 1007, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nRationale: The tv is to the right of the sofa.", "score": 0.0}
+{"id": 1008, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe tv is to the back-left when standing by the bed.", "score": 0.0}
+{"id": 1009, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nfront-right\nThe sofa is to the right of the tv.", "score": 0.0}
+{"id": 1010, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nfront-left:\nfront-left:\n<Image 1>", "score": 1.0}
+{"id": 1011, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\n<start of Image 1>\n<Image 1>", "score": 0.0}
+{"id": 1012, "task": "object_rel_direction_hard", "gt": "B", "pred": "B", "raw": "B\n<start of Image 1>\n<Image 1>", "score": 1.0}
+{"id": 1013, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\n<start of Image 1>\n<Image 1>", "score": 1.0}
+{"id": 1014, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nRationale: The washer is to the left of the tv.", "score": 0.0}
+{"id": 1015, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D\nRationale: The tv is to the left of the washer.", "score": 0.0}
+{"id": 1016, "task": "object_rel_direction_hard", "gt": "D", "pred": "C", "raw": "C\nRationale: The washer is to the left of the tv.", "score": 0.0}
+{"id": 1017, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nRationale: The dishwasher is to the left of the tv.", "score": 1.0}
+{"id": 1018, "task": "object_rel_direction_hard", "gt": "D", "pred": "C", "raw": "C\nRationale: The tv is to the left of the dishwasher.", "score": 0.0}
+{"id": 1019, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D\nRationale: The dishwasher is to the left of the tv.", "score": 0.0}
+{"id": 1020, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThere is a sofa sofa on the back-right of the room.", "score": 0.0}
+{"id": 1021, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\n<Instruction 1>\n\n<Instruction 2>", "score": 1.0}
+{"id": 1022, "task": "object_rel_direction_hard", "gt": "C", "pred": "C", "raw": "C\nRationale: The stool is to the left of the tv.", "score": 1.0}
+{"id": 1023, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThe tv is to the back-right when standing face the stool.", "score": 0.0}
+{"id": 1024, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D\nRationale: The stool is to the left of the tv.", "score": 1.0}
+{"id": 1025, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThe tv is to the back-right when standing by the refrigerator.", "score": 0.0}
+{"id": 1026, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\nThe stove is to the front right side of the refrigerator.", "score": 1.0}
+{"id": 1027, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A.\nThe tv is on the back-left side of the room.", "score": 0.0}
+{"id": 1028, "task": "object_rel_direction_hard", "gt": "C", "pred": "C", "raw": "C. front-left\nThere are 20 frames in the video.", "score": 1.0}
+{"id": 1029, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nThe table is to your front-right if you face the stove.", "score": 1.0}
+{"id": 1030, "task": "object_rel_direction_hard", "gt": "B", "pred": "D", "raw": "D. front-left\nThere are 20 frames in the video.", "score": 0.0}
+{"id": 1031, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D.\nThe stove is on the front right side of the dishwasher.", "score": 1.0}
+{"id": 1032, "task": "object_rel_direction_hard", "gt": "C", "pred": "C", "raw": "C.\nThe dishwasher is to the front-left when facing the stove.", "score": 1.0}
+{"id": 1033, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A \nThe stove is to the front-right side of the dishwasher.", "score": 0.0}
+{"id": 1034, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A. front-left\nThe stove is to the left of the sofa.", "score": 0.0}
+{"id": 1035, "task": "object_rel_direction_hard", "gt": "A", "pred": "C", "raw": "C.\nThe stove is to the back-left side of the tv.", "score": 0.0}
+{"id": 1036, "task": "object_rel_direction_hard", "gt": "B", "pred": "B", "raw": "B \nThe table is to the front right when facing the tv.", "score": 1.0}
+{"id": 1037, "task": "object_rel_direction_hard", "gt": "A", "pred": "B", "raw": "B\nRationale: The stool is to the left of the tv.", "score": 0.0}
+{"id": 1038, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe answer: A\nThe tv is to your back-left.", "score": 0.0}
+{"id": 1039, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A.\nThere is a stool to the back-left of the stove.", "score": 0.0}
+{"id": 1040, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nThe refrigerator is to your back-right when standing by the stove.", "score": 0.0}
+{"id": 1041, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A.\nRationale: The stool is located to the back-left.", "score": 0.0}
+{"id": 1042, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe table is to your front right if you face the tv.", "score": 0.0}
+{"id": 1043, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nThe answer: A\nThe tv is to your back-right.", "score": 0.0}
+{"id": 1044, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nfront table is to the right of you standing by the tv.", "score": 1.0}
+{"id": 1045, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nfront-right: The chair is to the right of the bed.", "score": 0.0}
+{"id": 1046, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nThe Answer: A\nThe tv is to your back-right.", "score": 0.0}
+{"id": 1047, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nfront-right: The chair is to the right of the tv.", "score": 1.0}
+{"id": 1048, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D.\nThe table is on the front-right side of the dishwasher.", "score": 1.0}
+{"id": 1049, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D.\nRationale: The dishwasher is to the front right side.", "score": 0.0}
+{"id": 1050, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\nThe table is to the front-left when facing the dishwasher.", "score": 1.0}
+{"id": 1051, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D\n<start of description 1>\n<image 1>", "score": 1.0}
+{"id": 1052, "task": "object_rel_direction_hard", "gt": "B", "pred": "C", "raw": "C\n<start of description 1>\n<Image 1>", "score": 0.0}
+{"id": 1053, "task": "object_rel_direction_hard", "gt": "B", "pred": "B", "raw": "B\n<start of image 1>\n<image 1>", "score": 1.0}
+{"id": 1054, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nRationale: The toilet is to the left of the stove.", "score": 0.0}
+{"id": 1055, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D.\nRationale: The stove is in front of the toilet.", "score": 1.0}
+{"id": 1056, "task": "object_rel_direction_hard", "gt": "A", "pred": "B", "raw": "B\n<New question-answer pairs>\n<Pair 1>", "score": 0.0}
+{"id": 1057, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D.\nThe table is to the front-left when facing the stove.", "score": 1.0}
+{"id": 1058, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nThe stove is to the front-right when standing by the refrigerator.", "score": 1.0}
+{"id": 1059, "task": "object_rel_direction_hard", "gt": "C", "pred": "C", "raw": "C.\nRationale: The washer is back left of the refrigerator.", "score": 1.0}
+{"id": 1060, "task": "object_rel_direction_hard", "gt": "B", "pred": "C", "raw": "C.\nThe table is to the front-left when facing the washer.", "score": 0.0}
+{"id": 1061, "task": "object_rel_direction_hard", "gt": "A", "pred": "C", "raw": "C.\nRationale: The washer is in the back right corner.", "score": 0.0}
+{"id": 1062, "task": "object_rel_direction_hard", "gt": "D", "pred": "D", "raw": "D. front-left\nThe tv is to the left of the sofa.", "score": 1.0}
+{"id": 1063, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D. front-left\nThe sofa is to the left of the tv.", "score": 0.0}
+{"id": 1064, "task": "object_rel_direction_hard", "gt": "B", "pred": "C", "raw": "C. front-left\nThe tv is to the left of the stool.", "score": 0.0}
+{"id": 1065, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A.\nRationale: The stool is in front of the stove.", "score": 0.0}
+{"id": 1066, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe sofa is to the back-right when looking at the stove.", "score": 0.0}
+{"id": 1067, "task": "object_rel_direction_hard", "gt": "B", "pred": "C", "raw": "C.\nRationale: The stool is in front of the stove.", "score": 0.0}
+{"id": 1068, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nThe table is to the front-right when looking at the sofa.", "score": 1.0}
+{"id": 1069, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThe sofa is to the front-right if you face the table.", "score": 0.0}
+{"id": 1070, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nThere is a coffee table to the front-right of the sofa.", "score": 0.0}
+{"id": 1071, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A sofa is located in the back-right of the room.\nB.", "score": 1.0}
+{"id": 1072, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A.\nThe bathtub is to your back-left when facing the sofa.", "score": 0.0}
+{"id": 1073, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A sofa is located in the back-right of the room.\nB.", "score": 0.0}
+{"id": 1074, "task": "object_rel_direction_hard", "gt": "A", "pred": "C", "raw": "C\n<start of Image 1>\n<Image 1>", "score": 0.0}
+{"id": 1075, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\n</image>\n<image>\n<Image 1>", "score": 0.0}
+{"id": 1076, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A. front-left\n<start of description\n<start of description>", "score": 0.0}
+{"id": 1077, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A.\nThe stool is in the back-left corner of the room.", "score": 0.0}
+{"id": 1078, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThe washer is to your back-right when standing by the bathtub.", "score": 0.0}
+{"id": 1079, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nThe table is to your front-right when standing by the stove.", "score": 1.0}
+{"id": 1080, "task": "object_rel_direction_hard", "gt": "D", "pred": "C", "raw": "C.\nThe refrigerator is in the back-right corner of the room.", "score": 0.0}
+{"id": 1081, "task": "object_rel_direction_hard", "gt": "D", "pred": null, "raw": "The table is to your front-right standing by the refrigerator facing the stove.", "score": 0.0}
+{"id": 1082, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThe tv is on the wall to the left of the sofa.", "score": 0.0}
+{"id": 1083, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D\n<start of Image 1>\n<Image 1>", "score": 0.0}
+{"id": 1084, "task": "object_rel_direction_hard", "gt": "A", "pred": "B", "raw": "the refrigerator\nto my\nback-right.\nThe answer is B.", "score": 0.0}
+{"id": 1085, "task": "object_rel_direction_hard", "gt": "C", "pred": "A", "raw": "A\nThe stove is to the back-right when standing by the tv.", "score": 0.0}
+{"id": 1086, "task": "object_rel_direction_hard", "gt": "D", "pred": null, "raw": "The refrigerator is to the back-right of the stove when facing the tv.", "score": 0.0}
+{"id": 1087, "task": "object_rel_direction_hard", "gt": "A", "pred": "D", "raw": "D.\nRationale: The washer is in the back right corner.", "score": 0.0}
+{"id": 1088, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThe toilet is to the front of the bathtub on the left.", "score": 0.0}
+{"id": 1089, "task": "object_rel_direction_hard", "gt": "C", "pred": "B", "raw": "B.\nRationale: The washer is to the back right side.", "score": 0.0}
+{"id": 1090, "task": "object_rel_direction_hard", "gt": "D", "pred": "B", "raw": "B.\nThe table is in the back-left corner of the room.", "score": 0.0}
+{"id": 1091, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A.\nThe stove is to the front-left side of the refrigerator.", "score": 0.0}
+{"id": 1092, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A.\nThe table is on the front-right side of the room.", "score": 1.0}
+{"id": 1093, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A\nThe toilet is to your back-left if you face the washer.", "score": 0.0}
+{"id": 1094, "task": "object_rel_direction_hard", "gt": "B", "pred": "A", "raw": "A\nThe washer is to the back-right when looking towards the toilet.", "score": 0.0}
+{"id": 1095, "task": "object_rel_direction_hard", "gt": "C", "pred": "D", "raw": "D.\nRationale: The toilet is located to the back-left.", "score": 0.0}
+{"id": 1096, "task": "object_rel_direction_hard", "gt": "A", "pred": "A", "raw": "A\nThe stove is to the front-right in relation to the refrigerator.", "score": 1.0}
+{"id": 1097, "task": "object_rel_direction_hard", "gt": "D", "pred": "A", "raw": "A.\nRationale: The refrigerator is back left of the stove.", "score": 0.0}
+{"id": 1098, "task": "object_rel_direction_hard", "gt": "C", "pred": "C", "raw": "C. front-left\n\n\n:\n\n<start of description>", "score": 1.0}
+{"id": 1099, "task": "object_rel_direction_hard", "gt": "B", "pred": "D", "raw": "D\n<start of Image 1>\n<Image 1>", "score": 0.0}
+{"id": 1100, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe tv is on the other side of the room.", "score": 0.0}
+{"id": 1101, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The sofa is in front of the tv.", "score": 0.0}
+{"id": 1102, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nThe flat mounted tv is on the right side of the stove.", "score": 0.0}
+{"id": 1103, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The bed is directly away from the bathtub.", "score": 0.0}
+{"id": 1104, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe table is on the right side of the bathtub.", "score": 0.0}
+{"id": 1105, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The bed is to the left of the bathtub.", "score": 0.0}
+{"id": 1106, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A. left\nThere is a toilet to the left of the bathtub.", "score": 1.0}
+{"id": 1107, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The bed is to the back of the bathroom.", "score": 0.0}
+{"id": 1108, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C\nRationale: The table is to the left of the refrigerator.", "score": 1.0}
+{"id": 1109, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C. back\nThe refrigerator is located to the left of the stove.", "score": 0.0}
+{"id": 1110, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nRationale: The table is in front of the refrigerator.", "score": 0.0}
+{"id": 1111, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe fireplace is on the left side of the sofa.", "score": 0.0}
+{"id": 1112, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A\nThe table is to your right if you stand by the sofa.", "score": 1.0}
+{"id": 1113, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nThe fireplace is to your back if you are facing the sofa.", "score": 0.0}
+{"id": 1114, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The table is to the left of the dishwasher.", "score": 0.0}
+{"id": 1115, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe washer is on the right side of the dishwasher.", "score": 0.0}
+{"id": 1116, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The table is in front of the dishwasher.", "score": 0.0}
+{"id": 1117, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The washer is to the left of the dishwasher.", "score": 0.0}
+{"id": 1118, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B\nRationale: The dishwasher is to the right of the refrigerator.", "score": 0.0}
+{"id": 1119, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nThe washer is to your back if you stand by the dishwasher.", "score": 0.0}
+{"id": 1120, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The table is right front of the tv.", "score": 1.0}
+{"id": 1121, "task": "object_rel_direction_medium", "gt": "A", "pred": null, "raw": "Rationale: The sofa is to the right when standing at the tv.", "score": 0.0}
+{"id": 1122, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The table is in left of the tv.", "score": 1.0}
+{"id": 1123, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe table is on the right side of the bed.", "score": 0.0}
+{"id": 1124, "task": "object_rel_direction_medium", "gt": "C", "pred": "B", "raw": "B.\nRationale: The tv is in front of the bed.", "score": 0.0}
+{"id": 1125, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\n\nThe table is on the right side of the bed.", "score": 1.0}
+{"id": 1126, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The tv is in front of the cabinet.", "score": 0.0}
+{"id": 1128, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A\nThe tv is to your back if you are facing the sofa.", "score": 1.0}
+{"id": 1129, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The stove is to the left of the refrigerator.", "score": 0.0}
+{"id": 1130, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The washer is located left of the stove.", "score": 1.0}
+{"id": 1131, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The stove is to the left of the refrigerator.", "score": 0.0}
+{"id": 1132, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nThe stool is to the left when standing by the stove.", "score": 0.0}
+{"id": 1133, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nRationale: The tv is right right of the stove.", "score": 0.0}
+{"id": 1134, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nThe stool is to your left if you face the stove.", "score": 1.0}
+{"id": 1135, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The tv is right right of the toilet.", "score": 1.0}
+{"id": 1136, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The toilet is right right of the tv.", "score": 0.0}
+{"id": 1137, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The tv is directly left of the bed.", "score": 1.0}
+{"id": 1138, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C.\nRationale: The toilet is in front of the bed.", "score": 0.0}
+{"id": 1139, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\nRationale: The table is directly left of the toilet.", "score": 1.0}
+{"id": 1140, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A. right\nThe table is on the right side of the bed.", "score": 0.0}
+{"id": 1141, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The chair is in front of the bed.", "score": 0.0}
+{"id": 1142, "task": "object_rel_direction_medium", "gt": "A", "pred": null, "raw": "Rationale: The sofa is on the right side opposite to the refrigerator.", "score": 0.0}
+{"id": 1143, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\nRationale: The tv is in front of the refrigerator.", "score": 0.0}
+{"id": 1144, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The stool is in front of the tv.", "score": 0.0}
+{"id": 1145, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nRationale: The tv is directly left of the refrigerator.", "score": 0.0}
+{"id": 1146, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The table is to the left of the bed.", "score": 0.0}
+{"id": 1147, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The stool is left left of the bed.", "score": 1.0}
+{"id": 1148, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The table is to the right of the bed.", "score": 0.0}
+{"id": 1149, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nRationale: The refrigerator is left left of the dishwasher.", "score": 0.0}
+{"id": 1150, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The dishwasher is directly left of the refrigerator.", "score": 1.0}
+{"id": 1151, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The refrigerator is directly right of the dishwasher.", "score": 0.0}
+{"id": 1152, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\nRationale: The tv is facing away from the sofa.", "score": 0.0}
+{"id": 1153, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The fireplace is in front of the tv.", "score": 0.0}
+{"id": 1154, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\nRationale: The tv is facing away from the sofa.", "score": 0.0}
+{"id": 1155, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C. left\nRationale: The tv is on the left side.", "score": 0.0}
+{"id": 1156, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A. back\nRationale: The stool is next to the bed.", "score": 0.0}
+{"id": 1157, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nExplanation: The tv is on the left side of the room.", "score": 0.0}
+{"id": 1158, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nRationale: The dishwasher is right next to the tv.", "score": 0.0}
+{"id": 1159, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The tv is directly left of the dishwasher.", "score": 0.0}
+{"id": 1160, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nRationale: The stool is in left of the tv.", "score": 0.0}
+{"id": 1161, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\n\nThe fireplace is to the right when of the tv.", "score": 0.0}
+{"id": 1162, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The stool is in left of the tv.", "score": 1.0}
+{"id": 1163, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The sofa is in front of the fireplace.", "score": 0.0}
+{"id": 1164, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\n\nThe fireplace is on the right side of the room.", "score": 0.0}
+{"id": 1165, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The sofa is to the left of the tv.", "score": 0.0}
+{"id": 1166, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\nRationale: The stool is in front of the refrigerator.", "score": 0.0}
+{"id": 1167, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The tv is right right of the stove.", "score": 0.0}
+{"id": 1168, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\nRationale: The stove is right next to the tv.", "score": 1.0}
+{"id": 1169, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\nRationale: The tv is right right of the stove.", "score": 1.0}
+{"id": 1170, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The table is in front of the stove.", "score": 0.0}
+{"id": 1171, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The table is in front of the stove.", "score": 1.0}
+{"id": 1172, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The stove is right right of the fireplace.", "score": 1.0}
+{"id": 1173, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The fireplace is in front of the tv.", "score": 0.0}
+{"id": 1174, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nRationale: The tv is in front of the bed.", "score": 0.0}
+{"id": 1175, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\n\nThe fireplace is on the right side of the room.", "score": 1.0}
+{"id": 1176, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The stove is right front of the refrigerator.", "score": 1.0}
+{"id": 1177, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\nThe refrigerator is to your back if you face the stove.", "score": 0.0}
+{"id": 1178, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The stove is to the left of the refrigerator.", "score": 0.0}
+{"id": 1179, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B. right\nThe stove: on the right side of the room.", "score": 1.0}
+{"id": 1180, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C. right\nRationale: The stove is next to the right.", "score": 0.0}
+{"id": 1181, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A. left\nRationale: The stool is next to the tv.", "score": 0.0}
+{"id": 1182, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The tv is directly left of the table.", "score": 1.0}
+{"id": 1183, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A. left\nRationale: The stool is next to the tv.", "score": 1.0}
+{"id": 1184, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "Answer. right\nRationale: The tv is on the right side.", "score": 0.0}
+{"id": 1185, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A. left\nRationale: The stool is closest to left side.", "score": 1.0}
+{"id": 1186, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe tv is on the right side of the table.", "score": 0.0}
+{"id": 1187, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C\nRationale: The stool is to the left of the stove.", "score": 0.0}
+{"id": 1188, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The refrigerator is to the right of the stove.", "score": 0.0}
+{"id": 1189, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A\nRationale: The stool is to the left of the stove.", "score": 1.0}
+{"id": 1190, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A\nThe table is to your right if you are facing the dishwasher.", "score": 1.0}
+{"id": 1191, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C. right\nRationale: The dishwasher is next to the refrigerator.", "score": 0.0}
+{"id": 1192, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The table is in front of the dishwasher.", "score": 1.0}
+{"id": 1193, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A. right\nRationale: The washer is next to the stove.", "score": 1.0}
+{"id": 1194, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The stove is to the right of the washer.", "score": 0.0}
+{"id": 1195, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A. right\nRationale: The washer is next to the fridge.", "score": 0.0}
+{"id": 1196, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The washer is right next to the sink.", "score": 0.0}
+{"id": 1197, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C.\nRationale: The table is left left of the stove.", "score": 0.0}
+{"id": 1198, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The washer is right next to the sink.", "score": 1.0}
+{"id": 1199, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\nRationale: The table is directly left of the stove.", "score": 1.0}
+{"id": 1200, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C\nRationale: The stove is to the right of the refrigerator.", "score": 1.0}
+{"id": 1201, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C.\nRationale: The table is directly left of the stove.", "score": 0.0}
+{"id": 1202, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe stove is on the left side of the room.", "score": 0.0}
+{"id": 1203, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The sofa is right right of the stove.", "score": 0.0}
+{"id": 1204, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The stove is to the left of the sofa.", "score": 0.0}
+{"id": 1205, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\n\nThe tv is on the other side of the room.", "score": 0.0}
+{"id": 1206, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\nRationale: The sofa is in front of the tv.", "score": 1.0}
+{"id": 1207, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C.\nRationale: The tv is on top of the wall.", "score": 0.0}
+{"id": 1208, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A\nRationale: The table is to the right of the sofa.", "score": 1.0}
+{"id": 1209, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The sofa is to the left of the table.", "score": 0.0}
+{"id": 1210, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nThe sofa is in the room behind you and the bathtub.", "score": 0.0}
+{"id": 1211, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\n\nThe bathtub is on the right side of the room.", "score": 1.0}
+{"id": 1212, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\nThe sofa is in the back when viewed from the bathtub.", "score": 0.0}
+{"id": 1213, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The stool is to the left of the washer.", "score": 0.0}
+{"id": 1214, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\n\nThe washer is on the right side of the bathtub.", "score": 1.0}
+{"id": 1215, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\n\nRationale: The stool is facing away of the washer.", "score": 0.0}
+{"id": 1216, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The table is to the left of the refrigerator.", "score": 0.0}
+{"id": 1217, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The refrigerator is to the left of the stove.", "score": 0.0}
+{"id": 1218, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The table is to the left of the refrigerator.", "score": 0.0}
+{"id": 1219, "task": "object_rel_direction_medium", "gt": "A", "pred": "C", "raw": "C.\nRationale: The tv is in front of the chair.", "score": 0.0}
+{"id": 1220, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A.\n\nThe chair is on the right side of the room.", "score": 1.0}
+{"id": 1221, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C.\nRationale: The tv is in front of the sofa.", "score": 0.0}
+{"id": 1222, "task": "object_rel_direction_medium", "gt": "C", "pred": null, "raw": "The refrigerator is to your left when standing by the tv facing the stove.", "score": 0.0}
+{"id": 1223, "task": "object_rel_direction_medium", "gt": "C", "pred": null, "raw": "The stove is to your left when standing by the tv facing the refrigerator.", "score": 0.0}
+{"id": 1224, "task": "object_rel_direction_medium", "gt": "A", "pred": null, "raw": "The refrigerator is to your left when standing by the stove facing the tv.", "score": 0.0}
+{"id": 1225, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A.\n\nThe washer is on the right side of the bathtub.", "score": 0.0}
+{"id": 1226, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A. right\nThe toilet is on the right side of the bathtub.", "score": 1.0}
+{"id": 1227, "task": "object_rel_direction_medium", "gt": "C", "pred": "C", "raw": "C.\nRationale: The washer is right right of the toilet.", "score": 1.0}
+{"id": 1228, "task": "object_rel_direction_medium", "gt": "B", "pred": "C", "raw": "C.\nRationale: The table is right front of the stove.", "score": 0.0}
+{"id": 1229, "task": "object_rel_direction_medium", "gt": "B", "pred": "A", "raw": "A\nRationale: The stove is to the left of the refrigerator.", "score": 0.0}
+{"id": 1230, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A\nRationale: The table is to the left of the stove.", "score": 0.0}
+{"id": 1231, "task": "object_rel_direction_medium", "gt": "A", "pred": "B", "raw": "B.\nRationale: The toilet is right next to the bathtub.", "score": 0.0}
+{"id": 1232, "task": "object_rel_direction_medium", "gt": "C", "pred": "A", "raw": "A.\nRationale: The washer is in front of the toilet.", "score": 0.0}
+{"id": 1233, "task": "object_rel_direction_medium", "gt": "A", "pred": "A", "raw": "A\nThe refrigerator is in the wall to the left of the stove.", "score": 1.0}
+{"id": 1234, "task": "object_rel_direction_medium", "gt": "B", "pred": "B", "raw": "B.\nRationale: The stove is right right of the refrigerator.", "score": 1.0}
+{"id": 1235, "task": "object_rel_direction_medium", "gt": "B", "pred": null, "raw": "The\nrefrigerator is behind and to the left of the stove.", "score": 0.0}
+{"id": 1236, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The tv is to the right of the sofa.", "score": 1.0}
+{"id": 1237, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The sofa is to the left of the tv.", "score": 0.0}
+{"id": 1238, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The tv is to the left of the stove.", "score": 0.0}
+{"id": 1239, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The bed is to the right of the table.", "score": 1.0}
+{"id": 1240, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The table is to the left of the bed.", "score": 1.0}
+{"id": 1241, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The bed is to the right of the bathtub.", "score": 0.0}
+{"id": 1242, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The table is to the left of the refrigerator.", "score": 1.0}
+{"id": 1243, "task": "object_rel_direction_easy", "gt": "B", "pred": "B", "raw": "B\nRationale: The refrigerator is to the right of the table.", "score": 1.0}
+{"id": 1244, "task": "object_rel_direction_easy", "gt": "A", "pred": "B", "raw": "B.\nRationale: It is to the left of the stove.", "score": 0.0}
+{"id": 1245, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The washer is to the left of the dishwasher.", "score": 0.0}
+{"id": 1246, "task": "object_rel_direction_easy", "gt": "A", "pred": "B", "raw": "B\nRationale: The dishwasher is to the right of the washer.", "score": 0.0}
+{"id": 1247, "task": "object_rel_direction_easy", "gt": "B", "pred": "B", "raw": "B\nRationale: The washer is to the left of the refrigerator.", "score": 1.0}
+{"id": 1248, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The chair is to the left of the sofa.", "score": 0.0}
+{"id": 1249, "task": "object_rel_direction_easy", "gt": "A", "pred": null, "raw": "Rationale: The sofa is to the right when standing by the tv.", "score": 0.0}
+{"id": 1250, "task": "object_rel_direction_easy", "gt": "B", "pred": "B", "raw": "B\nRationale: The chair is to the left of the tv.", "score": 1.0}
+{"id": 1251, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The table is to the left of the tv.", "score": 1.0}
+{"id": 1252, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The tv is to the right of the table.", "score": 1.0}
+{"id": 1253, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The table is to the left of the bed.", "score": 0.0}
+{"id": 1254, "task": "object_rel_direction_easy", "gt": "B", "pred": "B", "raw": "B\nRationale: The tv is to the right of the table.", "score": 1.0}
+{"id": 1255, "task": "object_rel_direction_easy", "gt": "A", "pred": "B", "raw": "B\nRationale: The table is to the right of the tv.", "score": 0.0}
+{"id": 1256, "task": "object_rel_direction_easy", "gt": "B", "pred": "B", "raw": "B\nRationale: The stove is to the right of the washer.", "score": 1.0}
+{"id": 1257, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The washer is to the left of the stove.", "score": 1.0}
+{"id": 1258, "task": "object_rel_direction_easy", "gt": "A", "pred": "B", "raw": "B\nRationale: The stove is to the right of the refrigerator.", "score": 0.0}
+{"id": 1259, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The stool is to the left of the tv.", "score": 0.0}
+{"id": 1260, "task": "object_rel_direction_easy", "gt": "A", "pred": "B", "raw": "B\nRationale: The tv is to the right of the stool.", "score": 0.0}
+{"id": 1261, "task": "object_rel_direction_easy", "gt": "B", "pred": "B", "raw": "B\nRationale: The stool is to the left of the stove.", "score": 1.0}
+{"id": 1262, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The tv is to the right of the toilet.", "score": 1.0}
+{"id": 1263, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The toilet is to the right of the tv.", "score": 0.0}
+{"id": 1264, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A\nRationale: The tv is to the right of the table.", "score": 0.0}
+{"id": 1265, "task": "object_rel_direction_easy", "gt": "A", "pred": "B", "raw": "B.\nRationale: The table is right right of the chair.", "score": 0.0}
+{"id": 1267, "task": "object_rel_direction_easy", "gt": "B", "pred": "A", "raw": "A.\nThe sofa is to the right when you face the refrigerator.", "score": 0.0}
+{"id": 1268, "task": "object_rel_direction_easy", "gt": "A", "pred": "A", "raw": "A\nRationale: The tv is to the left of the stool.", "score": 1.0}

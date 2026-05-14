@@ -1,0 +1,5 @@
+{"id": 0, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "There is one table in the room, which is a glass coffee table.", "score": 0.21052631578947367}
+{"id": 1, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one chair visible in the room, located in the kitchen area.", "score": 0.47368421052631576}
+{"id": 2, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon reviewing the image, there is only one table visible in the room.", "score": 0.47368421052631576}
+{"id": 3, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "1", "score": 0.47368421052631576}
+{"id": 4, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "There is one table in the room, which is a glass coffee table.", "score": 0.3157894736842105}

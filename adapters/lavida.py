@@ -11,13 +11,21 @@ the literal string "<image>" into the user content; the helper
 `tokenizer_image_token` then splits on it and stitches IMAGE_TOKEN_INDEX = -200
 into input_ids so the model's prepare_inputs_labels_for_multimodal can splice in
 image embeddings at the right offset.
+
+Video support: pass `modalities=["video"]` and a single stacked frame tensor
+(T, 3, H, W). The model pools spatial features per frame (2x bilinear) and uses
+`add_token_per_grid` (mm_newline_position="grid") to insert a newline token per
+spatial row. Only one `<image>` placeholder appears in the prompt; the model
+splices in all T frames' features at that position.
 """
 import math
-from typing import List
+from typing import List, Optional
 
 import torch
 from PIL import Image
 from transformers import AutoModelForCausalLM, AutoTokenizer
+
+from adapters.video_utils import sample_frames
 
 IMAGE_TOKEN_INDEX = -200
 DEFAULT_IMAGE_TOKEN = "<image>"
@@ -120,6 +128,10 @@ class Adapter:
     BLOCK_LENGTH = 16
     STEPS = 8
 
+    # Video knobs — `eval_vsi.py` overrides `num_frames` from CLI. We default
+    # to 32 frames; if OOM, callers can drop to 16 or 8.
+    num_frames = 32
+
     def setup(self):
         self.tokenizer = AutoTokenizer.from_pretrained(
             self.model_id, trust_remote_code=True,
@@ -136,6 +148,28 @@ class Adapter:
         self.image_processor = self.model.get_vision_tower().image_processor
         self.grid_pinpoints = self.model.config.image_grid_pinpoints
         self.device = next(self.model.parameters()).device
+
+        # Workaround #1: this checkpoint ships with mm_spatial_pool_stride=None,
+        # which raises TypeError (None > 1) inside `encode_multimodals` on the
+        # video path. Set it to 1 to skip the (buggy) "slower_img_feat" branch
+        # entirely; the main video feature path in
+        # `prepare_inputs_labels_for_multimodal` calls get_2dPool() with its
+        # default stride=2 independently, so spatial pooling still happens.
+        # (Using 2 here would trigger `if slower_img_feat != 0` on a tensor,
+        #  which is "Boolean value of Tensor with more than one value is
+        #  ambiguous" — repo bug, only `all_faster_video_features` is read
+        #  downstream, and add_faster_video=False makes those all 0 anyway.)
+        if getattr(self.model.config, "mm_spatial_pool_stride", None) in (None, 0):
+            self.model.config.mm_spatial_pool_stride = 1
+
+        # Workaround #2: tokenizer_model_max_length=4096 is too tight for 32
+        # video frames. With mm_newline_position="grid", each frame contributes
+        # ~14*15=210 tokens after pooling. 32 frames -> ~6720 tokens, plus the
+        # question header -> ~6750. Truncating to 4096 silently drops the
+        # tail (which contains the question and assistant header), so the
+        # model just emits <|endoftext|>. Bump the cap; RoPE theta is 500k so
+        # extrapolation is fine within this range.
+        self.model.config.tokenizer_model_max_length = 8192
 
     @torch.no_grad()
     def infer(self, image_paths: List[str], question: str, choices: str) -> str:
@@ -171,3 +205,68 @@ class Adapter:
             cont = cont[0]
         text = self.tokenizer.batch_decode(cont, skip_special_tokens=True)[0]
         return text.lstrip("!").strip()
+
+    # ------------------------------------------------------------- video API
+    def _build_prompt(self, question: str, options: Optional[List[str]]) -> str:
+        if options:
+            # MCQ — append the lettered choices and ask for a single letter.
+            opts_blob = "\n".join(options)
+            text_blob = f"{question}\n{opts_blob}\nAnswer with the letter only."
+        else:
+            # Numeric / free-form.
+            text_blob = f"{question}\nAnswer with a single number."
+        user_content = f"{DEFAULT_IMAGE_TOKEN}\n{text_blob}"
+        return self.tokenizer.apply_chat_template(
+            [{"role": "user", "content": user_content}],
+            tokenize=False,
+            add_generation_prompt=True,
+        )
+
+    def _frames_to_video_tensor(self, frames: List[Image.Image]) -> torch.Tensor:
+        # Stack frame pixel_values: each frame -> (3, H, W); final -> (T, 3, H, W).
+        per_frame = [
+            self.image_processor.preprocess(f, return_tensors="pt")["pixel_values"][0]
+            for f in frames
+        ]
+        return torch.stack(per_frame, dim=0).to(dtype=torch.bfloat16, device=self.device)
+
+    @torch.no_grad()
+    def infer_video(self, video_path: str, question: str, options) -> str:
+        frames = sample_frames(video_path, num_frames=self.num_frames)
+        if not frames:
+            return ""
+        video_tensor = self._frames_to_video_tensor(frames)   # (T, 3, H, W)
+
+        prompt = self._build_prompt(question, options)
+        input_ids = _tokenizer_image_token(prompt, self.tokenizer).unsqueeze(0).to(self.device)
+
+        # Roomier sampler budget than `infer()` — video answers can be a number
+        # like "3.5" or "12" that wants a few BPE tokens. block_length must
+        # divide max_new_tokens, and steps must be a multiple of (max/block).
+        gen_length = 32
+        block_length = 32
+        steps = 16
+
+        cont = self.model.generate(
+            input_ids,
+            images=[video_tensor],          # list of one (T, 3, H, W) tensor
+            modalities=["video"],           # critical: tells the model to pool
+            image_sizes=None,               # not used on video path
+            do_sample=False,
+            temperature=0.0,
+            max_new_tokens=gen_length,
+            block_length=block_length,
+            steps=steps,
+            tokenizer=self.tokenizer,
+            prefix_lm=False,
+            schedule="shift",
+        )
+        if isinstance(cont, tuple):
+            cont = cont[0]
+        # llada_generate returns the full (prompt + gen) sequence where the
+        # prompt slot is filled with id 0 ("!"). Decoding it all dumps 4k+ of
+        # "!" chars and only `lstrip('!')` leaves an empty tail when the
+        # answer also starts with "!" or eos. Just slice off the prompt:
+        gen_only = cont[:, cont.shape[1] - gen_length:]
+        text = self.tokenizer.batch_decode(gen_only, skip_special_tokens=True)[0]
+        return text.strip()

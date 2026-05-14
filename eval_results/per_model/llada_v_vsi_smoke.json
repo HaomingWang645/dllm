@@ -1,0 +1,32 @@
+{
+  "model": "LLaDA-V",
+  "adapter": "llada_v",
+  "num_frames": 32,
+  "n": 5,
+  "overall_score": 0.0,
+  "mcq_accuracy": 0.0,
+  "numeric_mra": 0.0,
+  "per_task": {
+    "object_counting": {
+      "n": 5,
+      "score_sum": 0.0,
+      "score": 0.0,
+      "parse_fail": 5,
+      "metric": "MRA"
+    }
+  },
+  "latency_s": {
+    "mean": 8.580584621429443,
+    "median": 8.73997950553894,
+    "p95": 8.757895231246948,
+    "min": 7.978551626205444,
+    "max": 8.96799111366272,
+    "total_minutes": 0.7150707284609477
+  },
+  "gpu_memory_gb": {
+    "weights": 17.149701632,
+    "peak_allocated": 45.098878976,
+    "peak_reserved": 54.700015616
+  },
+  "setup_seconds": 7.515589237213135
+}

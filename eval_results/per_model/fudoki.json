@@ -1,0 +1,52 @@
+{
+  "model": "FUDOKI",
+  "adapter": "fudoki",
+  "n": 5712,
+  "overall_accuracy": 0.2708333333333333,
+  "per_task": {
+    "Camera perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 277,
+      "accuracy": 0.2781124497991968,
+      "parse_fail": 2
+    },
+    "Camera perspective - Relative Direction": {
+      "n": 1773,
+      "correct": 506,
+      "accuracy": 0.2853919909757473,
+      "parse_fail": 1
+    },
+    "Person perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 176,
+      "accuracy": 0.17670682730923695,
+      "parse_fail": 3
+    },
+    "Person perspective - Relative Direction": {
+      "n": 842,
+      "correct": 275,
+      "accuracy": 0.32660332541567694,
+      "parse_fail": 40
+    },
+    "Person perspective - Scene Simulation Relative Direction": {
+      "n": 1105,
+      "correct": 313,
+      "accuracy": 0.2832579185520362,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.6608805491142914,
+    "median": 0.6534010171890259,
+    "p95": 0.7041842937469482,
+    "min": 0.6393337249755859,
+    "max": 1.2054643630981445,
+    "total_minutes": 62.91715718905131
+  },
+  "gpu_memory_gb": {
+    "weights": 10.038857216,
+    "peak_allocated": 13.731606016,
+    "peak_reserved": 14.535360512
+  },
+  "setup_seconds": 4.477369785308838
+}

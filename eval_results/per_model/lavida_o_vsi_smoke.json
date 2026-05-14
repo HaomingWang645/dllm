@@ -1,0 +1,32 @@
+{
+  "model": "LaViDa-O",
+  "adapter": "lavida_o",
+  "num_frames": 32,
+  "n": 5,
+  "overall_score": 0.3894736842105263,
+  "mcq_accuracy": 0.0,
+  "numeric_mra": 0.3894736842105263,
+  "per_task": {
+    "object_counting": {
+      "n": 5,
+      "score_sum": 1.9473684210526314,
+      "score": 0.3894736842105263,
+      "parse_fail": 0,
+      "metric": "MRA"
+    }
+  },
+  "latency_s": {
+    "mean": 13.866510391235352,
+    "median": 13.92820692062378,
+    "p95": 14.10528826713562,
+    "min": 13.178323745727539,
+    "max": 14.393027067184448,
+    "total_minutes": 1.1555844783782958
+  },
+  "gpu_memory_gb": {
+    "weights": 22.18954496,
+    "peak_allocated": 27.088296448,
+    "peak_reserved": 29.672603648
+  },
+  "setup_seconds": 6.758613109588623
+}

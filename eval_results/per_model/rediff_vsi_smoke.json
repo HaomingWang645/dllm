@@ -1,0 +1,32 @@
+{
+  "model": "ReDiff",
+  "adapter": "rediff",
+  "num_frames": 32,
+  "n": 5,
+  "overall_score": 0.0,
+  "mcq_accuracy": 0.0,
+  "numeric_mra": 0.0,
+  "per_task": {
+    "object_counting": {
+      "n": 5,
+      "score_sum": 0.0,
+      "score": 0.0,
+      "parse_fail": 5,
+      "metric": "MRA"
+    }
+  },
+  "latency_s": {
+    "mean": 6.481982088088989,
+    "median": 6.278625249862671,
+    "p95": 6.990140676498413,
+    "min": 5.821634769439697,
+    "max": 7.1759796142578125,
+    "total_minutes": 0.5401940266291301
+  },
+  "gpu_memory_gb": {
+    "weights": 17.149701632,
+    "peak_allocated": 50.969823232,
+    "peak_reserved": 62.534975488
+  },
+  "setup_seconds": 4.927747011184692
+}

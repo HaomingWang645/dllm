@@ -28,6 +28,16 @@ class Adapter:
     steps = 4
     block_length = 8
 
+    # Video frame sampling count. Overridable via CLI (eval_vsi.py sets this
+    # attr from --num-frames before calling setup()).
+    num_frames = 32
+
+    # Generation knobs for video inference (numeric answers may need a couple
+    # more tokens than a single letter).
+    video_gen_length = 16
+    video_steps = 8
+    video_block_length = 16
+
     def setup(self):
         # Silence the chatty repo (`print("Testing ...")` in builder, etc.)
         buf = io.StringIO()
@@ -93,6 +103,66 @@ class Adapter:
                 steps=self.steps,
                 gen_length=self.gen_length,
                 block_length=self.block_length,
+                tokenizer=self.tokenizer,
+                stopping_criteria=["<|eot_id|>"],
+                temperature=0.0,
+            )
+        text = self.tokenizer.batch_decode(cont, skip_special_tokens=True)[0]
+        return text
+
+    @torch.no_grad()
+    def infer_video(self, video_path, question, options):
+        """Video inference for VSI-Bench.
+
+        LLaDA-V (LLaVA-NeXT-based) supports a native "video" modality: a single
+        tensor of shape (N_frames, C, H, W) is passed inside `images=[tensor]`
+        with `modalities=["video"]`. The prompt uses ONE <image> placeholder;
+        the model expands it into the per-frame visual tokens internally
+        (with 2D-pooling for video, controlled by mm_newline_position).
+        """
+        from adapters.video_utils import sample_frames
+        from llava.mm_utils import tokenizer_image_token
+        from llava.constants import IMAGE_TOKEN_INDEX, DEFAULT_IMAGE_TOKEN
+        from llava.conversation import conv_templates
+
+        # 1. Sample frames.
+        frames = sample_frames(video_path, num_frames=self.num_frames)
+
+        # 2. Preprocess as a stacked (N,C,H,W) tensor (video pathway).
+        pixel_values = self.image_processor.preprocess(
+            frames, return_tensors="pt"
+        )["pixel_values"].to(dtype=torch.float16, device=self.device)
+        image_tensor = [pixel_values]  # list with one video tensor
+        image_sizes = [frames[0].size]
+        modalities = ["video"]
+
+        # 3. Build prompt — MCQ vs numeric.
+        if options:
+            options_str = "\n".join(options) if isinstance(options, list) else str(options)
+            text_blob = f"{question}\n{options_str}\nAnswer with the letter only."
+        else:
+            text_blob = f"{question}\nAnswer with a single number."
+        prompt_with_image = DEFAULT_IMAGE_TOKEN + "\n" + text_blob
+
+        conv = copy.deepcopy(conv_templates["llava_llada"])
+        conv.append_message(conv.roles[0], prompt_with_image)
+        conv.append_message(conv.roles[1], None)
+        prompt_question = conv.get_prompt()
+
+        input_ids = tokenizer_image_token(
+            prompt_question, self.tokenizer, IMAGE_TOKEN_INDEX, return_tensors="pt"
+        ).unsqueeze(0).to(self.device)
+
+        buf = io.StringIO()
+        with contextlib.redirect_stdout(buf), contextlib.redirect_stderr(buf):
+            cont = self.model.generate(
+                input_ids,
+                images=image_tensor,
+                image_sizes=image_sizes,
+                modalities=modalities,
+                steps=self.video_steps,
+                gen_length=self.video_gen_length,
+                block_length=self.video_block_length,
                 tokenizer=self.tokenizer,
                 stopping_criteria=["<|eot_id|>"],
                 temperature=0.0,

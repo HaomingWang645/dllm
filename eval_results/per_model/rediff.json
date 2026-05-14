@@ -1,0 +1,52 @@
+{
+  "model": "ReDiff",
+  "adapter": "rediff",
+  "n": 5712,
+  "overall_accuracy": 0.26313025210084034,
+  "per_task": {
+    "Camera perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 216,
+      "accuracy": 0.21686746987951808,
+      "parse_fail": 0
+    },
+    "Camera perspective - Relative Direction": {
+      "n": 1773,
+      "correct": 595,
+      "accuracy": 0.3355893965031021,
+      "parse_fail": 294
+    },
+    "Person perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 280,
+      "accuracy": 0.28112449799196787,
+      "parse_fail": 21
+    },
+    "Person perspective - Relative Direction": {
+      "n": 842,
+      "correct": 200,
+      "accuracy": 0.2375296912114014,
+      "parse_fail": 3
+    },
+    "Person perspective - Scene Simulation Relative Direction": {
+      "n": 1105,
+      "correct": 212,
+      "accuracy": 0.19185520361990951,
+      "parse_fail": 274
+    }
+  },
+  "latency_s": {
+    "mean": 2.2580961992143536,
+    "median": 2.214851140975952,
+    "p95": 3.3226158618927,
+    "min": 0.805199384689331,
+    "max": 5.158719539642334,
+    "total_minutes": 222.67065725723901
+  },
+  "gpu_memory_gb": {
+    "weights": 17.149701632,
+    "peak_allocated": 32.81652224,
+    "peak_reserved": 40.300969984
+  },
+  "setup_seconds": 6.332584381103516
+}

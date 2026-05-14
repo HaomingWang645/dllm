@@ -1,0 +1,52 @@
+{
+  "model": "Lumina-DiMOO",
+  "adapter": "lumina_dimoo",
+  "n": 5712,
+  "overall_accuracy": 0.3445378151260504,
+  "per_task": {
+    "Camera perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 120,
+      "accuracy": 0.12048192771084337,
+      "parse_fail": 0
+    },
+    "Camera perspective - Relative Direction": {
+      "n": 1773,
+      "correct": 593,
+      "accuracy": 0.3344613649182177,
+      "parse_fail": 0
+    },
+    "Person perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 597,
+      "accuracy": 0.5993975903614458,
+      "parse_fail": 0
+    },
+    "Person perspective - Relative Direction": {
+      "n": 842,
+      "correct": 318,
+      "accuracy": 0.37767220902612825,
+      "parse_fail": 0
+    },
+    "Person perspective - Scene Simulation Relative Direction": {
+      "n": 1105,
+      "correct": 340,
+      "accuracy": 0.3076923076923077,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 1.3442438455606376,
+    "median": 1.322585940361023,
+    "p95": 1.4140992164611816,
+    "min": 1.290870189666748,
+    "max": 1.777775526046753,
+    "total_minutes": 127.97366590499878
+  },
+  "gpu_memory_gb": {
+    "weights": 16.753636864,
+    "peak_allocated": 31.677244928,
+    "peak_reserved": 83.244351488
+  },
+  "setup_seconds": 4.84778904914856
+}

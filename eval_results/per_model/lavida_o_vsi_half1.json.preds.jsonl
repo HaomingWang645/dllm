@@ -1,0 +1,51 @@
+{"id": 0, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "There is one table in the room, which is a glass coffee table.", "score": 0.21052631578947367}
+{"id": 1, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, it appears there is one chair visible in the room.", "score": 0.47368421052631576}
+{"id": 2, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Based on the image, there appears to be one table in the room.", "score": 0.47368421052631576}
+{"id": 3, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room.", "score": 0.47368421052631576}
+{"id": 4, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "There is one table in the room, which is a glass coffee table.", "score": 0.3157894736842105}
+{"id": 5, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "Upon reviewing the image, there is only one chair visible in the room.", "score": 0.21052631578947367}
+{"id": 7, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no stools in the room.", "score": 0.0}
+{"id": 8, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, it appears there is one chair visible in the room.", "score": 0.47368421052631576}
+{"id": 9, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room.", "score": 0.47368421052631576}
+{"id": 10, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "There are two tables in the room.", "score": 0.6842105263157895}
+{"id": 11, "task": "object_counting", "gt": "9", "pred": "2.0", "raw": "There are two chairs in the room.", "score": 0.21052631578947367}
+{"id": 12, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "There are two sofas in the room.", "score": 0.47368421052631576}
+{"id": 13, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "There are two tables in the room, a bookshelf and a coffee table.", "score": 1.0}
+{"id": 14, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room, which is a black leather sofa.", "score": 0.47368421052631576}
+{"id": 15, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "Upon close inspection, it appears there is one chair visible in the room.", "score": 0.3157894736842105}
+{"id": 16, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room, which is visible in the image.", "score": 0.47368421052631576}
+{"id": 17, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "There is one table in the room, which is a wooden dining table.", "score": 0.21052631578947367}
+{"id": 18, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "Upon close inspection, it appears there are two chairs visible in the room.", "score": 0.42105263157894735}
+{"id": 19, "task": "object_counting", "gt": "12", "pred": "4.0", "raw": "Upon careful observation, there are a total of four chairs in the room.", "score": 0.3157894736842105}
+{"id": 20, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "There are two chairs in the room.", "score": 0.6842105263157895}
+{"id": 21, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one table in the room, which is located in the corner.", "score": 0.47368421052631576}
+{"id": 22, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room, which is visible in the image.", "score": 0.47368421052631576}
+{"id": 23, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one table in the room.", "score": 0.47368421052631576}
+{"id": 24, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "Upon reviewing the image, there is only one chair visible in the room.", "score": 0.3157894736842105}
+{"id": 25, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "Upon reviewing the image, there is only one sofa visible in the room.", "score": 0.21052631578947367}
+{"id": 26, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no stools in the room.", "score": 0.0}
+{"id": 27, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon reviewing the image, there is only one table visible in the room.", "score": 0.47368421052631576}
+{"id": 28, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "Based on the image, there is only one table visible in the room.", "score": 0.3157894736842105}
+{"id": 29, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Based on the image, there is only one bed visible in the room.", "score": 0.47368421052631576}
+{"id": 30, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "There is one table in the room, which is visible in the image.", "score": 0.3157894736842105}
+{"id": 31, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "Upon close inspection, it appears there are two chairs visible in the room.", "score": 0.47368421052631576}
+{"id": 32, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room, prominently visible in the living area.", "score": 0.47368421052631576}
+{"id": 33, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "1", "score": 0.47368421052631576}
+{"id": 34, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "There are two sofas in the room, as seen in the image provided.", "score": 1.0}
+{"id": 35, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "There is one table in the room, which is a black coffee table.", "score": 0.3157894736842105}
+{"id": 36, "task": "object_counting", "gt": "7", "pred": "2.0", "raw": "There are two chairs in the room, each with a distinct striped pattern.", "score": 0.2631578947368421}
+{"id": 37, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "There is one table in the room, which is a wooden dining table.", "score": 0.21052631578947367}
+{"id": 38, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "Upon reviewing the image, there are 2 chairs visible in the room.", "score": 0.42105263157894735}
+{"id": 39, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "Upon reviewing the image, there is no sofa visible in the room shown.", "score": 0.0}
+{"id": 40, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There is no washer visible in the image, so the answer is zero.", "score": 0.0}
+{"id": 41, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room, which is visible in the image.", "score": 0.47368421052631576}
+{"id": 42, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "There is one table in the room, which is a glass coffee table.", "score": 0.21052631578947367}
+{"id": 43, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Based on the image, there is only one chair visible in the room.", "score": 0.47368421052631576}
+{"id": 44, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room, which is visible in the image.", "score": 0.47368421052631576}
+{"id": 45, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "There is one table in the room, which is visible in the image.", "score": 0.3157894736842105}
+{"id": 46, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no stools in the room.", "score": 0.0}
+{"id": 47, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Based on the image, there is only one chair visible in the room.", "score": 0.47368421052631576}
+{"id": 48, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Based on the image, there is only one bed visible in the room.", "score": 0.47368421052631576}
+{"id": 49, "task": "object_counting", "gt": "8", "pred": "2.0", "raw": "Upon close inspection, it appears there are two chairs visible in the room.", "score": 0.21052631578947367}
+{"id": 50, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one sofa in the room, positioned centrally in the living area.", "score": 0.47368421052631576}
+{"id": 51, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "There are two tables in the room, one kitchen and one dining table.", "score": 0.47368421052631576}

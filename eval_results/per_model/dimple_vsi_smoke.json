@@ -1,0 +1,32 @@
+{
+  "model": "Dimple-7B",
+  "adapter": "dimple",
+  "num_frames": 32,
+  "n": 5,
+  "overall_score": 0.3894736842105263,
+  "mcq_accuracy": 0.0,
+  "numeric_mra": 0.3894736842105263,
+  "per_task": {
+    "object_counting": {
+      "n": 5,
+      "score_sum": 1.9473684210526314,
+      "score": 0.3894736842105263,
+      "parse_fail": 0,
+      "metric": "MRA"
+    }
+  },
+  "latency_s": {
+    "mean": 24.340981245040894,
+    "median": 24.197678089141846,
+    "p95": 24.36740255355835,
+    "min": 23.689093112945557,
+    "max": 25.318090677261353,
+    "total_minutes": 2.028445601463318
+  },
+  "gpu_memory_gb": {
+    "weights": 16.687615488,
+    "peak_allocated": 19.730796032,
+    "peak_reserved": 21.659385856
+  },
+  "setup_seconds": 5.978017330169678
+}

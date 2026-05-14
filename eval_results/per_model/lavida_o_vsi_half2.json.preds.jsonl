@@ -1,0 +1,246 @@
+{"id": 2576, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one door in the room, which is a sliding glass door.", "score": 0.47368421052631576}
+{"id": 2577, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one toilet in the room.", "score": 0.47368421052631576}
+{"id": 2578, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "1", "score": 0.3157894736842105}
+{"id": 2579, "task": "object_counting", "gt": "25", "pred": "3.0", "raw": "Upon reviewing the image, there are three computer towers visible in the room.", "score": 0.10526315789473684}
+{"id": 2580, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "Upon close inspection, there is only one computer mouse visible in the room.", "score": 0.3157894736842105}
+{"id": 2581, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no ceiling lights visible in the image. The answer is zero.", "score": 0.0}
+{"id": 2582, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, it appears there are two keyboards visible in the room.", "score": 1.0}
+{"id": 2583, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "0", "score": 0.0}
+{"id": 2584, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, there is only one power strip visible in the image.", "score": 0.47368421052631576}
+{"id": 2585, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no exhaust fans visible in the image.", "score": 0.0}
+{"id": 2586, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "2", "score": 0.47368421052631576}
+{"id": 2587, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "Upon close inspection, it appears there are two pillows visible in the room.", "score": 0.47368421052631576}
+{"id": 2588, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "1", "score": 0.47368421052631576}
+{"id": 2589, "task": "object_counting", "gt": "6", "pred": "3.0", "raw": "Upon close inspection, there are three potted plants visible in the room.", "score": 0.47368421052631576}
+{"id": 2590, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one table in the room, which is located in the corner.", "score": 0.47368421052631576}
+{"id": 2591, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no chairs in the room.", "score": 0.0}
+{"id": 2592, "task": "object_counting", "gt": "10", "pred": "10.0", "raw": "Upon reviewing the image, there are a total of 10 shoes.", "score": 1.0}
+{"id": 2593, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, it appears there are two pillows visible in the room.", "score": 1.0}
+{"id": 2594, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "Upon closely examining the image, there are no shoes visible in the room.", "score": 0.0}
+{"id": 2595, "task": "object_counting", "gt": "9", "pred": "2.0", "raw": "There are two crates in the room.", "score": 0.21052631578947367}
+{"id": 2596, "task": "object_counting", "gt": "17", "pred": "4.0", "raw": "Upon careful observation, there are a total of four chairs in the room.", "score": 0.21052631578947367}
+{"id": 2597, "task": "object_counting", "gt": "7", "pred": "2.0", "raw": "There are two tables in the room, each accompanied by its own chairs.", "score": 0.2631578947368421}
+{"id": 2598, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "0", "score": 0.0}
+{"id": 2599, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no ceiling lights visible in the room as shown in the image.", "score": 0.0}
+{"id": 2600, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "1", "score": 0.3157894736842105}
+{"id": 2601, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "Upon close inspection, it appears there are no bowls visible in the room.", "score": 0.0}
+{"id": 2602, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, it appears there are two chairs visible in the room.", "score": 1.0}
+{"id": 2603, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "Upon close inspection, it appears there are no pans visible in the room.", "score": 0.0}
+{"id": 2604, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "Upon reviewing the image, there is only one chair visible in the room.", "score": 0.21052631578947367}
+{"id": 2605, "task": "object_counting", "gt": "5", "pred": "1.0", "raw": "There is one table in the room, which is located near the window.", "score": 0.15789473684210525}
+{"id": 2607, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "1", "score": 0.47368421052631576}
+{"id": 2608, "task": "object_counting", "gt": "4", "pred": "0.0", "raw": "0", "score": 0.0}
+{"id": 2609, "task": "object_counting", "gt": "9", "pred": "2.0", "raw": "Upon close inspection, it appears there are two chairs visible in the room.", "score": 0.21052631578947367}
+{"id": 2610, "task": "object_counting", "gt": "8", "pred": "2.0", "raw": "There are two tables in the room, each equipped with multiple computer monitors.", "score": 0.21052631578947367}
+{"id": 2611, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "Upon close inspection, there appears to be only one door in the room.", "score": 0.3157894736842105}
+{"id": 2612, "task": "object_counting", "gt": "6", "pred": "3.0", "raw": "Upon close inspection, there appear to be three keyboards visible in the room.", "score": 0.47368421052631576}
+{"id": 2613, "task": "object_counting", "gt": "9", "pred": "4.0", "raw": "Upon reviewing the image, there are four computer monitors visible in the room.", "score": 0.42105263157894735}
+{"id": 2614, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, there is only one computer mouse visible in the room.", "score": 0.47368421052631576}
+{"id": 2615, "task": "object_counting", "gt": "4", "pred": "1.0", "raw": "Upon reviewing the image, there is only one heater visible in the room.", "score": 0.21052631578947367}
+{"id": 2616, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "There is one chair in the room.", "score": 0.3157894736842105}
+{"id": 2617, "task": "object_counting", "gt": "3", "pred": "0.0", "raw": "0", "score": 0.0}
+{"id": 2618, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, there is only one trash can visible in the room.", "score": 0.47368421052631576}
+{"id": 2619, "task": "object_counting", "gt": "19", "pred": "4.0", "raw": "Upon careful observation, there are a total of four tables in the room.", "score": 0.21052631578947367}
+{"id": 2620, "task": "object_counting", "gt": "16", "pred": "5.0", "raw": "Upon reviewing the image, there are 5 monitors visible in the room.", "score": 0.3157894736842105}
+{"id": 2621, "task": "object_counting", "gt": "10", "pred": "4.0", "raw": "Upon close inspection, there are a total of four keyboards in the room.", "score": 0.42105263157894735}
+{"id": 2622, "task": "object_counting", "gt": "8", "pred": "3.0", "raw": "Upon close inspection, there are 3 computer towers visible in the room.", "score": 0.3684210526315789}
+{"id": 2623, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "There are two whiteboards in the room.", "score": 0.47368421052631576}
+{"id": 2624, "task": "object_counting", "gt": "11", "pred": "2.0", "raw": "There are two chairs in the room.", "score": 0.15789473684210525}
+{"id": 2625, "task": "object_counting", "gt": "8", "pred": "1.0", "raw": "Upon close inspection, there is only one computer mouse visible in the room.", "score": 0.10526315789473684}
+{"id": 2626, "task": "object_counting", "gt": "25", "pred": "2.0", "raw": "Upon close inspection, there are 2 ceiling lights visible in the room.", "score": 0.05263157894736842}
+{"id": 2627, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "There are two chairs in the room.", "score": 0.6842105263157895}
+{"id": 2628, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "There are two tables in the room, each with various items and equipment.", "score": 0.6842105263157895}
+{"id": 2629, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one ceiling light in the room.", "score": 0.47368421052631576}
+{"id": 2630, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "Upon close inspection, it appears there are two monitors present in the room.", "score": 0.6842105263157895}
+{"id": 2631, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "Upon close inspection, there is only one computer mouse visible in the room.", "score": 0.3157894736842105}
+{"id": 2632, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, it appears there is one printer visible in the room.", "score": 0.47368421052631576}
+{"id": 2633, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "There are two plants in the room.", "score": 0.6842105263157895}
+{"id": 2634, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, it appears there are two keyboards visible in the room.", "score": 1.0}
+{"id": 2635, "task": "object_counting", "gt": "4", "pred": "2.0", "raw": "Upon close inspection, it appears there are two buckets visible in the room.", "score": 0.47368421052631576}
+{"id": 2636, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, it appears there is only one bookshelf in the room.", "score": 0.47368421052631576}
+{"id": 2637, "task": "object_counting", "gt": "1", "pred": "1.0", "raw": "There is one refrigerator in the room.", "score": 1.0}
+{"id": 2638, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, it appears there are two pillows visible in the room.", "score": 1.0}
+{"id": 2639, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "Upon reviewing the image, there is only one blanket visible in the room.", "score": 0.3157894736842105}
+{"id": 2640, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "Upon close inspection, there are two potted plants visible in the room.", "score": 0.42105263157894735}
+{"id": 2641, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon reviewing the image, there is only one door visible in the room.", "score": 0.47368421052631576}
+{"id": 2642, "task": "object_counting", "gt": "11", "pred": "2.0", "raw": "There are two tables in the room.", "score": 0.15789473684210525}
+{"id": 2643, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, it appears there are two printers visible in the room.", "score": 1.0}
+{"id": 2644, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, it appears there are two monitors present in the room.", "score": 1.0}
+{"id": 2645, "task": "object_counting", "gt": "14", "pred": "6.0", "raw": "Upon careful observation, there are a total of six chairs in the room.", "score": 0.42105263157894735}
+{"id": 2646, "task": "object_counting", "gt": "3", "pred": "2.0", "raw": "There are two whiteboards in the room.", "score": 0.6842105263157895}
+{"id": 2647, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "There are two ceiling lights in the room.", "score": 0.42105263157894735}
+{"id": 2648, "task": "object_counting", "gt": "5", "pred": "4.0", "raw": "Upon careful observation, there are a total of four chairs in the room.", "score": 0.7894736842105263}
+{"id": 2649, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "There are two tables in the room.", "score": 0.42105263157894735}
+{"id": 2650, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "There are two sofas in the room, each adorned with matching green cushions.", "score": 0.42105263157894735}
+{"id": 2651, "task": "object_counting", "gt": "6", "pred": "6.0", "raw": "Upon careful observation, there are a total of six cushions in the room.", "score": 1.0}
+{"id": 2652, "task": "object_counting", "gt": "2", "pred": "0.0", "raw": "There are no doors in this room.", "score": 0.0}
+{"id": 2653, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one telephone in the room.", "score": 0.47368421052631576}
+{"id": 2654, "task": "object_counting", "gt": "5", "pred": "4.0", "raw": "Upon reviewing the image, there are 4 pillows visible on the bed.", "score": 0.7894736842105263}
+{"id": 2655, "task": "object_counting", "gt": "5", "pred": "2.0", "raw": "2", "score": 0.42105263157894735}
+{"id": 2656, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one chair in the room.", "score": 0.47368421052631576}
+{"id": 2657, "task": "object_counting", "gt": "3", "pred": "1.0", "raw": "There is one suitcase in the room.", "score": 0.3157894736842105}
+{"id": 2658, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "There is one trash can in the room.", "score": 0.47368421052631576}
+{"id": 2659, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "There are two monitors in the room, both placed on the computer desk.", "score": 1.0}
+{"id": 2660, "task": "object_counting", "gt": "2", "pred": "1.0", "raw": "Upon close inspection, there appears to be one plant visible in the room.", "score": 0.47368421052631576}
+{"id": 2661, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "Upon close inspection, there are two pairs of shoes visible in the room.", "score": 1.0}
+{"id": 2662, "task": "object_counting", "gt": "2", "pred": "2.0", "raw": "There are a total of two pillows visible on the bed in the room.", "score": 1.0}
+{"id": 2663, "task": "room_size_estimation", "gt": "18.4", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2664, "task": "room_size_estimation", "gt": "18.0", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2665, "task": "room_size_estimation", "gt": "11.4", "pred": "120.0", "raw": "The estimated size of the room is approximately 120 square meters.", "score": 0.0}
+{"id": 2666, "task": "room_size_estimation", "gt": "18.1", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2667, "task": "room_size_estimation", "gt": "34.6", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2668, "task": "room_size_estimation", "gt": "10.1", "pred": "50.0", "raw": "The room's size is estimated to be approximately 50 square meters.", "score": 0.0}
+{"id": 2669, "task": "room_size_estimation", "gt": "17.4", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2670, "task": "room_size_estimation", "gt": "14.2", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2671, "task": "room_size_estimation", "gt": "17.9", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2672, "task": "room_size_estimation", "gt": "11.9", "pred": "100.0", "raw": "The estimated size of the room is approximately 100 square meters.", "score": 0.0}
+{"id": 2673, "task": "room_size_estimation", "gt": "55.0", "pred": "200.0", "raw": "The estimated size of the room is approximately 200 square meters.", "score": 0.0}
+{"id": 2674, "task": "room_size_estimation", "gt": "15.4", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2675, "task": "room_size_estimation", "gt": "67.1", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2676, "task": "room_size_estimation", "gt": "44.0", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2677, "task": "room_size_estimation", "gt": "55.2", "pred": "100.0", "raw": "The estimated size of the room is approximately 100 square meters.", "score": 0.15789473684210525}
+{"id": 2678, "task": "room_size_estimation", "gt": "52.3", "pred": "100.0", "raw": "The estimated size of the room is approximately 100 square meters.", "score": 0.05263157894736842}
+{"id": 2679, "task": "room_size_estimation", "gt": "6.2", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2680, "task": "room_size_estimation", "gt": "3.5", "pred": "10.0", "raw": "The estimated size of the kitchen space is approximately 10 square meters.", "score": 0.0}
+{"id": 2681, "task": "room_size_estimation", "gt": "8.8", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2682, "task": "room_size_estimation", "gt": "9.1", "pred": "20.0", "raw": "The size of the room appears to be approximately 20 square meters.", "score": 0.0}
+{"id": 2683, "task": "room_size_estimation", "gt": "22.8", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2684, "task": "room_size_estimation", "gt": "8.3", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2685, "task": "room_size_estimation", "gt": "41.4", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2686, "task": "room_size_estimation", "gt": "5.8", "pred": "20.0", "raw": "The estimated total area of the bathroom is approximately 20 square meters.", "score": 0.0}
+{"id": 2687, "task": "room_size_estimation", "gt": "5.3", "pred": "10.0", "raw": "The estimated size of the bathroom shown is approximately 10 square meters.", "score": 0.10526315789473684}
+{"id": 2688, "task": "room_size_estimation", "gt": "14.4", "pred": "50.0", "raw": "The estimated total area of the bathroom is approximately 50 square meters.", "score": 0.0}
+{"id": 2689, "task": "room_size_estimation", "gt": "3.3", "pred": "10.0", "raw": "The estimated size of this bathroom space is approximately 10 square meters.", "score": 0.0}
+{"id": 2690, "task": "room_size_estimation", "gt": "3.3", "pred": "10.0", "raw": "The estimated size of this bathroom room is approximately 10 square meters.", "score": 0.0}
+{"id": 2691, "task": "room_size_estimation", "gt": "6.2", "pred": "10.0", "raw": "The estimated size of the bathroom shown is approximately 10 square meters.", "score": 0.3684210526315789}
+{"id": 2692, "task": "room_size_estimation", "gt": "8.9", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2693, "task": "room_size_estimation", "gt": "6.3", "pred": "50.0", "raw": "The size of the room appears to be approximately 50 square meters.", "score": 0.0}
+{"id": 2694, "task": "room_size_estimation", "gt": "6.3", "pred": "50.0", "raw": "The room's size is estimated to be approximately 50 square meters.", "score": 0.0}
+{"id": 2695, "task": "room_size_estimation", "gt": "6.4", "pred": "100.0", "raw": "The estimated size of the room is approximately 100 square meters.", "score": 0.0}
+{"id": 2696, "task": "room_size_estimation", "gt": "26.5", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2697, "task": "room_size_estimation", "gt": "16.9", "pred": "100.0", "raw": "The estimated size of the room is approximately 100 square meters.", "score": 0.0}
+{"id": 2698, "task": "room_size_estimation", "gt": "12.0", "pred": "50.0", "raw": "The room's size is estimated to be approximately 50 square meters.", "score": 0.0}
+{"id": 2699, "task": "room_size_estimation", "gt": "23.0", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2700, "task": "room_size_estimation", "gt": "15.5", "pred": "50.0", "raw": "The room's size is estimated to be approximately 50 square meters.", "score": 0.0}
+{"id": 2701, "task": "room_size_estimation", "gt": "57.6", "pred": "50.0", "raw": "The estimated size of the single room is approximately 50 square meters.", "score": 0.8947368421052632}
+{"id": 2702, "task": "room_size_estimation", "gt": "128.5", "pred": "100.0", "raw": "The estimated size of the room is approximately 100 square meters.", "score": 0.7894736842105263}
+{"id": 2703, "task": "room_size_estimation", "gt": "24.0", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2704, "task": "room_size_estimation", "gt": "101.2", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.5263157894736842}
+{"id": 2705, "task": "room_size_estimation", "gt": "16.9", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2706, "task": "room_size_estimation", "gt": "27.2", "pred": "500.0", "raw": "The estimated size of the room is approximately 500 square meters.", "score": 0.0}
+{"id": 2707, "task": "room_size_estimation", "gt": "54.1", "pred": "120.0", "raw": "The estimated size of the room is approximately 120 square meters.", "score": 0.0}
+{"id": 2708, "task": "room_size_estimation", "gt": "54.4", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2709, "task": "room_size_estimation", "gt": "42.8", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2710, "task": "room_size_estimation", "gt": "22.8", "pred": "150.0", "raw": "The estimated size of the room is approximately 150 square meters.", "score": 0.0}
+{"id": 2711, "task": "room_size_estimation", "gt": "34.2", "pred": "120.0", "raw": "The estimated size of the room is approximately 120 square meters.", "score": 0.0}
+{"id": 2712, "task": "room_size_estimation", "gt": "10.5", "pred": "25.0", "raw": "The room appears to be approximately 25-30 square meters.", "score": 0.0}
+{"id": 2713, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2714, "task": "obj_appearance_order", "gt": "C", "pred": "A", "raw": "Answer: A", "score": 0.0}
+{"id": 2715, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2716, "task": "obj_appearance_order", "gt": "B", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2717, "task": "obj_appearance_order", "gt": "B", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2718, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2719, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2720, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2721, "task": "obj_appearance_order", "gt": "D", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2722, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2723, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2724, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2725, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2726, "task": "obj_appearance_order", "gt": "A", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2727, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2728, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2729, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2730, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2731, "task": "obj_appearance_order", "gt": "A", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2732, "task": "obj_appearance_order", "gt": "C", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2733, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2734, "task": "obj_appearance_order", "gt": "B", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2735, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2736, "task": "obj_appearance_order", "gt": "D", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2737, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2738, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2739, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2740, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2741, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2742, "task": "obj_appearance_order", "gt": "A", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2743, "task": "obj_appearance_order", "gt": "C", "pred": "B", "raw": "B", "score": 0.0}
+{"id": 2744, "task": "obj_appearance_order", "gt": "D", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2745, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2746, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2747, "task": "obj_appearance_order", "gt": "B", "pred": "A", "raw": "Answer: C", "score": 0.0}
+{"id": 2748, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2749, "task": "obj_appearance_order", "gt": "D", "pred": "B", "raw": "B", "score": 0.0}
+{"id": 2750, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2751, "task": "obj_appearance_order", "gt": "B", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2752, "task": "obj_appearance_order", "gt": "C", "pred": "B", "raw": "B", "score": 0.0}
+{"id": 2753, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2754, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2755, "task": "obj_appearance_order", "gt": "D", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2756, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2757, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2758, "task": "obj_appearance_order", "gt": "D", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2759, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2760, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2761, "task": "obj_appearance_order", "gt": "A", "pred": "B", "raw": "B", "score": 0.0}
+{"id": 2762, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2763, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2764, "task": "obj_appearance_order", "gt": "D", "pred": "C", "raw": "C", "score": 0.0}
+{"id": 2765, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "A", "score": 1.0}
+{"id": 2766, "task": "obj_appearance_order", "gt": "C", "pred": "B", "raw": "B", "score": 0.0}
+{"id": 2767, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2768, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2769, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2770, "task": "obj_appearance_order", "gt": "C", "pred": "C", "raw": "C", "score": 1.0}
+{"id": 2772, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2773, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2774, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "A", "score": 1.0}
+{"id": 2776, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2777, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2778, "task": "obj_appearance_order", "gt": "A", "pred": "B", "raw": "B", "score": 0.0}
+{"id": 2779, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2780, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2781, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2782, "task": "obj_appearance_order", "gt": "B", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2783, "task": "obj_appearance_order", "gt": "C", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2784, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "A", "score": 1.0}
+{"id": 2785, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2786, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2788, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2789, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2790, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2791, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2792, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2793, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2794, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2795, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2797, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2798, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2799, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2800, "task": "obj_appearance_order", "gt": "C", "pred": "B", "raw": "B", "score": 0.0}
+{"id": 2801, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2802, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2803, "task": "obj_appearance_order", "gt": "B", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2804, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "A", "score": 1.0}
+{"id": 2805, "task": "obj_appearance_order", "gt": "B", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2806, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2807, "task": "obj_appearance_order", "gt": "A", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2808, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2811, "task": "obj_appearance_order", "gt": "C", "pred": "D", "raw": "D", "score": 0.0}
+{"id": 2812, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "Answer: C", "score": 1.0}
+{"id": 2813, "task": "obj_appearance_order", "gt": "C", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2814, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "Answer: D", "score": 1.0}
+{"id": 2815, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2816, "task": "obj_appearance_order", "gt": "B", "pred": "A", "raw": "Answer: A", "score": 0.0}
+{"id": 2817, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2818, "task": "obj_appearance_order", "gt": "B", "pred": "A", "raw": "Answer: D", "score": 0.0}
+{"id": 2819, "task": "obj_appearance_order", "gt": "C", "pred": "A", "raw": "Answer: C", "score": 0.0}
+{"id": 2820, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "Answer: C", "score": 1.0}
+{"id": 2821, "task": "obj_appearance_order", "gt": "B", "pred": "A", "raw": "Answer: D", "score": 0.0}
+{"id": 2822, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "A", "score": 1.0}
+{"id": 2823, "task": "obj_appearance_order", "gt": "C", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2824, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}
+{"id": 2825, "task": "obj_appearance_order", "gt": "A", "pred": "A", "raw": "Answer: A", "score": 1.0}
+{"id": 2826, "task": "obj_appearance_order", "gt": "C", "pred": "A", "raw": "Answer: C", "score": 0.0}
+{"id": 2827, "task": "obj_appearance_order", "gt": "B", "pred": "A", "raw": "A", "score": 0.0}
+{"id": 2828, "task": "obj_appearance_order", "gt": "D", "pred": "D", "raw": "D", "score": 1.0}

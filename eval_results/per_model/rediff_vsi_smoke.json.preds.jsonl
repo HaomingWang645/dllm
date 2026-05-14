@@ -1,0 +1,5 @@
+{"id": 0, "task": "object_counting", "gt": "4", "pred": null, "raw": "", "score": 0.0}
+{"id": 1, "task": "object_counting", "gt": "2", "pred": null, "raw": "", "score": 0.0}
+{"id": 2, "task": "object_counting", "gt": "2", "pred": null, "raw": "", "score": 0.0}
+{"id": 3, "task": "object_counting", "gt": "2", "pred": null, "raw": "", "score": 0.0}
+{"id": 4, "task": "object_counting", "gt": "3", "pred": null, "raw": "", "score": 0.0}

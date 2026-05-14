@@ -1,0 +1,52 @@
+{
+  "model": "DiffusionVL-Qwen2.5VL-7B",
+  "adapter": "diffusionvl",
+  "n": 5712,
+  "overall_accuracy": 0.3601190476190476,
+  "per_task": {
+    "Camera perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 343,
+      "accuracy": 0.34437751004016065,
+      "parse_fail": 0
+    },
+    "Camera perspective - Relative Direction": {
+      "n": 1773,
+      "correct": 785,
+      "accuracy": 0.4427523970671179,
+      "parse_fail": 0
+    },
+    "Person perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 361,
+      "accuracy": 0.36244979919678716,
+      "parse_fail": 0
+    },
+    "Person perspective - Relative Direction": {
+      "n": 842,
+      "correct": 300,
+      "accuracy": 0.35629453681710216,
+      "parse_fail": 0
+    },
+    "Person perspective - Scene Simulation Relative Direction": {
+      "n": 1105,
+      "correct": 268,
+      "accuracy": 0.2425339366515837,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.2421312001990337,
+    "median": 0.20916056632995605,
+    "p95": 0.39084935188293457,
+    "min": 0.08450913429260254,
+    "max": 0.854982852935791,
+    "total_minutes": 28.561422554651895
+  },
+  "gpu_memory_gb": {
+    "weights": 16.6264064,
+    "peak_allocated": 18.842704896,
+    "peak_reserved": 20.388511744
+  },
+  "setup_seconds": 4.9
+}

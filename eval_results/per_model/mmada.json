@@ -1,0 +1,52 @@
+{
+  "model": "MMaDA-8B-MixCoT",
+  "adapter": "mmada",
+  "n": 5712,
+  "overall_accuracy": 0.27328431372549017,
+  "per_task": {
+    "Camera perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 323,
+      "accuracy": 0.32429718875502006,
+      "parse_fail": 0
+    },
+    "Camera perspective - Relative Direction": {
+      "n": 1773,
+      "correct": 505,
+      "accuracy": 0.28482797518330516,
+      "parse_fail": 0
+    },
+    "Person perspective - Object View Orientation": {
+      "n": 996,
+      "correct": 216,
+      "accuracy": 0.21686746987951808,
+      "parse_fail": 0
+    },
+    "Person perspective - Relative Direction": {
+      "n": 842,
+      "correct": 274,
+      "accuracy": 0.3254156769596199,
+      "parse_fail": 0
+    },
+    "Person perspective - Scene Simulation Relative Direction": {
+      "n": 1105,
+      "correct": 243,
+      "accuracy": 0.21990950226244343,
+      "parse_fail": 0
+    }
+  },
+  "latency_s": {
+    "mean": 0.3288346155851829,
+    "median": 0.32638871669769287,
+    "p95": 0.36321282386779785,
+    "min": 0.3065364360809326,
+    "max": 0.9235548973083496,
+    "total_minutes": 31.30644944906235
+  },
+  "gpu_memory_gb": {
+    "weights": 16.549192192,
+    "peak_allocated": 20.440794624,
+    "peak_reserved": 43.996151808
+  },
+  "setup_seconds": 4.499512195587158
+}
